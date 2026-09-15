@@ -11,7 +11,7 @@
 For real estate professionals who need a **reusable offline workbook**, retained property deal records, editable financial assumptions, and rapid repeat screening for their acquisition pipeline, the Excel version is available as a one-time purchase with a **30-day, no-questions-asked money-back guarantee**.
 
 *   **🌐 [Try the Free Real Estate Deal Screening Web App]** → Open the interactive HTML calculator included with the project to run a quick preliminary analysis.
-*   **📥 [Download the Reusable Excel Development Feasibility Template]** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
+*   **📥 [Download the Reusable Excel Development Feasibility Template](https://alexhasgreatestuff.gumroad.com/l/mmabu)** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
 
 This toolkit turns an ambiguous early-stage site acquisition question into a structured, data-driven underwriting workflow:
 
@@ -56,7 +56,7 @@ The calculation engine updates automatically as you input data—no manual recal
 ### 4. Export the Investment Memo & Upgrade to the Excel Template for Repeat Use
 **Action:** Archive the screening result and standardize your pipeline.
 Once a site is screened in the browser, export it as a compact, single-page PDF investment screening memo to present to your acquisition committee or lenders. 
-**Loved the free web tool?** To evaluate multiple sites, adjust formulas, save historical deal data, and avoid re-entering your baseline parameters every time, **[download the reusable Excel version of the feasibility template]** for unlimited offline property screening.
+**Loved the free web tool?** To evaluate multiple sites, adjust formulas, save historical deal data, and avoid re-entering your baseline parameters every time, **[download the reusable Excel version of the feasibility template](https://alexhasgreatestuff.gumroad.com/l/mmabu)** for unlimited offline property screening.
 
 ## Why I Built This Property Underwriting Tool
 
