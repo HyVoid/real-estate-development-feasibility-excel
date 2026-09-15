@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate Deal Screener",
+  "description": "Interactive SaaS real estate development feasibility and deal screening application with zero-maintenance dynamic calculations, multi-unit models, exposure matrix, and automated investment verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
