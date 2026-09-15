@@ -10,7 +10,7 @@
 
 For real estate professionals who need a **reusable offline workbook**, retained property deal records, editable financial assumptions, and rapid repeat screening for their acquisition pipeline, the Excel version is available as a one-time purchase with a **30-day, no-questions-asked money-back guarantee**.
 
-*   **🌐 [Try the Free Real Estate Deal Screening Web App]** → Open the interactive HTML calculator included with the project to run a quick preliminary analysis.
+*   **🌐 [Try the Free Real Estate Deal Screening Web App](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Open the interactive HTML calculator included with the project to run a quick preliminary analysis.
 *   **📥 [Download the Reusable Excel Development Feasibility Template](https://alexhasgreatestuff.gumroad.com/l/mmabu)** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
 
 This toolkit turns an ambiguous early-stage site acquisition question into a structured, data-driven underwriting workflow:
