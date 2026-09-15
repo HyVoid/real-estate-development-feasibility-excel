@@ -11,7 +11,7 @@
 For real estate professionals who need a **reusable offline workbook**, retained property deal records, editable financial assumptions, and rapid repeat screening for their acquisition pipeline, the Excel version is available as a one-time purchase with a **30-day, no-questions-asked money-back guarantee**.
 
 *   **🌐 [Try the Free Real Estate Deal Screening Web App](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Open the interactive HTML calculator included with the project to run a quick preliminary analysis.
-*   **📥 [Download the Reusable Excel Development Feasibility Template](https://alexhasgreatestuff.gumroad.com/l/mmabu)** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
+*   **📥 [Download the Reusable Excel Development Feasibility Template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
 
 This toolkit turns an ambiguous early-stage site acquisition question into a structured, data-driven underwriting workflow:
 
@@ -21,12 +21,14 @@ The underlying financial methodology is specifically optimized for **residential
 
 ## Real Estate Development Pain Points Solved: What This Feasibility Template Tracks
 
-*   **Pain: Overpaying for land.** → **Solution:** Calculates **market-supported residual land value** rather than relying on the seller's asking price or broker whispers.
-*   **Pain: Overestimating sales revenue.** → **Solution:** Forecasts **Expected Gross and Net Realization** derived directly from verified comparable residential sales (comps) evidence.
-*   **Pain: Blowing the budget on hidden fees.** → **Solution:** Consolidates **land acquisition costs, hard construction estimates, soft costs (professional/council fees), contingency budgets, and finance holding exposure** into a single project proforma view.
-*   **Pain: Poor density planning.** → **Solution:** Exposes **per-unit economics** for multi-unit townhouse opportunities, detailing land cost per door and average Gross Floor Area (GFA) per unit.
-*   **Pain: Emotional investing decisions.** → **Solution:** Compares actual **Profit on Cost (POC) versus your strict investment hurdle rate**, outputting a definitive `PASS`, `FAIL`, or `PENDING INPUT` commercial decision.
-*   **Pain: Dead-end negotiations.** → **Solution:** Reverse-engineers the **acquisition price required to salvage a weak deal**, transforming vendor negotiation into a precise mathematical variable rather than a separate spreadsheet guessing game.
+| Pain Point | Solution |
+| :--- | :--- |
+| **Overpaying for land** | Calculates **market-supported residual land value** rather than relying on the seller's asking price or broker whispers. |
+| **Overestimating sales revenue** | Forecasts **Expected Gross and Net Realization** derived directly from verified comparable residential sales (comps) evidence. |
+| **Blowing the budget on hidden fees** | Consolidates **land acquisition costs, hard construction estimates, soft costs (professional/council fees), contingency budgets, and finance holding exposure** into a single project proforma view. |
+| **Poor density planning** | Exposes **per-unit economics** for multi-unit townhouse opportunities, detailing land cost per door and average Gross Floor Area (GFA) per unit. |
+| **Emotional investing decisions** | Compares actual **Profit on Cost (POC) versus your strict investment hurdle rate**, outputting a definitive `PASS`, `FAIL`, or `PENDING INPUT` commercial decision. |
+| **Dead-end negotiations** | Reverse-engineers the **acquisition price required to salvage a weak deal**, transforming vendor negotiation into a precise mathematical variable rather than a separate spreadsheet guessing game. |
 
 ## Step-by-Step Tutorial: How to Screen Property Development Deals in Minutes
 
@@ -56,7 +58,7 @@ The calculation engine updates automatically as you input data—no manual recal
 ### 4. Export the Investment Memo & Upgrade to the Excel Template for Repeat Use
 **Action:** Archive the screening result and standardize your pipeline.
 Once a site is screened in the browser, export it as a compact, single-page PDF investment screening memo to present to your acquisition committee or lenders. 
-**Loved the free web tool?** To evaluate multiple sites, adjust formulas, save historical deal data, and avoid re-entering your baseline parameters every time, **[download the reusable Excel version of the feasibility template](https://alexhasgreatestuff.gumroad.com/l/mmabu)** for unlimited offline property screening.
+**Loved the free web tool?** To evaluate multiple sites, adjust formulas, save historical deal data, and avoid re-entering your baseline parameters every time, **[download the reusable Excel version of the feasibility template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** for unlimited offline property screening.
 
 ## Why I Built This Property Underwriting Tool
 
