@@ -20,6 +20,7 @@ This toolkit turns an ambiguous early-stage site acquisition question into a str
 **Assess Residual Land Value → Forecast Gross Realization Value (GRV) from comparable sales → Calculate total property development costs (Hard & Soft) → Evaluate Return on Investment (ROI) against your capital hurdles.**
 
 The underlying financial methodology is specifically optimized for **residential subdivision and multi-family/townhouse development screening**. It is deliberately leaner than a full 60-month cash flow feasibility model. The primary objective is to identify lucrative off-market deals and filter out unviable sites *before* committing substantial capital to architectural due diligence, zoning approvals, capital stack structuring, and formal site acquisition.
+<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 ## Real Estate Development Pain Points Solved: What This Feasibility Template Tracks
 
