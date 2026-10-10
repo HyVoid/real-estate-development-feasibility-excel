@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Real Estate Development Deal Screening Tool: Feasibility & Financial Modeling Excel Template
 
@@ -20,6 +20,7 @@ Deze toolkit verandert een vage vraag over vroege site-acquisitie in een gestruc
 **Beoordeel de Residual Land Value → Voorspel de Gross Realization Value (GRV) op basis van vergelijkbare verkopen → Bereken de totale projectontwikkelingskosten (Hard & Soft) → Evalueer het Return on Investment (ROI) tegen uw kapitaaldrempels.**
 
 De onderliggende financiële methodologie is specifiek geoptimaliseerd voor **het screenen van verkavelingen voor woningbouw en multi-family/townhouse-ontwikkeling**. Het is bewust lichter dan een volledig haalbaarheidsmodel met een cashflow over 60 maanden. Het primaire doel is om lucratieve off-market deals te identificeren en niet-levensvatbare locaties uit te filteren *voordat* aanzienlijk kapitaal wordt besteed aan architectonische due diligence, bestemmingsplan-goedkeuringen, het structureren van de kapitaalstapel en formele site-acquisitie.
+<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 ## Opgeloste pijnpunten in projectontwikkeling: wat deze haalbaarheidstemplate volgt
 
