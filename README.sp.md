@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Herramienta de Filtrado de Proyectos de Desarrollo Inmobiliario: Plantilla Excel de Factibilidad y Modelización Financiera
 
@@ -20,6 +20,7 @@ Este kit de herramientas convierte una pregunta ambigua de adquisición de terre
 **Evaluar el Valor Residual del Terreno → Proyectar el Valor de Realización Bruta (GRV) a partir de ventas comparables → Calcular los costos totales de desarrollo inmobiliario (Duros y Blandos) → Evaluar el Retorno de la Inversión (ROI) frente a tus barreras de capital.**
 
 La metodología financiera subyacente está específicamente optimizada para el **filtrado de subdivisiones residenciales y desarrollos multifamiliares/de viviendas adosadas**. Es deliberadamente más ligera que un modelo completo de factibilidad de flujo de caja a 60 meses. El objetivo principal es identificar operaciones lucrativas fuera de mercado y descartar sitios inviables *antes* de comprometer capital sustancial en la debida diligencia arquitectónica, aprobaciones de zonificación, estructuración de la pila de capital y la adquisición formal del terreno.
+<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 ## Dolores del Desarrollo Inmobiliario Resueltos: Qué Controla Esta Plantilla de Factibilidad
 
