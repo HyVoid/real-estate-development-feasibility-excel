@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Real Estate Development Deal Screening Tool: Feasibility & Financial Modeling Excel Template
 <img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
