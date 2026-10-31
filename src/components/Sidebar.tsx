@@ -105,22 +105,28 @@ export const Sidebar: React.FC<SidebarProps> = ({
         style={{ backgroundColor: 'var(--nav-bg)' }}
       >
         {/* Top Header / Brand Logo */}
-        <div className="h-[64px] border-b border-[var(--color-border)] px-4 flex items-center justify-between shrink-0">
-          <div className="flex items-center gap-3 overflow-hidden">
-            <div className="w-9 h-9 rounded-lg bg-[var(--color-primary)] flex items-center justify-center text-white shrink-0 shadow-sm">
-              <span className="font-serif font-bold text-xl leading-none">D</span>
+        <div className="h-[70px] border-b border-[var(--color-border)] px-3.5 flex items-center justify-between shrink-0">
+          <div className="flex items-center gap-2.5 overflow-hidden">
+            <div
+              className="w-9 h-9 rounded-lg bg-[var(--color-primary)] flex items-center justify-center text-white shrink-0 shadow-sm"
+              title="Theseus Workshop - Real Estate Feasibility & Deal Screener"
+            >
+              <span className="font-serif font-bold text-lg leading-none">T</span>
             </div>
             {!isCollapsed && (
-              <div className="flex flex-col truncate">
-                <div className="flex items-center gap-1.5">
-                  <span className="font-bold text-[14px] tracking-tight text-[var(--color-primary)] font-serif uppercase truncate">
-                    DEALSCREEN
-                  </span>
-                  <span className="text-[9px] px-1.5 py-0.5 rounded bg-[rgba(5,28,44,0.06)] text-[var(--color-primary)] font-semibold tracking-wider uppercase shrink-0">
-                    SaaS
+              <div className="flex flex-col min-w-0 pr-1">
+                <div className="flex items-center gap-1">
+                  <span className="font-bold text-[13.5px] tracking-tight text-[var(--color-primary)] font-serif truncate leading-tight">
+                    Theseus Workshop
                   </span>
                 </div>
-                <div className="flex items-center gap-1.5 text-[10px] text-[var(--color-muted)] truncate">
+                <span
+                  className="text-[10px] text-[var(--color-muted)] font-medium truncate leading-tight mt-0.5"
+                  title="Real Estate Feasibility & Deal Screener (房地产开发项目可行性测算与风控投决)"
+                >
+                  Real Estate Feasibility & Screener
+                </span>
+                <div className="flex items-center gap-1.5 text-[9.5px] text-[var(--color-muted)] mt-1">
                   <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-positive)] animate-pulse shrink-0"></span>
                   <span className="truncate">Saved: {lastSaved || 'Just now'}</span>
                 </div>
@@ -131,7 +137,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           {/* Mobile close button */}
           <button
             onClick={onToggleMobile}
-            className="p-1 rounded-md text-[var(--color-muted)] hover:text-[var(--color-primary)] hover:bg-[rgba(5,28,44,0.05)] md:hidden"
+            className="p-1 rounded-md text-[var(--color-muted)] hover:text-[var(--color-primary)] hover:bg-[rgba(5,28,44,0.05)] md:hidden shrink-0"
             aria-label="Close menu"
           >
             <X className="w-5 h-5" />

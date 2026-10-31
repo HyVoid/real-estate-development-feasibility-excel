@@ -7,13 +7,13 @@ export const Footer: React.FC = () => {
       <div className="max-w-[1400px] mx-auto px-6 lg:px-10 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <div className="w-5 h-5 rounded bg-[var(--color-primary)] text-white flex items-center justify-center text-[10px] font-bold font-serif">
-            D
+            T
           </div>
           <span className="text-[12px] font-semibold text-[var(--color-primary)]">
-            DealScreen Institutional Feasibility Engine
+            Theseus Workshop · Real Estate Feasibility & Deal Screening Engine
           </span>
           <span className="text-[11px] text-[var(--color-muted)]">
-            • Excel Feasibility Study Web Edition
+            • Financial Model & Sensitivity Analysis
           </span>
         </div>
 
