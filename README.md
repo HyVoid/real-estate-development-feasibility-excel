@@ -34,6 +34,14 @@ The underlying financial methodology is specifically optimized for **residential
 | **Emotional investing decisions** | Compares actual **Profit on Cost (POC) versus your strict investment hurdle rate**, outputting a definitive `PASS`, `FAIL`, or `PENDING INPUT` commercial decision. |
 | **Dead-end negotiations** | Reverse-engineers the **acquisition price required to salvage a weak deal**, transforming vendor negotiation into a precise mathematical variable rather than a separate spreadsheet guessing game. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ## Step-by-Step Tutorial: How to Screen Property Development Deals in Minutes
 
 ### 1. Set Your Real Estate Investment Mandate & Baseline Parameters
