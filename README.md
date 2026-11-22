@@ -849,6 +849,23 @@ The result is not a substitute for full due diligence. It is a disciplined filte
 * **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Is each Shopify storefront actually profitable once true SKU-level costs, shared expenses, and bank charges are reconciled? — Reconcile multi-store Shopify sales exports against SKU-level COGS, allocated multi-currency OPEX, and bank statements to produce a trustworthy monthly P&L.
 * **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Which tour bookings actually generate net profit and positive cash flow after supplier costs and B2B collections? — Calculate per-booking tour job costs, gross margins, AR/AP settlement, and operating cash flow across multiple currencies.
 
+## Questions, Feedback & Product Updates
+
+This repository supports **Real Estate Development Feasibility & Deal Screening Tool**. Use the channels below to keep reproducible defects separate from general usage questions and product ideas.
+
+- **Report a reproducible technical issue:** [Open a Real Estate Development Feasibility & Deal Screening Tool bug report](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Include the affected workflow, software environment, and steps to reproduce.
+- **Ask a usage question:** [Theseus Workshop community Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Suggest an improvement or discuss a use case:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Follow product announcements:** [Product Updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+### Privacy & Safe Examples
+
+Do not publish customer, supplier, employee, property-owner, traveler, tenant, transaction, booking, payment, or other confidential business information in public GitHub Issues or Discussions. Do not attach unredacted accounting exports, bank statements, invoices, contracts, identity documents, credentials, or complete operational datasets.
+
+Use synthetic examples wherever possible. If a real-world example is necessary, remove direct and indirect identifiers and commercially sensitive values. Column names, fabricated sample rows, approximate row counts, exact error messages, and expected-versus-actual results are usually enough to reproduce a problem.
+
+For any free browser-based demo, do not upload production data until you have independently reviewed the demo's current privacy and data-handling information and confirmed that its use is appropriate. This README does not claim that browser data is processed only on your device or is never transmitted or retained.
+
 ## License
 
 This project is released under the **Apache License 2.0**.
