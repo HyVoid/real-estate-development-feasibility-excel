@@ -1,255 +1,198 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Real Estate Development Deal Screening Tool: Feasibility & Financial Modeling Excel Template
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
+# Real Estate Development Deal Screening Tool: Free Feasibility & Financial Modeling Excel Template
 
+<img width="1163" height="790" alt="Real Estate Development Feasibility Excel Template Dashboard Preview" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)
-![Tool Type](https://img.shields.io/badge/Tool-Decision%20Support-success.svg)
+![Macros](https://img.shields.io/badge/VBA%20%2F%20Macros-None%20Required-success.svg)
 
-> **Real Estate Development Deal Screening Tool** is a lightweight **financial modeling Excel template and web app** designed to quickly evaluate **residential development opportunities**, including **land subdivisions** and **multi-unit townhouse projects**. Screen land comparables, estimate construction costs, calculate Gross Realization Value (GRV), and determine your Profit on Cost (POC) threshold—without building a complex property development feasibility model from scratch for every potential deal.
+> **Stop guessing on back-of-the-napkin math—and stop wasting weeks building a complex spreadsheet from scratch.**  
+> **Real Estate Development Deal Screening Tool** is a ready-to-use **property development feasibility Excel template and free web calculator** built for **residential land subdivisions** and **multi-unit townhouse projects**. Plug in your site numbers, land comps, and build estimates to calculate **Residual Land Value**, **Gross Realization Value (GRV)**, total project costs, and **Profit on Cost (POC)**—and get a clear **`PASS` or `FAIL` deal verdict in under 5 minutes**.
 
-**Try the free browser-based deal screening calculator first. No signup. No installation. 100% Free.**
+---
 
-For real estate professionals who need a **reusable offline workbook**, retained property deal records, editable financial assumptions, and rapid repeat screening for their acquisition pipeline, the Excel version is available as a one-time purchase with a **30-day, no-questions-asked money-back guarantee**.
+### Start Screening Your Next Deal (100% Free to Start)
 
-*   **🌐 [Try the Free Real Estate Deal Screening Web App](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Open the interactive HTML calculator included with the project to run a quick preliminary analysis.
-*   **📥 [Download the Reusable Excel Development Feasibility Template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** → Get the full offline workbook for saving deal records, tweaking advanced underwriting assumptions, and standardizing your investment memos.
+Whether you are evaluating your very first infill site or screening broker leads every week, you can test the logic right now or grab the full offline workbook for **$0+ (Pay What You Want)**:
 
-This toolkit turns an ambiguous early-stage site acquisition question into a structured, data-driven underwriting workflow:
+- **🌐 [Launch the Free Browser Deal Screening Calculator](https://hyvoid.github.io/real-estate-development-feasibility-excel/)**  
+  No signup. No installation. Open it in your browser, test a live deal immediately, and export a clean one-page PDF deal summary.
+- **📥 [Get the Reusable Excel Feasibility Template — Free / Pay What You Want ($0+)](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**  
+  Download the full offline `.xlsx` workbook on Theseus Workshop so you can save deal histories, customize your local tax/fee assumptions, and screen unlimited sites. *Download it free ($0) to run your next deal, or pay what you think it is worth to support more practical tools.*
+- **👀 [Inspect the Spreadsheet Layout on Google Sheets](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**  
+  Preview the exact tabs, input areas, and structure before downloading. *(Note: Google Sheets preview may show minor `#NAME?` compatibility warnings that do not occur when opened in Microsoft Excel.)*
 
-**Assess Residual Land Value → Forecast Gross Realization Value (GRV) from comparable sales → Calculate total property development costs (Hard & Soft) → Evaluate Return on Investment (ROI) against your capital hurdles.**
+---
 
-The underlying financial methodology is specifically optimized for **residential subdivision and multi-family/townhouse development screening**. It is deliberately leaner than a full 60-month cash flow feasibility model. The primary objective is to identify lucrative off-market deals and filter out unviable sites *before* committing substantial capital to architectural due diligence, zoning approvals, capital stack structuring, and formal site acquisition.
+## How It Turns a Risky Guess Into a Clear Decision
 
-## Real Estate Development Pain Points Solved: What This Feasibility Template Tracks
+You do not need to be a Wall Street financial modeler to evaluate a residential development site properly. This toolkit walks you through the exact 4-step underwriting logic experienced developers use—in one clean screen:
 
-| Pain Point | Solution |
-| :--- | :--- |
-| **Overpaying for land** | Calculates **market-supported residual land value** rather than relying on the seller's asking price or broker whispers. |
-| **Overestimating sales revenue** | Forecasts **Expected Gross and Net Realization** derived directly from verified comparable residential sales (comps) evidence. |
-| **Blowing the budget on hidden fees** | Consolidates **land acquisition costs, hard construction estimates, soft costs (professional/council fees), contingency budgets, and finance holding exposure** into a single project proforma view. |
-| **Poor density planning** | Exposes **per-unit economics** for multi-unit townhouse opportunities, detailing land cost per door and average Gross Floor Area (GFA) per unit. |
-| **Emotional investing decisions** | Compares actual **Profit on Cost (POC) versus your strict investment hurdle rate**, outputting a definitive `PASS`, `FAIL`, or `PENDING INPUT` commercial decision. |
-| **Dead-end negotiations** | Reverse-engineers the **acquisition price required to salvage a weak deal**, transforming vendor negotiation into a precise mathematical variable rather than a separate spreadsheet guessing game. |
+**1. Benchmark Land Value (Comps) -> 2. Estimate Exit Sales Value (GRV) -> 3. Stack Every Hard, Soft & Finance Cost -> 4. Get an Instant `PASS` / `FAIL` Verdict**
 
-## Spreadsheet Preview
+It is intentionally leaner than a 60-month monthly cash-flow model. The goal is simple: **spot profitable off-market deals fast and walk away from money-losers *before* you spend thousands on architects, surveys, zoning consultants, or legal fees.**
 
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+---
 
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+## What You Can Calculate in 5 Minutes
 
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+Built to answer the real-world questions that decide whether a property development project makes money or loses it:
 
-## Step-by-Step Tutorial: How to Screen Property Development Deals in Minutes
+- **Screen residential land subdivisions** to see if the profit margin truly justifies the risk and holding time.
+- **Model multi-unit townhouse builds** with clear per-door land cost, average Gross Floor Area (GFA) per unit, and construction cost per SQM/SQFT.
+- **Reverse-engineer your Maximum Allowable Offer (MAO)**—find the exact land purchase price that turns a failing deal into a profitable one before you negotiate with the seller.
+- **Catch hidden development costs early**, including stamp duty, council/municipal contributions, professional fees, construction contingencies, selling commissions, and finance allowances.
+- **Generate a clean one-page investment screening memo** you can confidently share with lenders, brokers, mentors, or Joint Venture (JV) partners.
 
-### 1. Set Your Real Estate Investment Mandate & Baseline Parameters
-**Action:** Define the global investment assumptions that govern your capital. 
-The workbook centralizes your baseline financial metrics: base currency, target Profit on Cost (POC) threshold, state stamp duty rates, professional fee percentages, construction contingency buffers, and real estate agent sales commissions.
-*Tip: The default POC investment hurdle is set to **25.00%**, but this can be adjusted globally when your fund's investment mandate or risk appetite shifts.*
+---
 
-### 2. Input Deal Evidence & Property Comparables (Comps)
-**Action:** Plug in the physical site metrics and market data.
-Select your proposed residential development scenario (e.g., subdivision vs. build-to-sell) and input:
-*   Total Site Area & Zoning constraints
-*   Proposed development yield (Total number of units/lots)
-*   Target Gross Floor Area (GFA)
-*   Agreed or speculative purchase price
-*   Acquisition legal and due-diligence allowances
-*   **Up to 10 Land Comparables** to justify site value
-*   **Up to 10 Retail / Finished-Property Comparables** to justify the exit Gross Realization Value (GRV)
-*   Hard construction costs per SQM/SQFT
-*   Municipal/Council development contributions
-*   Marketing, legal, and capitalized finance interest allowances
+## 6 Costly Beginner Mistakes This Template Protects You From
 
-### 3. Generate the Automated Feasibility Analysis & ROI Decision
-**Action:** Review the instant proforma calculation.
-The calculation engine updates automatically as you input data—no manual recalculation macros required. The final decision dashboard immediately reveals total project cost, net development profit, achieved POC, the target hurdle variance, and the resulting `PASS`, `FAIL`, or `PENDING INPUT` investment state. 
+Early-stage property deals rarely fail because of one giant error—they fail because critical costs sit in separate emails, texts, and PDFs until it is too late. Here is how this template replaces scattered guesswork with a repeatable framework:
 
-### 4. Export the Investment Memo & Upgrade to the Excel Template for Repeat Use
-**Action:** Archive the screening result and standardize your pipeline.
-Once a site is screened in the browser, export it as a compact, single-page PDF investment screening memo to present to your acquisition committee or lenders. 
-**Loved the free web tool?** To evaluate multiple sites, adjust formulas, save historical deal data, and avoid re-entering your baseline parameters every time, **[download the reusable Excel version of the feasibility template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** for unlimited offline property screening.
-
-## Why I Built This Property Underwriting Tool
-
-Early-stage property development screening often fails for one simple reason: critical underwriting data is siloed.
-
-A land price sits in an email thread. Comparable sales (comps) live in a separate CMA report. Hard construction costs are texted over by a builder. Council zoning charges are roughly estimated on a notepad. Finance holding costs are treated as a vague buffer. The final "Go/No-Go" decision is then made using a fragmented, manually assembled spreadsheet that fails to expose how these commercial variables dynamically interact.
-
-That creates a fatal analytical error in real estate private equity: **optimizing a single metric (like land price) while losing sight of the holistic deal economics and capital stack.**
-
-A site acquisition might look incredibly cheap against recent land transactions, but will ultimately hemorrhage money once sales commissions, architect fees, mandatory contingencies, mezzanine finance rates, and hard construction escalations are factored into the proforma. 
-
-Conversely, a seemingly overpriced infill site might yield massive returns because the high-density zoning (yield) and premium finished-product pricing support the heavy capital outlay.
-
-This template productizes that exact institutional reasoning. 
-
-For example, a four-unit townhouse development might initially seem viable based on a low land price. But once mapped against finished retail comps and the *complete* development cost stack, the POC drops below the 20% hurdle rate. Suddenly, the most important question is no longer *“Do we like this neighborhood?”* but rather, *“At exactly what maximum land acquisition price does this project become a bankable investment?”*
-
-This model operates as a **repeatable site acquisition screening framework**, not a fragile, one-off feasibility spreadsheet. It forces developers and analysts to answer the exact same commercial questions for every off-market lead before sinking thousands of dollars into formal due diligence.
-
-## Industry Challenges Solved: Traditional Underwriting vs. Optimized Deal Screening
-
-| Industry Challenge (Pain Point) | Traditional Underwriting Methods | Optimized Deal Screening Workflow (Solution) |
+| Common Deal-Killing Mistake | What Usually Happens | How This Feasibility Template Solves It |
 | :--- | :--- | :--- |
-| **Residual Land Value Anchoring** | Site acquisition decisions are heavily biased by the vendor's asking price or broker narratives. | Incorporates up to 10 recent comparable land transactions to establish a strict, data-backed **market value reference point**. |
-| **Gross Realization Value (GRV) Optimism** | Finished-product exit revenue is guessed independently of local market absorption and pricing ceilings. | Utilizes verified **comparable residential sales** to accurately drive the gross realization and net revenue calculations. |
-| **Soft Cost & CapEx Accumulation** | Stamp duty, architect fees, zoning levies, construction contingency, and capitalized interest are often forgotten or underestimated. | The entire **capital expense (CapEx) and soft cost stack** is consolidated into an institutional-grade, project-level proforma. |
-| **Density & Yield Blindness** | Multi-family and subdivision projects are judged purely by top-line revenue without analyzing efficiency. | Calculates strict **unit yield and per-door economics**, exposing exactly how land basis and hard costs are distributed across the site. |
-| **Hurdle Rate Ambiguity** | Investment committees decide if a deal "feels right" using inconsistent personal bias and moving targets. | Project POC is mathematically benchmarked against a **locked investment hurdle rate**, producing a standardized, emotionless verdict. |
-| **Negotiating Without a Proforma** | Buyers submit lowball LOIs (Letters of Intent) without knowing if the price reduction actually satisfies their minimum ROI. | **Maximum Allowable Offer (MAO)** can be dynamically adjusted, instantly recalculating project economics to find the break-even acquisition price. |
+| **Overpaying for land** | Relying on the seller's asking price or an agent's verbal estimate. | Logs up to **10 comparable land sales** to calculate an objective, market-backed **Residual Land Value** benchmark. |
+| **Counting gross sales as profit** | Multiplying unit price by unit count and forgetting selling fees. | Pulls up to **10 comparable retail sales** for **GRV**, then automatically strips out agent commissions and per-unit marketing/legal costs to show true **Net Realization**. |
+| **Forgetting hidden soft costs** | Budgeting only for land and build cost while overlooking taxes, fees, and buffers. | Consolidates **stamp duty, hard construction, council levies, architect/professional fees, contingency, and finance holding costs** into one unified proforma. |
+| **Misjudging townhouse density** | Looking at top-line revenue without checking efficiency per unit. | Automatically breaks down **per-unit economics**, exposing land cost per door and average GFA per townhouse. |
+| **Making emotional "gut feel" deals** | Talking yourself into a thin margin because you like the neighborhood. | Benchmarks actual **Profit on Cost (POC)** against your locked hurdle rate (default `25.00%`) for an objective `PASS`, `FAIL`, or `PENDING INPUT` verdict. |
+| **Negotiating blindly** | Submitting a random lowball offer without knowing if it actually works. | Adjust the purchase price cell to instantly see your **break-even / target acquisition price**, turning negotiation into simple math. |
 
-## Real Estate Investment Scenarios & Long-Tail Search Use Cases
+---
 
-This template is purposefully designed to capture and streamline the most common property development calculations, including:
-*   *How to calculate profit on a residential land subdivision.*
-*   *Estimating hard and soft costs for multi-unit townhouse builds.*
-*   *Reverse-engineering residual land value for off-market site acquisitions.*
-*   *Creating a one-page real estate investment memo for joint venture (JV) equity partners.*
-*   *Quickly filtering out unviable real estate wholesaling and flipping deals.*
+## Step-by-Step: From Listing to Decision in 4 Simple Steps
 
-## Who This Is For: Target Roles & Recommended Software Uses
+No complex formulas to write. No macros to enable. **Only enter numbers in the soft-blue cells—everything else calculates automatically and is locked to protect the math.**
 
-This framework is built for real estate professionals who require speed and accuracy in the early stages of the deal cycle:
+### Step 1: Set Your Baseline Rules (Once)
+Open `01_Global_Settings` to set your currency, target **Profit on Cost (POC)** hurdle (default `25.00%`), stamp duty rate, professional fee percentage, construction contingency buffer, and agent commission rate. Set it once, reuse it on every deal.
 
-*   **Real Estate Acquisitions Analysts**: using a *property development screening Excel model* for rapid daily filtering of the brokerage deal pipeline.
-*   **Independent Property Developers**: relying on a *townhouse feasibility template* to evaluate off-market site acquisitions before hiring architects.
-*   **Real Estate Investment Fund Managers**: deploying *residential deal filter software* to standardize how junior analysts underwrite and pitch new assets.
-*   **Commercial Real Estate Brokers (Land Sales)**: leveraging a *residual land value calculator tool* to validate asking prices and build compelling pitch decks for developer buyers.
-*   **Architecture & Urban Planning Firms**: utilizing a *highest and best use financial model* to prove commercial viability alongside preliminary site capacity studies.
+### Step 2: Plug In the Site & Market Comps
+Choose the **Residential Subdivision** or **Townhouse Development** tab and enter:
+- Site area, proposed unit yield, and target Gross Floor Area (GFA)
+- Asking or target purchase price + legal/due-diligence allowance
+- Up to **10 recent land comps** and **10 comparable finished-property sales**
+- Estimated construction rate per SQM/SQFT, council contributions, and finance allowance
 
-*It is especially useful when the core objective is **rapid early-stage deal screening**, rather than replacing highly granular monthly cash-flow forecasting, complex capital stack structuring (waterfall models), or final lender underwriting.*
+### Step 3: Read Your Instant `PASS` / `FAIL` Verdict
+The dashboard updates in real time to display **Total Project Cost**, **Net Development Profit**, **Achieved POC**, variance against your target hurdle, and a color-coded **`PASS`** (green) or **`FAIL`** (red) decision. If it shows `FAIL`, lower the purchase price cell until it flips to `PASS`—now you know your exact maximum offer.
 
-## About
+### Step 4: Save Your Deal or Export a One-Page Summary
+In the browser app, export a neat one-page PDF screening memo to share with partners or brokers. When you are ready to compare multiple sites, keep permanent deal records, and avoid re-typing your baseline rates on every deal, **[download the Free / Pay-What-You-Want Excel workbook](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**.
 
-I build lightweight trackers and decision-support tools for situations where there are too many moving parts to hold in your head at once.
+---
 
-The question behind each tool is simple:
+## Who This Tool Is Built For
 
-> **What information needs to be in one place to make the next decision confidently?**
+This template is designed for practical operators who want **professional-grade clarity in minutes** without paying for bloated enterprise software:
 
-The **Real Estate Development Deal Screening Tool** applies that approach to acquisition screening: land evidence, development assumptions, sales evidence, cost exposure, and the resulting investment decision are brought into one repeatable workflow.
+- **First-Time & Independent Property Developers**: Screen off-market land and small townhouse sites with confidence before paying for architectural feasibility studies.
+- **Small Builders & Property Flippers Stepping Up to Infill Development**: Avoid margin wipeouts from forgotten soft costs, council fees, and selling expenses.
+- **Real Estate Acquisitions Analysts & Agents / Land Brokers**: Run rapid daily deal filters, justify land pricing with real comps, and send clean deal memos to buyers.
+- **Joint Venture (JV) Partners & Small Real Estate Investors**: Run a fast, independent sanity check on any development deal pitched to you.
+- **Architects & Site Planners**: Pair early site-capacity sketches with quick commercial viability numbers.
 
-## Technical Details
+> **Honest Scope Note:** This tool is built specifically for **fast, disciplined early-stage deal screening**. Once a deal gets a `PASS`, you should still follow up with detailed monthly cash-flow forecasting, formal quantity surveyor quotes, and full lender due diligence.
+
+---
+
+## Why This Tool Works (Even If You Hate Building Spreadsheets)
+
+Most early-stage property analyses break down because the numbers are scattered: land price sits in an email, comps live in a broker PDF, builder rates are in a text message, and finance costs are treated as a vague guess.
+
+That creates a classic trap: **chasing a "cheap" piece of land that actually loses money once hard costs, selling commissions, contingencies, and finance are stacked together**—or passing on a slightly pricier site where higher townhouse yield easily supports the price.
+
+This template locks all of those moving parts into one transparent workflow. You get the analytical rigor of a seasoned development underwriter with the speed and simplicity of a plug-and-play calculator.
+
+---
+
+## Technical Details & Formula Audit
+
+Want to verify the math, check formula integrity, or see a full worked 4-unit townhouse example before downloading? Expand the technical audit below.
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary><strong>Click to expand: Workbook Architecture, Worked 4-Unit Example, Excel Formulas & Validation Rules</strong></summary>
 
 ### Workbook Architecture
 
-The workbook is structured as four connected worksheets:
+The Excel workbook is structured as four connected worksheets with zero VBA or macros:
 
-| Sheet                 | Role            | Primary Responsibility                                                                        |
-| --------------------- | --------------- | --------------------------------------------------------------------------------------------- |
-| `00_Start_Here`       | Onboarding      | Usage instructions, colour legend, methodology explanation, and a completed benchmark example |
-| `01_Global_Settings`  | Parameters      | Central investment assumptions, currency display, hurdle rates, and standard cost percentages |
-| `02_Residential_Deal` | Decision Engine | Residential subdivision / single-dwelling development screening                               |
-| `03_Townhouse_Deal`   | Decision Engine | Multi-unit townhouse development screening                                                    |
+| Sheet | Role | Primary Responsibility |
+| :--- | :--- | :--- |
+| `00_Start_Here` | Onboarding | Usage instructions, color legend, methodology explanation, and a completed benchmark example |
+| `01_Global_Settings` | Parameters | Central investment assumptions, currency display, hurdle rates, and standard cost percentages |
+| `02_Residential_Deal` | Decision Engine | Residential subdivision / single-dwelling development screening |
+| `03_Townhouse_Deal` | Decision Engine | Multi-unit townhouse development screening |
 
-The architecture follows a one-directional flow:
+The architecture follows a strict one-directional flow:
 
 ```text
 RAW DEAL INPUTS
-     │
-     ├── Site / Yield / GFA
-     ├── Land Comparables
-     ├── Retail Comparables
-     ├── Acquisition Assumptions
-     └── Development Cost Assumptions
-     │
-     ▼
+     |
+     +-- Site / Yield / GFA
+     +-- Land Comparables
+     +-- Retail Comparables
+     +-- Acquisition Assumptions
+     +-- Development Cost Assumptions
+     |
+     v
 CALCULATION ENGINE
-     │
-     ├── Comparable Market Averages
-     ├── Land Acquisition Cost
-     ├── Gross Realisation
-     ├── Selling Costs
-     ├── Net Realisation
-     ├── Development Costs
-     ├── Finance Allowance
-     └── Total Project Cost
-     │
-     ▼
+     |
+     +-- Comparable Market Averages
+     +-- Land Acquisition Cost
+     +-- Gross Realisation
+     +-- Selling Costs
+     +-- Net Realisation
+     +-- Development Costs
+     +-- Finance Allowance
+     +-- Total Project Cost
+     |
+     v
 DECISION LAYER
-     │
-     ├── Net Development Profit
-     ├── Profit on Cost
-     ├── Target POC
-     └── PASS / FAIL / PENDING INPUT
+     |
+     +-- Net Development Profit
+     +-- Profit on Cost (POC)
+     +-- Target POC Hurdle
+     +-- PASS / FAIL / PENDING INPUT
 ```
 
-The system deliberately separates unlocked input cells from locked calculation and presentation cells. The workbook is designed to prevent users from overwriting calculation logic while keeping the actual deal assumptions easy to identify. 
-
-The input → calculation → decision structure is consistent across the residential and townhouse scenarios. The townhouse version additionally exposes unit-level metrics because development yield is a central part of multi-unit economics. 
+The system deliberately separates unlocked input cells from locked calculation and presentation cells so non-technical users cannot accidentally overwrite formulas while keeping every deal assumption easy to edit.
 
 ### Decision Framework
 
-The core economic chain is:
-
 ```text
 Comparable Land Evidence
-        ↓
+        |
+        v
 Land Market Price Benchmark
-        ↓
+        |
+        v
 Model-Indicated Land Value
-        ↓
-Actual Acquisition Cost
-        ↓
-Development + Finance Costs
-        ↓
-Finished-Property Comparable Evidence
-        ↓
-Gross Realisation
-        ↓
-Selling Costs
-        ↓
-Net Realisation
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Investment Hurdle
-        ↓
-PASS / FAIL
+        |
+        v
+Actual Acquisition Cost  +  Development & Finance Costs
+        |
+        v
+Finished-Property Comparable Evidence -> Gross Realisation -> Less Selling Costs -> Net Realisation
+        |
+        v
+Net Development Profit -> Profit on Cost (POC) vs. Investment Hurdle -> PASS / FAIL
 ```
 
-The important design choice is that **land, revenue, and development cost are not evaluated as separate questions**. They converge into a single project-level return test.
+Land, revenue, and development costs are never evaluated in isolation—they converge into a single project-level return test.
 
 ### Three Traps That Catch Even Experienced Property Acquirers
 
-#### Trap 1 — Treating the Asking Price as the Land Value
-
-**1. A decision was made.**
-
-An acquisition opportunity appears reasonably priced compared with the seller's expectations.
-
-**2. The decision relied on an unnoticed faulty assumption.**
-
-The asking price was treated as the relevant land benchmark without normalising against comparable transaction evidence.
-
-**3. The recommendation changes.**
-
-A project can look cheap because the buyer is comparing it against other asking prices rather than completed transactions.
-
-**4. Why the reasoning is incorrect.**
-
-An asking price is an offer position. It is not necessarily evidence of market-clearing value.
-
-**5. Corrected approach.**
-
-Use actual comparable land transactions to establish a market price-per-square-metre reference.
-
-**6. Corrected decision outcome.**
-
-The acquisition can then be assessed against a market-supported land value before the development economics are considered.
-
-**7. Formula logic**
+#### Trap 1 — Treating the Asking Price as Land Value
+- **The mistake:** Judging a site as "cheap" compared to other asking prices rather than completed transactions.
+- **The fix:** Use actual comparable land sales to calculate a market price-per-SQM benchmark via dynamic filtering (ignoring blank rows so empty cells never dilute the average).
 
 <details>
-<summary>Land comparable calculation</summary>
+<summary>View land comparable formula logic</summary>
 
 ```excel
 =IF(D14:D23="","",
@@ -259,8 +202,6 @@ The acquisition can then be assessed against a market-supported land value befor
    )
 )
 ```
-
-The model then averages only valid positive comparable values:
 
 ```excel
 =IFERROR(
@@ -274,48 +215,18 @@ The model then averages only valid positive comparable values:
 )
 ```
 
-The resulting market benchmark is used to indicate a model-based land value:
-
 ```excel
 =ROUND(C5*E24,0)
 ```
 
-The source design explicitly uses dynamic filtering so blank comparable rows do not distort the market average. 
-
 </details>
 
----
-
-#### Trap 2 — Looking at Gross Sales Revenue Instead of Net Realisation
-
-**1. A decision was made.**
-
-A townhouse project appears highly profitable because the expected selling price multiplied by the number of units produces a large gross revenue figure.
-
-**2. The decision relied on an unnoticed faulty number.**
-
-Gross sales were treated as if they were the cash available to cover development costs.
-
-**3. The recommendation changes.**
-
-Once sales commissions and per-unit marketing/legal costs are deducted, the economic margin can be materially lower.
-
-**4. Why the reasoning is incorrect.**
-
-The developer does not retain the gross sales value. Distribution and selling costs sit between the headline sale price and the project's actual recoverable revenue.
-
-**5. Corrected approach.**
-
-Calculate gross realisation first, then explicitly remove selling costs before comparing the result with project cost.
-
-**6. Corrected decision outcome.**
-
-The project is evaluated against **Net Realisation**, not an optimistic gross revenue number.
-
-**7. Formula logic**
+#### Trap 2 — Confusing Gross Sales Revenue With Net Realisation
+- **The mistake:** Treating headline gross sales as cash available to pay project costs.
+- **The fix:** Deduct agent commissions and per-unit marketing/legal expenses first to establish true **Net Realisation**.
 
 <details>
-<summary>Realisation calculation</summary>
+<summary>View realisation formula logic</summary>
 
 ```excel
 =ROUND(C6*D46,0)
@@ -333,51 +244,18 @@ The project is evaluated against **Net Realisation**, not an optimistic gross re
 =C50-C53
 ```
 
-The calculation therefore follows:
-
 ```text
-Gross Realisation
-    − Agent Commission
-    − Unit Marketing / Legal Costs
-    = Net Realisation
+Gross Realisation - Agent Commission - Unit Marketing/Legal Costs = Net Realisation
 ```
-
-The source specification defines this as the basis for the project's net recovery before project costs are deducted. 
 
 </details>
 
----
-
 #### Trap 3 — Calling a Deal a PASS Before the Cost Stack Is Complete
-
-**1. A decision was made.**
-
-A project appears to generate an acceptable profit based on land, construction, and expected sales.
-
-**2. The decision relied on an unnoticed faulty model.**
-
-Professional fees, contingency, council contributions, selling costs, or finance allowances were omitted or handled separately.
-
-**3. The recommendation changes.**
-
-The project can move from apparently acceptable to below the investment hurdle once the complete cost stack is included.
-
-**4. Why the reasoning is incorrect.**
-
-Profitability is a relationship between the full net realisation and the complete project capital requirement.
-
-**5. Corrected approach.**
-
-Aggregate land acquisition, development, and finance exposure before calculating POC.
-
-**6. Corrected decision outcome.**
-
-Only the completed project economics are tested against the investment hurdle.
-
-**7. Formula logic**
+- **The mistake:** Omitting professional fees, contingency, council contributions, or finance holding allowances from the initial feasibility check.
+- **The fix:** Aggregate land acquisition, full development costs, and finance exposure before testing POC against the hurdle rate (with `ROUND(...,4)` to eliminate floating-point boundary errors).
 
 <details>
-<summary>Project-level decision engine</summary>
+<summary>View project-level decision engine formulas</summary>
 
 ```excel
 =C31+C65+C69
@@ -407,154 +285,68 @@ Only the completed project economics are tested against the investment hurdle.
 )
 ```
 
-This produces the decision sequence:
-
-```text
-Total Project Cost
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Target POC Threshold
-        ↓
-PASS / FAIL
-```
-
-The `ROUND(...,4)` comparison is explicitly intended to prevent floating-point boundary errors when the calculated POC is close to the hurdle. 
-
 </details>
 
-### Example Scenario
+### Worked Example Scenario (4-Unit Townhouse Project)
 
-The following is an **illustrative screening scenario**, using the workbook's methodology rather than representing a sourced market transaction.
+The following is an **illustrative screening example** demonstrating how the model exposes a structurally underwater deal before capital is committed:
 
-Assume a four-unit townhouse development:
+| Input | Illustrative Value |
+| :--- | ---: |
+| Site area | 800 sqm |
+| Proposed units | 4 |
+| Target GFA | 600 sqm (150 sqm/unit) |
+| Agreed purchase price | $900,000 |
+| Acquisition legal / due diligence | $15,000 |
+| Stamp duty | 5.50% |
+| Average comparable land value | $1,150/sqm |
+| Average comparable townhouse sale price | $650,000/unit |
+| Construction rate | $2,800/sqm |
+| Council contribution | $12,000/unit |
+| Professional fees | 6.00% of build cost |
+| Contingency | 5.00% of build cost |
+| Finance allowance | $100,000 |
+| Sales commission | 2.20% |
+| Marketing / legal | $8,000/unit |
+| Target POC | 25.00% |
 
-| Input                                   |  Illustrative Value |
-| --------------------------------------- | ------------------: |
-| Site area                               |              800 m² |
-| Proposed units                          |                   4 |
-| Target GFA                              |              600 m² |
-| Agreed purchase price                   |            $900,000 |
-| Acquisition legal / due diligence       |             $15,000 |
-| Stamp duty                              |               5.50% |
-| Average comparable land value           |           $1,150/m² |
-| Average comparable townhouse sale price |       $650,000/unit |
-| Construction rate                       |           $2,800/m² |
-| Council contribution                    |        $12,000/unit |
-| Professional fees                       | 6.00% of build cost |
-| Contingency                             | 5.00% of build cost |
-| Finance allowance                       |            $100,000 |
-| Sales commission                        |               2.20% |
-| Marketing / legal                       |         $8,000/unit |
-| Target POC                              |              25.00% |
-
-The four-unit scheme produces an average GFA of **150 m² per unit**.
-
-The construction cost is:
+**Automated Calculation Breakdown:**
 
 ```text
-600 m² × $2,800
-= $1,680,000
+Acquisition Cost  = $900,000 + ($900,000 * 5.5%) + $15,000         = $964,500
+Construction Cost = 600 sqm * $2,800                               = $1,680,000
+Council Levies    = 4 * $12,000                                    = $48,000
+Professional Fees = $1,680,000 * 6%                                = $100,800
+Contingency       = $1,680,000 * 5%                                = $84,000
+Finance Allowance = $100,000                                       = $100,000
+------------------------------------------------------------------------------
+Total Project Cost                                                 = $2,977,300
+
+Gross Realisation = 4 * $650,000                                   = $2,600,000
+Selling Costs     = ($2,600,000 * 2.2%) + (4 * $8,000)             = $89,200
+------------------------------------------------------------------------------
+Net Realisation                                                    = $2,510,800
+
+Net Development Profit = $2,510,800 - $2,977,300                   = -$466,500
+Deal Verdict                                                       = FAIL
 ```
 
-Council contributions are:
+**Takeaway:** Even though the land price ($900,000) looks reasonable against the $920,000 comparable land benchmark ($1,150/sqm * 800 sqm), the complete cost stack proves the project is deeply underwater. Instead of guessing, the developer immediately knows which levers—land price, unit yield, build specification, or exit pricing—must move before spending another dollar.
 
-```text
-4 × $12,000
-= $48,000
-```
-
-Professional fees are:
-
-```text
-$1,680,000 × 6%
-= $100,800
-```
-
-Contingency is:
-
-```text
-$1,680,000 × 5%
-= $84,000
-```
-
-The acquisition cost is:
-
-```text
-$900,000
-+ ($900,000 × 5.5%)
-+ $15,000
-= $964,500
-```
-
-Gross realisation is:
-
-```text
-4 × $650,000
-= $2,600,000
-```
-
-Selling costs are:
-
-```text
-$2,600,000 × 2.2%
-+ (4 × $8,000)
-= $89,200
-```
-
-Net realisation is therefore:
-
-```text
-$2,600,000 − $89,200
-= $2,510,800
-```
-
-Total project cost becomes:
-
-```text
-$964,500
-+ $1,680,000
-+ $48,000
-+ $100,800
-+ $84,000
-+ $100,000
-= $2,977,300
-```
-
-This produces:
-
-```text
-Net Development Profit
-= $2,510,800 − $2,977,300
-= −$466,500
-```
-
-The result is clearly below the 25% hurdle.
-
-The analytical conclusion is **not simply “construction is too expensive.”** The complete screening framework shows that the project is structurally underwater under these assumptions. The next commercial question is whether the assumptions can realistically change — especially acquisition price, achievable sales price, yield, or construction cost — before the opportunity deserves further work.
-
-This is exactly where the screening model is useful: it converts a vague “maybe the numbers work” conversation into a quantified decision about which assumption must change.
-
-### Formula Reference
+### Complete Formula Reference
 
 <details>
 <summary>Planning and per-unit metrics</summary>
 
 **Average GFA per unit**
-
 ```excel
 =IF(C6>0,ROUND(C7/C6,2),0)
 ```
 
 **Land cost per door**
-
 ```excel
 =IF(C6>0,ROUND(C31/C6,0),0)
 ```
-
-These calculations are particularly relevant to the townhouse scenario because the same site acquisition cost is distributed across the proposed unit yield. 
 
 </details>
 
@@ -562,7 +354,6 @@ These calculations are particularly relevant to the townhouse scenario because t
 <summary>Land comparable engine</summary>
 
 **Comparable land price per square metre**
-
 ```excel
 =IF(D14:D23="","",
    IF(ISNUMBER(C14:C23/D14:D23),
@@ -573,7 +364,6 @@ These calculations are particularly relevant to the townhouse scenario because t
 ```
 
 **Average comparable land price**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -587,12 +377,9 @@ These calculations are particularly relevant to the townhouse scenario because t
 ```
 
 **Model-indicated land value**
-
 ```excel
 =ROUND(C5*E24,0)
 ```
-
-The use of `FILTER` means empty rows are excluded rather than treated as zero-value transactions. 
 
 </details>
 
@@ -600,7 +387,6 @@ The use of `FILTER` means empty rows are excluded rather than treated as zero-va
 <summary>Sales comparable and realisation engine</summary>
 
 **Comparable sale price per square metre**
-
 ```excel
 =IF(E36:E45="","",
    IF(ISNUMBER(D36:D45/E36:E45),
@@ -611,7 +397,6 @@ The use of `FILTER` means empty rows are excluded rather than treated as zero-va
 ```
 
 **Average comparable unit price**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -625,30 +410,24 @@ The use of `FILTER` means empty rows are excluded rather than treated as zero-va
 ```
 
 **Gross realisation**
-
 ```excel
 =ROUND(C6*D46,0)
 ```
 
 **Agent commission**
-
 ```excel
 =ROUND(C50*'01_Global_Settings'!$C$9,0)
 ```
 
 **Total selling costs**
-
 ```excel
 =C51+(C6*C52)
 ```
 
 **Net realisation**
-
 ```excel
 =C50-C53
 ```
-
-The source design explicitly treats the finished-property comparable average as the sales benchmark and then moves from gross to net realisation by deducting selling costs. 
 
 </details>
 
@@ -656,25 +435,21 @@ The source design explicitly treats the finished-property comparable average as 
 <summary>Development cost engine</summary>
 
 **Total build cost**
-
 ```excel
 =ROUND(C7*C58,0)
 ```
 
 **Council contributions**
-
 ```excel
 =ROUND(C6*C60,0)
 ```
 
 **Professional fees**
-
 ```excel
 =ROUND(C59*'01_Global_Settings'!$C$7,0)
 ```
 
 **Contingency with project-level override**
-
 ```excel
 =ROUND(
    C59*IF(
@@ -687,12 +462,9 @@ The source design explicitly treats the finished-property comparable average as 
 ```
 
 **Total development costs**
-
 ```excel
 =SUM(C59,C61,C62,C64)
 ```
-
-The contingency logic is intentionally hierarchical: a project-specific rate can override the global default, while leaving the project field blank causes the model to inherit the central parameter. 
 
 </details>
 
@@ -700,31 +472,26 @@ The contingency logic is intentionally hierarchical: a project-specific rate can
 <summary>Final decision engine</summary>
 
 **Total project cost**
-
 ```excel
 =C31+C65+C69
 ```
 
 **Net development profit**
-
 ```excel
 =C54-C70
 ```
 
 **Profit on Cost**
-
 ```excel
 =IF(C70>0,C71/C70,0)
 ```
 
 **Target POC threshold**
-
 ```excel
 ='01_Global_Settings'!$C$5
 ```
 
 **Deal verdict**
-
 ```excel
 =IF(
    C70=0,
@@ -737,123 +504,98 @@ The contingency logic is intentionally hierarchical: a project-specific rate can
 )
 ```
 
-The decision state deliberately distinguishes an incomplete model from a failed investment case. `PENDING INPUT` is therefore not treated as `FAIL`. 
+</details>
+
+### Validation Rules & Error Protection
+
+| Field / Area | Rule | Error / Decision Behavior |
+| :--- | :--- | :--- |
+| `Site_Area_SQM` | Must represent a valid positive site area | Incomplete inputs prevent a misleading decision |
+| `Proposed_Units_Yield` | Must be greater than zero for unit metrics | Guarded against division-by-zero errors |
+| `Target_GFA_SQM` | Total development Gross Floor Area | Drives total construction cost |
+| Land & sales comp rows | Blank or invalid rows ignored via `FILTER` | Empty rows never dilute market averages |
+| Purchase price | Actual acquisition assumption | Drives acquisition cost and final POC |
+| Stamp duty & fee rates | Controlled centrally in `01_Global_Settings` | Automatically applied across deal tabs |
+| Contingency | Global default or project-specific override | Blank project cell inherits global rate |
+| Project cost | Must be greater than zero for POC | Zero cost returns `PENDING INPUT` (not `FAIL`) |
+| POC comparison | Rounded to 4 decimals before comparison | Prevents floating-point boundary errors |
+| Workbook protection | Calculation cells locked by default | Prevents accidental formula deletion |
+
+### Visual Operating Rules & Compatibility
+
+| Visual State | Meaning | User Action |
+| :--- | :--- | :--- |
+| Soft blue | Unlocked input cell | Enter or edit deal assumptions |
+| White / grey | Locked calculation or label cell | Do not edit |
+| Green | `PASS` | Deal clears your investment hurdle |
+| Red | `FAIL` | Deal falls below your investment hurdle |
+
+- **Supported Platforms:** Microsoft 365, Excel 2021 or later, and Google Sheets.
+- **Zero-Hardcoding & Zero-Macro Design:** Built entirely with modern native Excel formulas—safe to open anywhere without security warnings.
 
 </details>
 
-### Validation Rules
+---
 
-| Field / Area           | Rule                                                                 | Error / Decision Behavior                                  |
-| ---------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `Site_Area_SQM`        | Must represent a valid positive site area                            | Incomplete inputs prevent a meaningful project decision    |
-| `Proposed_Units_Yield` | Must be greater than zero where unit-based calculations are required | Per-unit calculations are guarded against division by zero |
-| `Target_GFA_SQM`       | Used as the total development GFA                                    | Drives construction cost                                   |
-| Land comparable rows   | Blank rows are ignored                                               | Blank rows do not dilute the market average                |
-| Comparable land area   | Required for a valid land unit-price calculation                     | Invalid calculations remain blank                          |
-| Comparable sale data   | Valid numeric transaction data only                                  | Invalid / empty rows are excluded from the average         |
-| Purchase price         | Used as the actual acquisition assumption                            | Drives acquisition cost and final POC                      |
-| Stamp duty             | Controlled centrally                                                 | Automatically applied to purchase price                    |
-| Professional fee rate  | Controlled centrally                                                 | Applied to build cost                                      |
-| Contingency            | Global default or project-specific override                          | Blank project rate inherits global contingency             |
-| Finance allowance      | Explicit project input                                               | Included in total project cost                             |
-| Project cost           | Must be greater than zero for POC                                    | Zero cost returns `PENDING INPUT` at verdict stage         |
-| POC comparison         | Rounded before threshold comparison                                  | Prevents floating-point boundary errors                    |
-| Target POC             | Central investment hurdle                                            | Determines `PASS` / `FAIL`                                 |
-| Workbook protection    | Calculation cells remain locked                                      | Prevents accidental overwriting of formulas                |
+## About Theseus Workshop
 
-The implementation uses locked calculation areas, designated unlocked input areas, dynamic filtering of comparable data, zero-division guards, and explicit decision states as part of the error-control design. 
+I build **ready-to-use Excel decision toolkits** for real-world business problems where there are too many moving parts to hold in your head at once—without forcing you to learn complex financial engineering or pay recurring SaaS fees.
 
-### Workbook Operating Rules
+Every tool starts from one practical question:
 
-The workbook uses a three-state visual language:
+> **What information needs to sit in one clean place so you can make the next business decision with confidence?**
 
-| Visual State | Meaning                                 | User Action                           |
-| ------------ | --------------------------------------- | ------------------------------------- |
-| Soft blue    | Input area / unlocked                   | Enter or edit deal assumptions        |
-| White / grey | Calculation or structural area / locked | Do not edit                           |
-| Green        | `PASS`                                  | Deal clears the screening hurdle      |
-| Red          | `FAIL`                                  | Deal falls below the screening hurdle |
+If this free deal screening tool saved you time or prevented a bad investment, explore the rest of the **Theseus Workshop** decision toolbox below.
 
-The source design specifies soft blue input cells, locked calculation cells, and conditional green/red verdict presentation to make the workbook usable by non-technical business users. 
+---
 
-For ongoing use:
+## More Ready-to-Use Business Decision Toolkits
 
-1. Add comparable transactions directly into the designated input rows.
-2. Delete incorrect comparable data by clearing the corresponding input row.
-3. Do not copy formulas into the calculation areas.
-4. Change global investment assumptions only through the central parameter area.
-5. Do not remove worksheet protection and manually overwrite calculation cells.
+### Real Estate, Property & Construction
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Does a multifamily acquisition still create equity after renovation and operating costs?
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — What is a property actually worth across multiple valuation methods, tax rules, and CapEx scenarios?
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — What bridge or fix-and-flip loan structure works under different borrower and collateral assumptions?
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Which contractor jobs and clients are actually profitable after real site costs?
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Will a UK residential build hit target margin once trade rates, waste factors, and site logistics shift?
 
-The comparable calculation areas are designed to absorb changing numbers of observations without manual formula maintenance. 
+### Cash Flow, Budgeting & Startup Finance
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Why is cash always tight, and when will liquidity dip next?
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — How do operating and financing choices flow through your P&L, Balance Sheet, and Cash Flow?
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Where are personal and business finances getting mixed up?
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Can you afford this month's hiring and marketing without burning through runway?
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Will growth run out of cash before customer cohorts pay back?
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — What is each investor actually owed based on entry timing and current NAV?
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — What is truly owed today after years of informal transfers and accrued interest?
 
-### Platform and Implementation Notes
+### E-Commerce, Retail & Marketplace Profitability
+- **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Which orders actually make money after shipping, payment fees, and marketplace cuts?
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Which inventory and ad commitments will trigger a cash crunch in the next 12 weeks?
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Is each Shopify store genuinely profitable once SKU COGS, bank charges, and shared OPEX are reconciled?
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Which products and keywords actually drove this week's Amazon performance changes?
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — What is true net SKU margin after real freight, duties, and retailer deductions?
 
-The design targets:
+### Pricing, Manufacturing & Cost Allocation
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Which wholesale prices protect margin after freight, duties, payment terms, and FX?
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Which SKUs are profitable after factory labor, utilities, overhead, and ingredients?
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — What should you quote at each quantity tier to stay competitive and profitable?
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Has enough real demand changed to justify a price adjustment?
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Are shared supplier invoices allocated fairly across entities and operating assets?
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — How much building margin is real versus distorted by corporate cost allocation?
 
-* **Microsoft 365**
-* **Excel 2021 or later**
-* **Google Sheets**
+### Logistics, Cross-Border Trade & Service Operations
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Which cross-border trade flows remain profitable after currency shifts?
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Which freight bookings actually turn a profit across mixed currencies, fees, and container costs?
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Which containers and clients are profitable across customs and fleet operations?
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Is a cafe or bakery truly profitable after recipe costs, labor, and daily operating expenses?
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Which tour bookings generate net profit and positive cash flow across currencies?
 
-The implementation deliberately avoids VBA/macros and uses modern spreadsheet functions and dynamic-array logic so the workbook can remain an ordinary `.xlsx` file rather than depending on an application-specific automation layer. 
-
-The architecture also follows a **zero-hardcoding** principle. Core assumptions such as the currency symbol, POC hurdle, stamp duty, professional fees, contingency, and agent commission are centralised rather than repeated as literal constants throughout the calculation layer. 
-
-</details>
-
-## The Business Logic & Methodology
-
-The model is based on a simple commercial principle: **a development deal should be screened from the interaction between market evidence, acquisition price, development cost, and achievable exit value — not from any single attractive number.**
-
-The methodology converts those inputs into a sequence of increasingly decision-relevant questions.
-
-* **Comparable-market analysis** establishes a reference point for land and finished residential product. This reduces reliance on asking prices, isolated opinions, or a single optimistic sales assumption. The practical decision becomes: *Is the proposed acquisition and exit pricing supported by observable market evidence?* 
-
-* **Full-cost aggregation** treats acquisition, construction, professional services, council contributions, contingency, selling costs, and finance as part of the same economic case. This solves the common problem where a project looks profitable because important costs are still sitting outside the headline calculation.
-
-* **Net-realisation analysis** separates headline sales revenue from the amount actually available after selling and marketing-related costs. This makes the exit assumption commercially usable rather than merely attractive on paper. 
-
-* **Threshold-based decisioning** converts a subjective “looks profitable” judgement into a repeatable investment rule. With a 25.00% default POC hurdle, the same standard can be applied across residential and townhouse opportunities, while the central threshold can be changed when the investment mandate changes. 
-
-* **Acquisition-price sensitivity through reverse negotiation** turns a failed screening result into a commercial question. If the project does not clear the hurdle, the acquisition price becomes one of the variables that can be challenged rather than simply accepting the initial deal terms. The workbook's SOP explicitly treats reducing the proposed purchase price as a practical response to a `FAIL` result. 
-
-The result is not a substitute for full due diligence. It is a disciplined filter for deciding **which opportunities deserve the next level of work**.
-
-## Other Tools in This Series
-
-* **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Why is cash always tight? — Forecast future liquidity under changing operational and financial assumptions.
-* **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Which trade flows are actually profitable after currency effects? — Measure multi-currency trade profitability across cross-border operations.
-* **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — What financing structure is supportable under different borrower and collateral scenarios? — Compare lending scenarios using risk-adjusted financing assumptions.
-* **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Where is personal and business cash being mixed or misallocated? — Separate personal and business cash flows into independently tracked budget tracks.
-* **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Does this real estate acquisition still create equity value after renovation and operating assumptions? — Evaluate multifamily acquisition returns under renovation financing and operating scenarios.
-* **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — What is a property worth under different valuation methods? — Calculate property value across multiple valuation methods with tax and capital expenditure modeling.
-* **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Are shared costs being allocated fairly across entities or are some assets overburdened while others escape their true cost exposure? — Distribute supplier invoices across multiple legal entities and operating assets using configurable allocation methodologies.
-* **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — What is each participant actually owed based on their entry timing and current pool value? — Track investment pool ownership continuously using NAV-based unit accounting.
-* **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Which operational commitments will create a cash problem in the next twelve weeks? — Connect Shopify sales bank transactions advertising spend and inventory purchasing into a unified cash flow decision framework.
-* **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Has enough meaningful information changed to justify a pricing adjustment? — Govern pricing recommendations through configurable guard rails that prevent unnecessary revenue volatility.
-* **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — What actually changed in the business this period and which products or keywords drove the change? — Transform Amazon Seller Central SQP and Sellerboard exports into standardized executive business reviews.
-* **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Which products are actually profitable after all manufacturing costs are allocated and which are destroying margin? — Allocate factory labor utilities overhead and material costs to every SKU for true unit manufacturing economics.
-* **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Which orders are actually profitable after all hidden costs and where is money leaking across channels and currencies? — Reconstruct true order-level profitability by reconciling sales payouts shipping costs payment fees and marketplace commissions across multi-channel e-commerce operations.
-* **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Which contractor projects and customers are actually profitable after all job costs? — Connect lead estimation, job execution, and actual cost tracking into a unified contractor profitability framework.
-* **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Is the shop genuinely profitable after all ingredient, labor, and operating costs? — Connect recipe costing, sales, inventory consumption, and operating expenses into a unified profitability and cash flow framework.
-* **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Which freight bookings are actually profitable after all costs, fees, and currency conversion? — Measure booking-level freight profitability by reconciling revenue, COGS, bank fees, and container costs across mixed-currency transactions.
-* **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Which containers and customers are actually profitable across customs and fleet operations? — Consolidate customs clearance and fleet execution data into a single container-level profitability view.
-* **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — What is actually owed today after years of transfers and accrued interest? — Reconcile long-term fund transfers and interest accruals into a current outstanding balance.
-* **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — What will our financial statements look like under different operating and financing scenarios? — Forecast integrated financial statements by linking revenue, expenses, working capital, and debt into a unified model.
-* **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — How much of each building's reported margin is actually generated by that building versus by the way corporate costs were allocated? — Allocate shared expenses across operating units while preserving source transactions and reconciling unit-level results to company totals.
-* **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Will this construction project actually hit its target margin once site logistics, waste factors, and trade rate changes are accounted for? — Separate physical building quantities from volatile trade rates and site preliminaries to cascade commercial markups across tender budgets and client quotations.
-* **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Which wholesale prices and customer segments actually preserve margin once freight, duties, payment terms, and FX are fully costed? — Calculate SKU-level landed costs, cost-to-serve, and pocket-margin price waterfalls to simulate cross-border wholesale profitability.
-* **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — What should we charge for a custom label order at each quantity tier to stay competitive and profitable? — Calculate parametric label pricing by modeling substrate square-inch costs, setup charges, and quantity-tier discount breaks against competitor benchmarks.
-* **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — What is the true net margin on each SKU once actual landed costs and retailer deductions are accounted for? — Reconcile PO-estimated landed costs against actual freight, duty, FX, and drayage charges while auditing retailer remittance deductions to expose SKU-level net margin.
-* **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Can we make this week's hiring, marketing, and vendor commitments without running out of cash before the books close? — Track weekly cash burn pacing, MRR/ARR waterfall variance, retention metrics, and payroll costs against budget before month-end close.
-* **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Will our growth plan run out of cash before cohort monetization catches up? — Forecast multi-year cash burn, runway, unit economics, and fundraising dilution from bottom-up cohort and headcount assumptions.
-* **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Is each Shopify storefront actually profitable once true SKU-level costs, shared expenses, and bank charges are reconciled? — Reconcile multi-store Shopify sales exports against SKU-level COGS, allocated multi-currency OPEX, and bank statements to produce a trustworthy monthly P&L.
-* **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Which tour bookings actually generate net profit and positive cash flow after supplier costs and B2B collections? — Calculate per-booking tour job costs, gross margins, AR/AP settlement, and operating cash flow across multiple currencies.
+---
 
 ## Questions, Feedback & Product Updates
 
-This repository supports **Real Estate Development Feasibility & Deal Screening Tool**. Use the channels below to keep reproducible defects separate from general usage questions and product ideas.
+This repository supports **Real Estate Development Feasibility & Deal Screening Tool**. Use the channels below to keep technical bugs separate from usage questions and feature ideas:
 
-- **Report a reproducible technical issue:** [Open a Real Estate Development Feasibility & Deal Screening Tool bug report](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Include the affected workflow, software environment, and steps to reproduce.
+- **Report a reproducible technical issue:** [Open a bug report](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Include the affected workflow, software environment, and steps to reproduce.
 - **Ask a usage question:** [Theseus Workshop community Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
 - **Suggest an improvement or discuss a use case:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
 - **Follow product announcements:** [Product Updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
