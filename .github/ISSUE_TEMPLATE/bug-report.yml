@@ -1,43 +1,103 @@
-name: "🐞 Report a Formula or Web App Bug"
-description: "Report a reproducible calculation error, broken link, or display issue in the web app or Excel workbook."
-title: "[Bug] "
-labels: ["bug"]
+name: "Product Bug Report"
+description: "Report a reproducible issue in Real Estate Development Feasibility & Deal Screening Tool."
+title: "[Bug]: "
+labels: ["bug", "triage"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve this tool. Please report one issue per submission.
+        **Do not include personal data, credentials, confidential business records, or unredacted source documents.**
+        Use fabricated or fully de-identified examples only.
+
   - type: dropdown
-    id: platform
+    id: problem_area
     attributes:
-      label: "Where did the issue happen?"
+      label: "Which workflow area is affected?"
       options:
-        - "Free Browser Web App (GitHub Pages)"
-        - "Excel Workbook (.xlsx) — Microsoft 365 / Excel 2021+"
-        - "Excel Workbook (.xlsx) — Older Excel Version"
-        - "Google Sheets Preview"
+        - "Site / land assumptions"
+        - "Comparable sales / market inputs"
+        - "Construction cost estimates"
+        - "Gross Realization Value (GRV)"
+        - "Profit on Cost (POC) / feasibility"
+        - "Scenario / sensitivity analysis"
+        - "Workbook / web calculator behavior"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: "Where did the issue occur?"
+      options:
+        - "Microsoft Excel for Windows"
+        - "Microsoft Excel for Mac"
+        - "Excel for the web"
+        - "Free browser-based demo"
+        - "Google Sheets / imported workbook"
+        - "Other / not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "Workbook or demo version"
+      description: "If unknown, write Not sure. Include the Excel version if relevant."
+      placeholder: "e.g. downloaded 2026-11-22; Excel 365"
     validations:
       required: true
 
   - type: textarea
-    id: description
+    id: summary
     attributes:
-      label: "What went wrong?"
-      description: "Describe the expected result vs. what actually happened."
+      label: "What happened?"
+      description: "Describe the problem and the task you were trying to complete."
+      placeholder: "I used fabricated sample data and noticed..."
     validations:
       required: true
 
   - type: textarea
-    id: steps
+    id: expected_actual
     attributes:
-      label: "Steps to reproduce (using fake/example numbers)"
+      label: "Expected result vs. actual result"
+      description: "Include the exact error text or affected sheet / output field. Do not include confidential values."
       placeholder: |
-        1. Open tab `03_Townhouse_Deal`
-        2. Enter Site Area = 800, Units = 4...
-        3. Cell C72 shows...
+        Expected:
+        Actual:
     validations:
       required: true
+
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: "Steps to reproduce"
+      description: "List the minimum steps using synthetic or de-identified data."
+      placeholder: |
+        1. Open the relevant sheet or demo.
+        2. Enter fabricated sample values.
+        3. Run the calculation or select the relevant option.
+        4. Observe the unexpected result.
+    validations:
+      required: true
+
+  - type: textarea
+    id: safe_example
+    attributes:
+      label: "Safe sample data (optional)"
+      description: "Share column names and fabricated sample rows only. Never paste raw exports or identifiable records."
+      placeholder: |
+        Column names:
+        Fabricated example rows:
+        Approximate row count:
+    validations:
+      required: false
 
   - type: checkboxes
     id: privacy_check
     attributes:
-      label: "Privacy & Safety Confirmation (Required)"
+      label: "Privacy confirmation"
       options:
-        - label: "I have removed all real addresses, personal info, and confidential deal data (synthetic examples only)."
+        - label: "I confirm this report contains no personal data, credentials, confidential records, or unredacted business documents."
           required: true
