@@ -1,0 +1,51 @@
+name: "💡 Request a Deal Scenario or New Decision Toolkit"
+description: "Need a feature for this tool, or facing another messy business decision you wish had a simple Excel template?"
+title: "[Request] "
+labels: ["enhancement", "product-idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We build plug-and-play Excel decision toolkits at **Theseus Workshop**. Tell us what decision you're trying to make faster—your request helps shape our next release!
+
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: "What are you requesting?"
+      options:
+        - "Add a scenario/metric to this Real Estate Deal Screening Tool"
+        - "Build a brand-new Excel toolkit for another business/property decision"
+        - "Local tax / currency / regional adaptation"
+    validations:
+      required: true
+
+  - type: input
+    id: user_role
+    attributes:
+      label: "Your role or industry"
+      placeholder: "e.g., First-time residential developer, small builder, property flipper, land broker..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: decision_pain
+    attributes:
+      label: "What specific decision are you trying to make?"
+      description: "Describe the messy numbers or guesswork you want to turn into a clear PASS/FAIL or Go/No-Go answer."
+      placeholder: "e.g., I want to compare holding vs. selling a 3-unit infill build after refinancing..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_workflow
+    attributes:
+      label: "How are you calculating this today (and what frustrates you)?"
+      placeholder: "e.g., Using scattered spreadsheets, getting tripped up on GST/closing costs, or spending 3 hours per deal..."
+
+  - type: checkboxes
+    id: privacy_check
+    attributes:
+      label: "Privacy Check (Required)"
+      options:
+        - label: "I confirm this post contains NO real client names, property addresses, contracts, or confidential financial data."
+          required: true
