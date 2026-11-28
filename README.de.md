@@ -1,247 +1,198 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Screening-Tool für Immobilienentwicklungs-Deals: Excel-Vorlage für Machbarkeitsanalyse und Finanzmodellierung
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
+# Screening-Tool für Immobilienentwicklungs-Deals: Kostenlose Excel-Vorlage für Machbarkeitsanalyse & Finanzmodellierung
 
+<img width="1163" height="790" alt="Real Estate Development Feasibility Excel Template Dashboard Preview" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)
-![Tool Type](https://img.shields.io/badge/Tool-Decision%20Support-success.svg)
+![Macros](https://img.shields.io/badge/VBA%20%2F%20Macros-None%20Required-success.svg)
 
-> Das **Screening-Tool für Immobilienentwicklungs-Deals** ist eine leichte **Excel-Vorlage für Finanzmodellierung und Web-App** zur schnellen Bewertung von **Wohnentwicklungsmöglichkeiten**, einschließlich **Grundstücksteilungen** und **Reihenhausprojekten mit mehreren Einheiten**. Prüfen Sie vergleichbare Grundstücke, schätzen Sie Baukosten, berechnen Sie den Brutto-Veräußerungserlös (Gross Realization Value, GRV) und bestimmen Sie Ihre Schwelle für Profit on Cost (POC) — ohne für jeden potenziellen Deal ein komplexes Machbarkeitsmodell für Immobilienentwicklung von Grund auf zu erstellen.
+> **Hören Sie auf, auf Kaugummi-Mathe auf dem Papierschnipsel zu setzen – und hören Sie auf, wochenlang eine komplexe Tabelle von Grund auf zu bauen.**  
+> **Das Screening-Tool für Immobilienentwicklungs-Deals** ist eine einsatzbereite **Excel-Vorlage für Immobilienentwicklungs-Machbarkeit und ein kostenloser Web-Rechner**, gebaut für **Wohnparzellierungen** und **Reihenhausprojekte mit mehreren Einheiten**. Geben Sie Ihre Standortdaten, Boden-Comps und Baukostenschätzungen ein, um den **Residualwert des Grundstücks (Residual Land Value)**, den **Brutto-Veräußerungswert (GRV)**, die gesamten Projektkosten und den **Profit on Cost (POC)** zu berechnen – und erhalten Sie **in unter 5 Minuten ein klares `PASS`- oder `FAIL`-Urteil für den Deal**.
 
-**Testen Sie zuerst den kostenlosen browserbasierten Deal-Screening-Rechner. Keine Registrierung. Keine Installation. 100 % kostenlos.**
+---
 
-Für Immobilienprofis, die eine **wiederverwendbare Offline-Arbeitsmappe**, dauerhaft gespeicherte Deal-Akten, bearbeitbare Finanzannahmen und schnelles wiederholtes Screening für ihre Akquise-Pipeline benötigen, ist die Excel-Version als einmaliger Kauf mit **30-tägiger Geld-zurück-Garantie ohne Rückfragen** erhältlich.
+### Starten Sie das Screening Ihres nächsten Deals (100% kostenlos für den Einstieg)
 
-*   **🌐 [Testen Sie die kostenlose Web-App zum Screening von Immobilien-Deals](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Öffnen Sie den interaktiven HTML-Rechner, der im Projekt enthalten ist, um eine schnelle Vorabanalyse durchzuführen.
-*   **📥 [Laden Sie die wiederverwendbare Excel-Vorlage für Entwicklungs-Machbarkeit herunter](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** → Erhalten Sie die vollständige Offline-Arbeitsmappe zum Speichern von Deal-Akten, zum Anpassen fortgeschrittener Underwriting-Annahmen und zum Standardisieren Ihrer Investitionsmemoranden.
+Ob Sie Ihr allererstes Baulücken-Grundstück bewerten oder jede Woche Makler-Leads screenen: Sie können die Logik sofort testen oder die vollständige Offline-Arbeitsmappe für **$0+ (Pay What You Want)** laden:
 
-Diese Werkzeugsammlung verwandelt eine mehrdeutige Frage zur Grundstücksakquise in einem frühen Stadium in einen strukturierten, datengestützten Underwriting-Workflow:
+- **🌐 [Den kostenlosen Browser-Deal-Screening-Rechner starten](https://hyvoid.github.io/real-estate-development-feasibility-excel/)**  
+  Keine Registrierung. Keine Installation. Direkt im Browser öffnen, sofort einen Live-Deal testen und ein sauberes einseitiges PDF-Deal-Memo exportieren.
+- **📥 [Die wiederverwendbare Excel-Machbarkeitsvorlage laden — Kostenlos / Pay What You Want ($0+)](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**  
+  Laden Sie die vollständige Offline-`.xlsx`-Arbeitsmappe auf Theseus Workshop herunter, um Deal-Historien zu speichern, Ihre lokalen Steuer-/Gebührenannahmen anzupassen und unbegrenzt viele Grundstücke zu screenen. *Laden Sie sie kostenlos ($0) herunter, um Ihren nächsten Deal zu prüfen – oder zahlen Sie, was sie Ihnen wert ist, und unterstützen Sie damit weitere praktische Tools.*
+- **👀 [Das Tabellen-Layout auf Google Sheets ansehen](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**  
+  Sehen Sie sich vor dem Download die genauen Tabs, Eingabebereiche und die Struktur an. *(Hinweis: Die Google-Sheets-Vorschau zeigt möglicherweise kleinere `#NAME?`-Kompatibilitätswarnungen, die beim Öffnen in Microsoft Excel nicht auftreten.)*
 
-**Bewerten Sie den Restwert des Grundstücks → Prognostizieren Sie den Brutto-Veräußerungserlös (GRV) aus vergleichbaren Verkäufen → Berechnen Sie die gesamten Immobilienentwicklungskosten (Hard & Soft) → Bewerten Sie die Kapitalrendite (ROI) gegenüber Ihren Kapitalhürden.**
+---
 
-Die zugrunde liegende Finanzmethodik ist speziell für das **Screening von Wohnparzellierungen und Mehrfamilien-/Reihenhausentwicklungen** optimiert. Sie ist bewusst schlanker als ein vollständiges 60-Monats-Cashflow-Machbarkeitsmodell. Das primäre Ziel ist es, lukrative Off-Market-Deals zu identifizieren und unrentable Grundstücke *auszufiltern*, bevor Sie erhebliches Kapital für architektonische Due Diligence, Bauleitplanung, Strukturierung des Kapitalstapels und den formellen Grundstückserwerb binden.
+## Wie aus einer riskanten Schätzung eine klare Entscheidung wird
 
-## Schmerzpunkte in der Immobilienentwicklung, die gelöst werden: Was diese Machbarkeitsvorlage erfasst
+Sie müssen kein Wall-Street-Finanzmodellierer sein, um ein Wohnbaugrundstück richtig zu bewerten. Dieses Toolkit führt Sie durch die exakte 4-Schritte-Underwriting-Logik, die erfahrene Entwickler verwenden – alles auf einem übersichtlichen Bildschirm:
 
-| Schmerzpunkt | Lösung |
-| :--- | :--- |
-| **Überzahlung für das Grundstück** | Berechnet den **marktgerechten Restwert des Grundstücks**, statt sich auf den Verkäuferpreis oder das Geflüster von Brokern zu verlassen. |
-| **Überschätzung der Verkaufserlöse** | Prognostiziert den **erwarteten Brutto- und Netto-Veräußerungserlös**, der direkt aus verifizierten vergleichbaren Wohnverkäufen (Comps) abgeleitet wird. |
-| **Sprengung des Budgets durch versteckte Kosten** | Konsolidiert **Grundstückserwerbskosten, harte Baukostenschätzungen, weiche Kosten (Honorare/Beiträge), Risikopuffer und Finanzierungskosten während der Haltedauer** in einer einzigen Projekt-Proforma-Ansicht. |
-| **Schlechte Dichteplanung** | Legt die **Ökonomie pro Einheit** für Reihenhausmöglichkeiten mit mehreren Einheiten offen, mit Grundstückskosten pro Wohneinheit und durchschnittlicher Bruttogeschossfläche (GFA) pro Einheit. |
-| **Emotionale Investitionsentscheidungen** | Vergleicht den tatsächlichen **Profit on Cost (POC) mit Ihrer strengen Investitionshürde** und gibt eine definitive `PASS`-, `FAIL`- oder `PENDING INPUT`-Geschäftsentscheidung aus. |
-| **Ausweglose Verhandlungen** | Rekonstruiert rückwärts den **zum Retten eines schwachen Deals erforderlichen Kaufpreis** und verwandelt die Verhandlung mit dem Verkäufer in eine präzise mathematische Variable statt eines separaten Rätselratens in der Tabelle. |
+**1. Vergleichswerte für den Bodenwert ermitteln (Comps) -> 2. Exit-Verkaufswert schätzen (GRV) -> 3. Alle harten, weichen und Finanzierungskosten stapeln -> 4. Sofortiges `PASS` / `FAIL`-Urteil erhalten**
 
-## Schritt-für-Schritt-Tutorial: So prüfen Sie Immobilienentwicklungs-Deals in Minuten
+Es ist bewusst schlanker als ein 60-Monats-Monatscashflow-Modell. Das Ziel ist einfach: **rentable Off-Market-Deals schnell aufspüren und unrentable *bevor* Sie Tausende für Architekten, Vermessungen, Bauleitplanungsberater oder Anwaltskosten ausgeben, liegen lassen.**
 
-### 1. Legen Sie Ihr Immobilieninvestitions-Mandat und die Baseline-Parameter fest
-**Aktion:** Definieren Sie die globalen Investitionsannahmen, die Ihr Kapital steuern. 
-Die Arbeitsmappe zentralisiert Ihre Basis-Finanzkennzahlen: Basiswährung, Ziel-POC-Schwelle, Grunderwerbsteuersätze des Bundeslandes, Honorarprozentsätze, Baudurchführungspuffer und Verkaufsprovisionen für Immobilienmakler.
-*Tipp: Die standardmäßige POC-Investitionshürde ist auf **25,00 %** eingestellt, kann aber global angepasst werden, wenn sich das Investitionsmandat oder die Risikobereitschaft Ihres Fonds ändert.*
+---
 
-### 2. Deal-Belege und Immobilienvergleichsobjekte (Comps) eingeben
-**Aktion:** Geben Sie die physischen Grundstückskennzahlen und Marktdaten ein.
-Wählen Sie Ihr geplantes Wohnentwicklungsszenario (z. B. Parzellierung vs. Bau zum Verkauf) und geben Sie ein:
-*   Gesamtgrundstücksfläche & Beschränkungen durch den Bebauungsplan
-*   Geplanter Entwicklungsertrag (Gesamtzahl der Einheiten/Grundstücke)
-*   Ziel-Bruttogeschossfläche (GFA)
-*   Vereinbarter oder spekulativer Kaufpreis
-*   Rechtliche Zulagen für Erwerb und Due Diligence
-*   **Bis zu 10 Grundstücksvergleichsobjekte** zur Begründung des Grundstückswerts
-*   **Bis zu 10 Vergleichsobjekte für Verkauf/fertige Immobilien** zur Begründung des Brutto-Veräußerungserlöses (GRV)
-*   Harte Baukosten pro QM/QFT
-*   Kommunale Erschließungsbeiträge
-*   Zulagen für Marketing, Recht und kapitalisierte Finanzierungszinsen
+## Was Sie in 5 Minuten berechnen können
 
-### 3. Automatisierte Machbarkeitsanalyse & ROI-Entscheidung generieren
-**Aktion:** Überprüfen Sie die sofortige Proforma-Berechnung.
-Die Berechnungsmaschine aktualisiert sich automatisch, während Sie Daten eingeben — keine manuellen Neuberechnungsmakros erforderlich. Das finale Entscheidungs-Dashboard zeigt sofort die gesamten Projektkosten, den Netto-Entwicklungsgewinn, das erreichte POC, die Abweichung von der Zielhürde und den resultierenden `PASS`-, `FAIL`- oder `PENDING INPUT`-Investitionsstatus. 
+Entwickelt, um die praxisrelevanten Fragen zu beantworten, die darüber entscheiden, ob ein Immobilienentwicklungsprojekt Geld verdient oder verliert:
 
-### 4. Investitionsmemorandum exportieren & auf die Excel-Vorlage für wiederholte Nutzung umsteigen
-**Aktion:** Archivieren Sie das Screening-Ergebnis und standardisieren Sie Ihre Pipeline.
-Sobald ein Grundstück im Browser geprüft wurde, exportieren Sie es als kompaktes, einseitiges PDF-Investitions-Screening-Memorandum zur Präsentation vor Ihrem Akquiseausschuss oder Ihren Kreditgebern. 
-**Hat Ihnen das kostenlose Web-Tool gefallen?** Um mehrere Grundstücke zu bewerten, Formeln anzupassen, historische Deal-Daten zu speichern und Ihre Baseline-Parameter nicht jedes Mal erneut eingeben zu müssen, **[laden Sie die wiederverwendbare Excel-Version der Machbarkeitsvorlage herunter](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** für unbegrenztes Offline-Screening von Immobilien.
+- **Wohnparzellierungen screenen**, um zu prüfen, ob die Gewinnmarge das Risiko und die Haltezeit wirklich rechtfertigt.
+- **Reihenhausbauten mit mehreren Einheiten modellieren** – mit klaren Grundstückskosten pro Wohneinheit, durchschnittlicher Bruttogeschossfläche (GFA) pro Einheit und Baukosten pro m²/Quadratfuß.
+- **Ihren maximal zulässigen Kaufpreis (Maximum Allowable Offer, MAO) rückwärts berechnen** – finden Sie den exakten Grundstückskaufpreis, der aus einem scheiternden Deal einen profitablen macht, bevor Sie mit dem Verkäufer verhandeln.
+- **Versteckte Entwicklungskosten früh aufdecken**, einschließlich Grunderwerbsteuer, kommunale/municipale Beiträge, Honorare, Baurisikopuffer, Verkaufsprovisionen und Finanzierungszulagen.
+- **Ein sauberes einseitiges Investment-Screening-Memo erstellen**, das Sie zuversichtlich an Kreditgeber, Makler, Mentoren oder Joint-Venture-(JV)-Partner weitergeben können.
 
-## Warum ich dieses Property-Underwriting-Tool entwickelt habe
+---
 
-Die Prüfung von Immobilienentwicklungen in einem frühen Stadium scheitert oft aus einem einfachen Grund: Kritische Underwriting-Daten liegen in Silos vor.
+## 6 teure Anfängerfehler, vor denen diese Vorlage Sie schützt
 
-Ein Bodenpreis steckt in einem E-Mail-Verlauf. Vergleichbare Verkäufe (Comps) leben in einem separaten CMA-Bericht. Harte Baukosten werden von einem Bauunternehmer per SMS geschickt. Kommunale Bebauungsgebühren werden grob auf einem Notizblock geschätzt. Finanzierungskosten während der Haltedauer werden als vager Puffer behandelt. Die endgültige „Go/No-Go“-Entscheidung wird dann mit einer fragmentierten, manuell zusammengestellten Tabelle getroffen, die nicht offenlegt, wie diese kommerziellen Variablen dynamisch interagieren.
+Frühphasige Immobilien-Deals scheitern selten an einem einzigen riesigen Fehler – sie scheitern, weil kritische Kosten in separaten E-Mails, Nachrichten und PDFs verstreut liegen, bis es zu spät ist. So ersetzt diese Vorlage verstreutes Rätselraten durch ein wiederholbares Rahmenwerk:
 
-Das führt zu einem fatalen Analysefehler in der Immobilien-Private-Equity: **Optimierung einer einzelnen Kennzahl (wie des Bodenpreises) bei Verlust des Blicks für die ganzheitliche Deal-Ökonomie und den Kapitalstapel.**
-
-Ein Grundstückserwerb mag im Vergleich zu aktuellen Bodentransaktionen unglaublich günstig aussehen, wird aber letztlich Geld verbluten, sobald Verkaufsprovisionen, Architektenhonorare, obligatorische Risikopuffer, Mezzanine-Finanzierungssätze und harte Baupreiseskalationen in die Proforma einbezogen werden. 
-
-Umgekehrt kann ein scheinbar überteuertes Innenstadtgrundstück massive Renditen abwerfen, weil die Bebauungsdichte (Ertrag) und die Premium-Preisgestaltung des fertigen Produkts den hohen Kapitalaufwand tragen.
-
-Diese Vorlage produktisiert genau diese institutionelle Argumentation. 
-
-Beispielsweise mag eine Reihenhausentwicklung mit vier Einheiten auf Basis eines niedrigen Bodenpreises zunächst machbar erscheinen. Aber sobald sie mit Vergleichsobjekten für fertige Verkäufe und dem *vollständigen* Entwicklungskostenstapel abgeglichen wird, fällt das POC unter die 20-%-Hürde. Plötzlich ist die wichtigste Frage nicht mehr *„Mögen wir diese Nachbarschaft?“*, sondern *„Bei welchem genau maximalen Grundstückserwerbspreis wird dieses Projekt zu einer bankfähigen Investition?“*
-
-Dieses Modell arbeitet als **wiederholbares Rahmenwerk zur Prüfung von Grundstücksakquise**, nicht als fragile, einmalige Machbarkeitstabelle. Es zwingt Entwickler und Analysten, für jeden Off-Market-Lead exakt dieselben kommerziellen Fragen zu beantworten, bevor Tausende von Dollar in formelle Due Diligence versenkt werden.
-
-## Gelöste Branchenherausforderungen: Traditionelles Underwriting vs. optimiertes Deal-Screening
-
-| Branchenherausforderung (Schmerzpunkt) | Traditionelle Underwriting-Methoden | Optimierter Deal-Screening-Workflow (Lösung) |
+| Häufiger, deal-vernichtender Fehler | Was üblicherweise passiert | Wie diese Machbarkeitsvorlage das löst |
 | :--- | :--- | :--- |
-| **Verankerung am Restwert des Grundstücks** | Erwerbsentscheidungen werden stark vom Verkäuferpreis oder von Broker-Erzählungen beeinflusst. | Bezieht bis zu 10 aktuelle vergleichbare Bodentransaktionen ein, um einen strengen, datengestützten **Marktwert-Referenzpunkt** zu etablieren. |
-| **GRV-Optimismus** | Der Exit-Erlös des fertigen Produkts wird unabhängig von lokaler Marktaufnahme und Preisobergrenzen geschätzt. | Nutzt verifizierte **vergleichbare Wohnverkäufe**, um die Brutto-Realisierung und die Netto-Erlösberechnungen genau zu steuern. |
-| **Anhäufung von Soft Costs & CapEx** | Grunderwerbsteuer, Architektenhonorare, Bebauungsabgaben, Baudurchführungspuffer und kapitalisierte Zinsen werden oft vergessen oder unterschätzt. | Der gesamte **Kapitalaufwands- (CapEx) und Soft-Cost-Stapel** wird in einer institutionellen Projekt-Proforma konsolidiert. |
-| **Blindheit für Dichte & Ertrag** | Mehrfamilien- und Parzellierungsprojekte werden rein nach ihrem Bruttoumsatz beurteilt, ohne die Effizienz zu analysieren. | Berechnet strengen **Einheitenertrag und Ökonomie pro Wohneinheit** und legt offen, wie Bodenbasis und harte Kosten über das Grundstück verteilt sind. |
-| **Hürdenraten-Mehrdeutigkeit** | Investitionsausschüsse entscheiden, ob ein Deal „sich richtig anfühlt“, mit inkonsistenten persönlichen Vorurteilen und sich bewegenden Zielen. | Das Projekt-POC wird mathematisch gegen eine **festgelegte Investitionshürde** gebenchmarkt und produziert ein standardisiertes, emotionsloses Urteil. |
-| **Verhandeln ohne Proforma** | Käufer reichen niedrige LOIs (Letters of Intent) ein, ohne zu wissen, ob die Preisreduzierung tatsächlich ihre Mindest-ROI erfüllt. | Das **maximal tragbare Kaufangebot (MAO)** kann dynamisch angepasst werden und berechnet die Projektökonomie sofort neu, um den Break-Even-Kaufpreis zu finden. |
+| **Überzahlung für den Boden** | Verlass auf den Angebotspreis des Verkäufers oder eine mündliche Schätzung des Maklers. | Erfasst bis zu **10 vergleichbare Bodenverkäufe**, um eine objektive, marktbasierte **Residualwert-Referenz für den Grundstückswert** zu berechnen. |
+| **Bruttoverkäufe als Gewinn zählen** | Einheitspreis mal Einheitszahl multiplizieren und die Verkaufsgebühren vergessen. | Zieht bis zu **10 vergleichbare Verkäufe fertiger Objekte** für die **GRV** heran und rechnet danach automatisch Maklerprovisionen und Marketing-/Rechtskosten pro Einheit ab, um die wahre **Netto-Realisierung** anzuzeigen. |
+| **Versteckte weiche Kosten vergessen** | Nur Boden und Baukosten budgetieren, während Steuern, Gebühren und Puffer übersehen werden. | Konsolidiert **Grunderwerbsteuer, harte Baukosten, kommunale Abgaben, Architekten-/Sachverständigenhonorare, Risikopuffer und Finanzierungshaltungskosten** in einer einheitlichen Proforma. |
+| **Reihenhausdichte falsch einschätzen** | Nur den Umsatz an der Spitze betrachten, ohne die Effizienz pro Einheit zu prüfen. | Schlüsselt automatisch die **Ökonomie pro Einheit** auf und zeigt Grundstückskosten pro Wohneinheit sowie die durchschnittliche GFA pro Reihenhaus. |
+| **Emotionale Bauchgefühl-Deals abschließen** | Sich eine dünne Marge einreden, weil man die Nachbarschaft mag. | Stellt das tatsächliche **Profit on Cost (POC)** gegen Ihre festgelegte Hurdle Rate (Standard `25.00%`) und liefert ein objektives `PASS`-, `FAIL`- oder `PENDING INPUT`-Urteil. |
+| **Blind verhandeln** | Ein beliebiges Niedrigangebot abgeben, ohne zu wissen, ob es überhaupt funktioniert. | Passen Sie die Kaufpreis-Zelle an und sehen Sie sofort Ihren **Break-Even-/Zielerwerbspreis** – aus Verhandlung wird einfache Mathematik. |
 
-## Szenarien für Immobilieninvestitionen & Long-Tail-Suchanwendungsfälle
+---
 
-Diese Vorlage ist bewusst so konzipiert, dass sie die häufigsten Immobilienentwicklungsberechnungen erfasst und rationalisiert, einschließlich:
-*   *Wie man den Gewinn einer Wohnparzellierung berechnet.*
-*   *Schätzen harter und weicher Kosten für Reihenhausbauten mit mehreren Einheiten.*
-*   *Rückwärts-Rekonstruktion des Restwerts des Grundstücks für Off-Market-Grundstückserwerbe.*
-*   *Erstellen eines einseitigen Immobilien-Investitionsmemorandums für JV-Eigenkapitalpartner.*
-*   *Schnelles Ausfiltern unrentabler Immobilien-Wholesaling- und Flipping-Deals.*
+## Schritt für Schritt: Von der Anzeige zur Entscheidung in 4 einfachen Schritten
 
-## Für wen das gedacht ist: Zielrollen & empfohlene Softwareanwendungen
+Keine komplexen Formeln zu schreiben. Keine Makros zu aktivieren. **Geben Sie Zahlen nur in die hellblauen Zellen ein – alles andere rechnet automatisch und ist zum Schutz der Mathematik gesperrt.**
 
-Dieses Rahmenwerk ist für Immobilienprofis gebaut, die in frühen Phasen des Deal-Zyklus Geschwindigkeit und Genauigkeit brauchen:
+### Schritt 1: Legen Sie Ihre Grundregeln fest (einmalig)
+Öffnen Sie `01_Global_Settings`, um Ihre Währung, die Ziel-**Profit-on-Cost-(POC)**-Hurdle (Standard `25.00%`), den Grunderwerbsteuersatz, den Honorarprozentsatz, den Baurisikopuffer und den Maklerprovisionssatz festzulegen. Einmal festlegen, bei jedem Deal wiederverwenden.
 
-*   **Immobilien-Akquiseanalysten**: Nutzung eines *Excel-Modells zum Screening von Immobilienentwicklungen* für schnelles tägliches Filtern der Broker-Deal-Pipeline.
-*   **Unabhängige Immobilienentwickler**: Verlass auf eine *Reihenhaus-Machbarkeitsvorlage* zur Bewertung von Off-Market-Grundstückserwerben vor der Beauftragung von Architekten.
-*   **Manager von Immobilieninvestitionsfonds**: Einsatz von *Residential-Deal-Filter-Software* zur Standardisierung, wie Junior-Analysten neue Assets analysieren und pitchen.
-*   **Gewerbliche Immobilienmakler (Grundstücksverkauf)**: Nutzung eines *Restwert-Rechner-Tools* zur Validierung von Verkäuferpreisen und Erstellung überzeugender Pitch-Decks für Entwicklerkäufer.
-*   **Architektur- & Stadtplanungsbüros**: Nutzung eines *Finanzmodells für höchste und beste Nutzung* zum Nachweis der kommerziellen Machbarkeit neben vorläufigen Studien zur Grundstückskapazität.
+### Schritt 2: Grundstück und Markt-Comps eingeben
+Wählen Sie den Tab **Residential Subdivision** (Wohnparzellierung) oder **Townhouse Development** (Reihenhausentwicklung) und geben Sie ein:
+- Grundstücksfläche, geplanter Einheitsertrag und Ziel-Bruttogeschossfläche (GFA)
+- Angebots- oder Zielpreis + rechtliche/Due-Diligence-Zulage
+- Bis zu **10 aktuelle Boden-Comps** und **10 vergleichbare Verkäufe fertiger Objekte**
+- Geschätzte Baurate pro m²/Quadratfuß, kommunale Beiträge und Finanzierungszulage
 
-*Besonders nützlich, wenn das Kernziel **schnelles Screening in frühen Deal-Phasen** ist, anstatt hochgranulare monatliche Cashflow-Prognosen, komplexe Kapitalstapel-Strukturierung (Waterfall-Modelle) oder finale Kreditgeber-Due-Diligence zu ersetzen.*
+### Schritt 3: Ihr sofortiges `PASS` / `FAIL`-Urteil ablesen
+Das Dashboard aktualisiert sich in Echtzeit und zeigt **Gesamte Projektkosten**, **Netto-Entwicklungsgewinn**, das erreichte POC, die Abweichung von Ihrer Ziel-Hurdle und eine farbcodierte Entscheidung: **`PASS`** (grün) oder **`FAIL`** (rot). Zeigt es `FAIL`, senken Sie die Kaufpreis-Zelle so lange, bis es auf `PASS` springt – jetzt kennen Sie Ihr exaktes Maximalangebot.
 
-## Über
+### Schritt 4: Deal speichern oder einseitige Zusammenfassung exportieren
+Exportieren Sie in der Browser-App ein ordentliches einseitiges PDF-Screening-Memo zum Teilen mit Partnern oder Maklern. Wenn Sie mehrere Grundstücke vergleichen, dauerhafte Deal-Akten führen und Ihre Basisraten nicht bei jedem Deal neu eingeben möchten, **[laden Sie die Kostenlose-/Pay-What-You-Want-Excel-Arbeitsmappe herunter](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**.
 
-Ich baue leichte Tracker und Entscheidungsunterstützungs-Tools für Situationen, in denen zu viele bewegliche Teile im Spiel sind, um sie gleichzeitig im Kopf zu behalten.
+---
 
-Die Frage hinter jedem Tool ist einfach:
+## Für wen dieses Tool gebaut ist
 
-> **Welche Informationen müssen an einem Ort sein, um die nächste Entscheidung selbstbewusst zu treffen?**
+Diese Vorlage ist für praktisch arbeitende Profis konzipiert, die **professionelle Klarheit in Minuten** wollen, ohne überteuerte Unternehmenssoftware zu bezahlen:
 
-Das **Screening-Tool für Immobilienentwicklungs-Deals** wendet diesen Ansatz auf das Akquise-Screening an: Grundstücksbelege, Entwicklungsannahmen, Verkaufsbelege, Kostenexposure und die resultierende Investitionsentscheidung werden in einen wiederholbaren Workflow gebracht.
+- **Erst- und unabhängige Immobilienentwickler**: Off-Market-Grundstücke und kleine Reihenhaus-Standorte selbstbewusst screenen, bevor Sie für architektonische Machbarkeitsstudien bezahlen.
+- **Kleine Bauträger & Immobilien-Flipper auf dem Weg zur Baulückenentwicklung**: Vermeiden Sie Margen-Desaster durch vergessene weiche Kosten, kommunale Gebühren und Vertriebsaufwendungen.
+- **Immobilien-Akquise-Analysten & Makler / Bodenmakler**: Führen Sie schnelle tägliche Deal-Filter durch, untermauern Sie Bodenpreise mit echten Comps und senden Sie saubere Deal-Memos an Käufer.
+- **Joint-Venture-(JV)-Partner & kleine Immobilieninvestoren**: Führen Sie eine schnelle, unabhängige Plausibilitätsprüfung jedes Entwicklungs-Deals durch, der Ihnen präsentiert wird.
+- **Architekten & Standortplaner**: Kombinieren Sie frühe Skizzen zur Standortkapazität mit schnellen Zahlen zur wirtschaftlichen Tragfähigkeit.
 
-## Technische Details
+> **Ehrlicher Geltungsbereich:** Dieses Tool ist speziell für **schnelles, diszipliniertes Deal-Screening in der Frühphase** gebaut. Sobald ein Deal ein `PASS` erhält, sollten Sie dennoch mit detaillierten monatlichen Cashflow-Prognosen, formellen Kostenschätzungen von Quantity Surveyors und vollständiger Kreditgeber-Due-Diligence nachziehen.
+
+---
+
+## Warum dieses Tool funktioniert (auch wenn Sie das Bauen von Tabellen hassen)
+
+Die meisten frühen Immobilienanalysen scheitern, weil die Zahlen verstreut sind: Der Bodenpreis steckt in einer E-Mail, die Comps liegen in einem Makler-PDF, die Bauraten kommen per SMS und die Finanzierungskosten werden als vage Schätzung behandelt.
+
+Das erzeugt eine klassische Falle: **die Jagd nach einem „günstigen“ Grundstück, das tatsächlich Geld verliert, sobald harte Kosten, Verkaufsprovisionen, Risikopuffer und Finanzierung zusammengerechnet werden** – oder das Auslassen eines etwas teureren Standorts, bei dem der höhere Reihenhaus-Ertrag den Preis problemlos trägt.
+
+Diese Vorlage sperrt all diese beweglichen Teile in einen transparenten Workflow. Sie erhalten die analytische Strenge eines erfahrenen Entwicklungs-Underwriters mit der Geschwindigkeit und Einfachheit eines Plug-and-Play-Rechners.
+
+---
+
+## Technische Details & Formel-Audit
+
+Möchten Sie die Mathematik überprüfen, die Formel-Integrität prüfen oder vor dem Download ein vollständig durchgerechnetes 4-Einheiten-Reihenhausbeispiel sehen? Klappen Sie das technische Audit unten auf.
 
 <details>
-<summary>Für technische Prüfer, Excel-Praktiker und Mitwirkende</summary>
+<summary><strong>Aufklappen: Arbeitsmappen-Architektur, durchgerechnetes 4-Einheiten-Beispiel, Excel-Formeln & Validierungsregeln</strong></summary>
 
 ### Arbeitsmappen-Architektur
 
-Die Arbeitsmappe ist als vier verbundene Arbeitsblätter strukturiert:
+Die Excel-Arbeitsmappe besteht aus vier verbundenen Arbeitsblättern – ganz ohne VBA oder Makros:
 
-| Arbeitsblatt                 | Rolle            | Primäre Verantwortlichkeit                                                                        |
-| --------------------- | --------------- | --------------------------------------------------------------------------------------------- |
-| `00_Start_Here`       | Onboarding      | Nutzungshinweise, Farblegende, Methodikerklärung und ein abgeschlossenes Benchmark-Beispiel |
-| `01_Global_Settings`  | Parameter      | Zentrale Investitionsannahmen, Währungsanzeige, Hürdenraten und Standardkostenprozentsätze |
-| `02_Residential_Deal` | Entscheidungsmaschine | Screening für Wohnparzellierung / Einzelgebäudeentwicklung                               |
-| `03_Townhouse_Deal`   | Entscheidungsmaschine | Screening für Reihenhausentwicklung mit mehreren Einheiten                                                    |
+| Arbeitsblatt | Rolle | Hauptverantwortung |
+| :--- | :--- | :--- |
+| `00_Start_Here` | Onboarding | Nutzungshinweise, Farblegende, Methodikerklärung und ein abgeschlossenes Benchmark-Beispiel |
+| `01_Global_Settings` | Parameter | Zentrale Investitionsannahmen, Währungsanzeige, Hurdle Rates und Standardkostenprozentsätze |
+| `02_Residential_Deal` | Entscheidungsmaschine | Screening für Wohnparzellierung / Ein-Objekt-Entwicklung |
+| `03_Townhouse_Deal` | Entscheidungsmaschine | Screening für Reihenhausentwicklung mit mehreren Einheiten |
 
-Die Architektur folgt einem Einbahnstraßen-Fluss:
+Die Architektur folgt einem strikt einseitigen Datenfluss:
 
 ```text
 RAW DEAL INPUTS
-     │
-     ├── Site / Yield / GFA
-     ├── Land Comparables
-     ├── Retail Comparables
-     ├── Acquisition Assumptions
-     └── Development Cost Assumptions
-     │
-     ▼
+     |
+     +-- Site / Yield / GFA
+     +-- Land Comparables
+     +-- Retail Comparables
+     +-- Acquisition Assumptions
+     +-- Development Cost Assumptions
+     |
+     v
 CALCULATION ENGINE
-     │
-     ├── Comparable Market Averages
-     ├── Land Acquisition Cost
-     ├── Gross Realisation
-     ├── Selling Costs
-     ├── Net Realisation
-     ├── Development Costs
-     ├── Finance Allowance
-     └── Total Project Cost
-     │
-     ▼
+     |
+     +-- Comparable Market Averages
+     +-- Land Acquisition Cost
+     +-- Gross Realisation
+     +-- Selling Costs
+     +-- Net Realisation
+     +-- Development Costs
+     +-- Finance Allowance
+     +-- Total Project Cost
+     |
+     v
 DECISION LAYER
-     │
-     ├── Net Development Profit
-     ├── Profit on Cost
-     ├── Target POC
-     └── PASS / FAIL / PENDING INPUT
+     |
+     +-- Net Development Profit
+     +-- Profit on Cost (POC)
+     +-- Target POC Hurdle
+     +-- PASS / FAIL / PENDING INPUT
 ```
 
-Das System trennt bewusst entsperrte Eingabezellen von gesperrten Berechnungs- und Präsentationszellen. Die Arbeitsmappe ist so konzipiert, dass Benutzer daran gehindert werden, Berechnungslogik zu überschreiben, während die tatsächlichen Deal-Annahmen leicht zu identifizieren bleiben. 
+Das System trennt bewusst entsperrte Eingabezellen von gesperrten Berechnungs- und Präsentationszellen, damit nicht-technische Benutzer nicht versehentlich Formeln überschreiben können, während alle Deal-Annahmen leicht editierbar bleiben.
 
-Die Struktur Eingabe → Berechnung → Entscheidung ist über die Wohn- und Reihenhausszenarien hinweg konsistent. Die Reihenhausversion legt zusätzlich einheitenbezogene Kennzahlen offen, da der Entwicklungsertrag ein zentraler Bestandteil der Ökonomie mehrerer Einheiten ist. 
-
-### Entscheidungs-Framework
-
-Die ökonomische Kernkette ist:
+### Entscheidungsrahmenwerk
 
 ```text
 Comparable Land Evidence
-        ↓
+        |
+        v
 Land Market Price Benchmark
-        ↓
+        |
+        v
 Model-Indicated Land Value
-        ↓
-Actual Acquisition Cost
-        ↓
-Development + Finance Costs
-        ↓
-Finished-Property Comparable Evidence
-        ↓
-Gross Realisation
-        ↓
-Selling Costs
-        ↓
-Net Realisation
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Investment Hurdle
-        ↓
-PASS / FAIL
+        |
+        v
+Actual Acquisition Cost  +  Development & Finance Costs
+        |
+        v
+Finished-Property Comparable Evidence -> Gross Realisation -> Less Selling Costs -> Net Realisation
+        |
+        v
+Net Development Profit -> Profit on Cost (POC) vs. Investment Hurdle -> PASS / FAIL
 ```
 
-Die wichtige Designentscheidung ist, dass **Boden, Erlös und Entwicklungskosten nicht als getrennte Fragen bewertet werden**. Sie konvergieren in einem einzigen projektbezogenen Renditetest.
+Boden, Erlös und Entwicklungskosten werden nie isoliert bewertet – sie konvergieren in einem einzigen projektbezogenen Renditetest.
 
-### Drei Fallen, die selbst erfahrene Immobilienkäufer fangen
+### Drei Fallen, die selbst erfahrene Immobilienkäufer erwischen
 
-#### Falle 1 — Den Verkäuferpreis als Bodenwert behandeln
-
-**1. Eine Entscheidung wurde getroffen.**
-
-Eine Akquise-Möglichkeit erscheint im Vergleich zu den Erwartungen des Verkäufers angemessen bepreist.
-
-**2. Die Entscheidung beruhte auf einer unbemerkten fehlerhaften Annahme.**
-
-Der Verkäuferpreis wurde als relevante Boden-Benchmark behandelt, ohne Normalisierung gegen vergleichbare Transaktionsbelege.
-
-**3. Die Empfehlung ändert sich.**
-
-Ein Projekt kann günstig aussehen, weil der Käufer es mit anderen Verkäuferpreisen vergleicht statt mit abgeschlossenen Transaktionen.
-
-**4. Warum die Argumentation inkorrekt ist.**
-
-Ein Verkäuferpreis ist eine Angebotsposition. Er ist nicht notwendigerweise ein Beleg für markträumenden Wert.
-
-**5. Korrigierter Ansatz.**
-
-Nutzen Sie tatsächliche vergleichbare Bodentransaktionen, um einen Marktpreis-pro-Quadratmeter-Referenzwert zu etablieren.
-
-**6. Korrigiertes Entscheidungsergebnis.**
-
-Der Erwerb kann dann gegen einen marktgerechten Bodenwert bewertet werden, bevor die Entwicklungsökonomie betrachtet wird.
-
-**7. Formellogik**
+#### Falle 1 — Den Angebotspreis als Bodenwert behandeln
+- **Der Fehler:** Ein Grundstück als „günstig“ im Vergleich zu anderen Angebotspreisen statt zu abgeschlossenen Transaktionen bewerten.
+- **Die Korrektur:** Tatsächliche vergleichbare Bodenverkäufe nutzen, um über dynamische Filterung eine marktbasierte Preis-pro-m²-Referenz zu berechnen (leere Zeilen ignorieren, damit leere Zellen den Durchschnitt nie verwässern).
 
 <details>
-<summary>Berechnung von Bodenvergleichsobjekten</summary>
+<summary>Formellogik der Boden-Comps anzeigen</summary>
 
 ```excel
 =IF(D14:D23="","",
@@ -251,8 +202,6 @@ Der Erwerb kann dann gegen einen marktgerechten Bodenwert bewertet werden, bevor
    )
 )
 ```
-
-Das Modell mittelt dann nur gültige positive Vergleichswerte:
 
 ```excel
 =IFERROR(
@@ -266,48 +215,18 @@ Das Modell mittelt dann nur gültige positive Vergleichswerte:
 )
 ```
 
-Der resultierende Markt-Benchmark wird genutzt, um einen modellbasierten Bodenwert zu indizieren:
-
 ```excel
 =ROUND(C5*E24,0)
 ```
 
-Das Quelldesign nutzt explizit dynamische Filterung, damit leere Vergleichszeilen den Marktdurchschnitt nicht verzerren. 
-
 </details>
 
----
-
-#### Falle 2 — Brutto-Verkaufserlöse statt Netto-Realisierung betrachten
-
-**1. Eine Entscheidung wurde getroffen.**
-
-Ein Reihenhausprojekt erscheint höchst profitabel, weil der erwartete Verkaufspreis multipliziert mit der Zahl der Einheiten eine große Brutto-Erlöszahl produziert.
-
-**2. Die Entscheidung beruhte auf einer unbemerkten fehlerhaften Zahl.**
-
-Brutto-Verkäufe wurden so behandelt, als wären sie das zur Deckung der Entwicklungskosten verfügbare Bargeld.
-
-**3. Die Empfehlung ändert sich.**
-
-Sobald Verkaufsprovisionen und Marketing-/Rechtskosten pro Einheit abgezogen werden, kann die ökonomische Marge materiell niedriger sein.
-
-**4. Warum die Argumentation inkorrekt ist.**
-
-Der Entwickler behält den Brutto-Verkaufswert nicht. Vertriebs- und Verkaufskosten sitzen zwischen dem ausgewiesenen Verkaufspreis und dem tatsächlich realisierbaren Erlös des Projekts.
-
-**5. Korrigierter Ansatz.**
-
-Berechnen Sie zuerst die Brutto-Realisierung und entfernen Sie dann explizit die Verkaufskosten, bevor Sie das Ergebnis mit den Projektkosten vergleichen.
-
-**6. Korrigiertes Entscheidungsergebnis.**
-
-Das Projekt wird gegen **Netto-Realisierung** bewertet, nicht gegen eine optimistische Brutto-Erlöszahl.
-
-**7. Formellogik**
+#### Falle 2 — Bruttoverkaufserlöse mit Netto-Realisierung verwechseln
+- **Der Fehler:** Die Bruttoverkäufe als das Geld behandeln, das zur Deckung der Projektkosten verfügbar ist.
+- **Die Korrektur:** Zuerst Maklerprovisionen und Marketing-/Rechtskosten pro Einheit abziehen, um die wahre **Netto-Realisierung** festzustellen.
 
 <details>
-<summary>Realisierungsberechnung</summary>
+<summary>Formellogik der Realisierung anzeigen</summary>
 
 ```excel
 =ROUND(C6*D46,0)
@@ -325,51 +244,18 @@ Das Projekt wird gegen **Netto-Realisierung** bewertet, nicht gegen eine optimis
 =C50-C53
 ```
 
-Die Berechnung folgt daher:
-
 ```text
-Gross Realisation
-    − Agent Commission
-    − Unit Marketing / Legal Costs
-    = Net Realisation
+Gross Realisation - Agent Commission - Unit Marketing/Legal Costs = Net Realisation
 ```
-
-Die Quellspezifikation definiert dies als Basis für die Netto-Rückgewinnung des Projekts, bevor Projektkosten abgezogen werden. 
 
 </details>
 
----
-
 #### Falle 3 — Einen Deal als PASS bezeichnen, bevor der Kostenstapel vollständig ist
-
-**1. Eine Entscheidung wurde getroffen.**
-
-Ein Projekt scheint auf Basis von Boden, Bau und erwarteten Verkäufen einen akzeptablen Gewinn zu generieren.
-
-**2. Die Entscheidung beruhte auf einem unbemerkten fehlerhaften Modell.**
-
-Honorare, Risikopuffer, kommunale Beiträge, Verkaufskosten oder Finanzierungszulagen wurden weggelassen oder separat behandelt.
-
-**3. Die Empfehlung ändert sich.**
-
-Das Projekt kann von scheinbar akzeptabel auf unter die Investitionshürde fallen, sobald der vollständige Kostenstapel einbezogen wird.
-
-**4. Warum die Argumentation inkorrekt ist.**
-
-Profitabilität ist eine Beziehung zwischen der vollständigen Netto-Realisierung und dem vollständigen Projektkapitalbedarf.
-
-**5. Korrigierter Ansatz.**
-
-Aggregieren Sie Grundstückserwerb, Entwicklung und Finanzierungsexposure, bevor Sie POC berechnen.
-
-**6. Korrigiertes Entscheidungsergebnis.**
-
-Nur die abgeschlossene Projektökonomie wird gegen die Investitionshürde getestet.
-
-**7. Formellogik**
+- **Der Fehler:** Honorare, Risikopuffer, kommunale Beiträge oder Finanzierungshaltungszulagen in der ersten Machbarkeitsprüfung weglassen.
+- **Die Korrektur:** Grundstückserwerb, vollständige Entwicklungskosten und Finanzierungsexposure aggregieren, bevor POC gegen die Hurdle Rate getestet wird (mit `ROUND(...,4)`, um Gleitkomma-Grenzfehler zu vermeiden).
 
 <details>
-<summary>Projektbezogene Entscheidungsmaschine</summary>
+<summary>Formeln der projektbezogenen Entscheidungsmaschine anzeigen</summary>
 
 ```excel
 =C31+C65+C69
@@ -399,162 +285,75 @@ Nur die abgeschlossene Projektökonomie wird gegen die Investitionshürde getest
 )
 ```
 
-Dies produziert die Entscheidungssequenz:
-
-```text
-Total Project Cost
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Target POC Threshold
-        ↓
-PASS / FAIL
-```
-
-Der `ROUND(...,4)`-Vergleich ist explizit dazu gedacht, Gleitkomma-Grenzfehler zu verhindern, wenn das berechnete POC nahe an der Hürde liegt. 
-
 </details>
 
-### Beispielszenario
+### Durchgerechnetes Beispielszenario (4-Einheiten-Reihenhausprojekt)
 
-Das Folgende ist ein **illustratives Screening-Szenario**, das die Methodik der Arbeitsmappe nutzt und keine bezogene Markttransaktion darstellt.
+Das Folgende ist ein **illustratives Screening-Beispiel**, das zeigt, wie das Modell einen strukturell unter Wasser stehenden Deal aufdeckt, bevor Kapital gebunden wird:
 
-Nehmen Sie eine Reihenhausentwicklung mit vier Einheiten an:
+| Eingabe | Illustrativer Wert |
+| :--- | ---: |
+| Grundstücksfläche | 800 m² |
+| Geplante Einheiten | 4 |
+| Ziel-GFA | 600 m² (150 m²/Einheit) |
+| Vereinbarter Kaufpreis | $900,000 |
+| Erwerb: Rechtliche Prüfung / Due Diligence | $15,000 |
+| Grunderwerbsteuer | 5.50% |
+| Durchschnittlicher vergleichbarer Bodenwert | $1,150/m² |
+| Durchschnittlicher vergleichbarer Reihenhaus-Verkaufspreis | $650,000/Einheit |
+| Baurate | $2,800/m² |
+| Kommunaler Beitrag | $12,000/Einheit |
+| Honorare | 6.00% der Baukosten |
+| Risikopuffer | 5.00% der Baukosten |
+| Finanzierungszulage | $100,000 |
+| Verkaufsprovision | 2.20% |
+| Marketing / Recht | $8,000/Einheit |
+| Ziel-POC | 25.00% |
 
-| Eingabe                                   |  Illustrativer Wert |
-| --------------------------------------- | ------------------: |
-| Grundstücksfläche                       |              800 m² |
-| Geplante Einheiten                      |                   4 |
-| Ziel-GFA                                 |              600 m² |
-| Vereinbarter Kaufpreis                   |            $900,000 |
-| Rechtliches / Due Diligence beim Erwerb |             $15,000 |
-| Grunderwerbsteuer                        |               5.50% |
-| Durchschnittlicher vergleichbarer Bodenwert |           $1,150/m² |
-| Durchschnittlicher vergleichbarer Reihenhaus-Verkaufspreis |       $650,000/unit |
-| Baurate                                  |           $2,800/m² |
-| Kommunaler Beitrag                       |        $12,000/unit |
-| Honorare                                 | 6,00 % der Baukosten |
-| Risikopuffer                             | 5,00 % der Baukosten |
-| Finanzierungszulage                      |            $100,000 |
-| Verkaufsprovision                        |               2.20% |
-| Marketing / Recht                        |         $8,000/unit |
-| Ziel-POC                                 |              25.00% |
-
-Die Anlage mit vier Einheiten produziert eine durchschnittliche GFA von **150 m² pro Einheit**.
-
-Die Baukosten betragen:
+**Automatische Berechnungsaufschlüsselung:**
 
 ```text
-600 m² × $2,800
-= $1,680,000
+Acquisition Cost  = $900,000 + ($900,000 * 5.5%) + $15,000         = $964,500
+Construction Cost = 600 sqm * $2,800                               = $1,680,000
+Council Levies    = 4 * $12,000                                    = $48,000
+Professional Fees = $1,680,000 * 6%                                = $100,800
+Contingency       = $1,680,000 * 5%                                = $84,000
+Finance Allowance = $100,000                                       = $100,000
+------------------------------------------------------------------------------
+Total Project Cost                                                 = $2,977,300
+
+Gross Realisation = 4 * $650,000                                   = $2,600,000
+Selling Costs     = ($2,600,000 * 2.2%) + (4 * $8,000)             = $89,200
+------------------------------------------------------------------------------
+Net Realisation                                                    = $2,510,800
+
+Net Development Profit = $2,510,800 - $2,977,300                   = -$466,500
+Deal Verdict                                                       = FAIL
 ```
 
-Kommunale Beiträge sind:
+**Fazit:** Auch wenn der Bodenpreis ($900,000) gegenüber dem Vergleichs-Benchmark von $920,000 ($1,150/m² * 800 m²) vernünftig aussieht, beweist der vollständige Kostenstapel, dass das Projekt tief unter Wasser steht. Statt zu raten, weiß der Entwickler sofort, welche Hebel – Bodenpreis, Einheitsertrag, Baustandard oder Exit-Preis – sich bewegen müssen, bevor ein weiterer Dollar ausgegeben wird.
 
-```text
-4 × $12,000
-= $48,000
-```
-
-Honorare sind:
-
-```text
-$1,680,000 × 6%
-= $100,800
-```
-
-Risikopuffer ist:
-
-```text
-$1,680,000 × 5%
-= $84,000
-```
-
-Die Erwerbskosten betragen:
-
-```text
-$900,000
-+ ($900,000 × 5.5%)
-+ $15,000
-= $964,500
-```
-
-Die Brutto-Realisierung beträgt:
-
-```text
-4 × $650,000
-= $2,600,000
-```
-
-Die Verkaufskosten betragen:
-
-```text
-$2,600,000 × 2.2%
-+ (4 × $8,000)
-= $89,200
-```
-
-Die Netto-Realisierung beträgt daher:
-
-```text
-$2,600,000 − $89,200
-= $2,510,800
-```
-
-Die gesamten Projektkosten betragen:
-
-```text
-$964,500
-+ $1,680,000
-+ $48,000
-+ $100,800
-+ $84,000
-+ $100,000
-= $2,977,300
-```
-
-Dies produziert:
-
-```text
-Net Development Profit
-= $2,510,800 − $2,977,300
-= −$466,500
-```
-
-Das Ergebnis liegt deutlich unter der 25-%-Hürde.
-
-Die analytische Schlussfolgerung ist **nicht einfach „Bauen ist zu teuer.“** Das vollständige Screening-Rahmenwerk zeigt, dass das Projekt unter diesen Annahmen strukturell unter Wasser ist. Die nächste kommerzielle Frage ist, ob sich die Annahmen realistisch ändern können — insbesondere Akquisepreis, erzielbarer Verkaufspreis, Ertrag oder Baukosten — bevor die Gelegenheit weitere Arbeit verdient.
-
-Genau hier ist das Screening-Modell nützlich: Es verwandelt ein vages „vielleicht gehen die Zahlen auf“-Gespräch in eine quantifizierte Entscheidung darüber, welche Annahme sich ändern muss.
-
-### Formelreferenz
+### Vollständige Formelreferenz
 
 <details>
 <summary>Planungs- und Pro-Einheit-Kennzahlen</summary>
 
 **Durchschnittliche GFA pro Einheit**
-
 ```excel
 =IF(C6>0,ROUND(C7/C6,2),0)
 ```
 
-**Bodenkosten pro Wohneinheit**
-
+**Grundstückskosten pro Wohneinheit**
 ```excel
 =IF(C6>0,ROUND(C31/C6,0),0)
 ```
 
-Diese Berechnungen sind besonders relevant für das Reihenhausszenario, weil dieselbe Grundstückserwerbskosten über die geplante Einheitenzahl verteilt wird. 
-
 </details>
 
 <details>
-<summary>Bodenvergleichsmaschine</summary>
+<summary>Maschine für Boden-Comps</summary>
 
 **Vergleichbarer Bodenpreis pro Quadratmeter**
-
 ```excel
 =IF(D14:D23="","",
    IF(ISNUMBER(C14:C23/D14:D23),
@@ -565,7 +364,6 @@ Diese Berechnungen sind besonders relevant für das Reihenhausszenario, weil die
 ```
 
 **Durchschnittlicher vergleichbarer Bodenpreis**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -579,20 +377,16 @@ Diese Berechnungen sind besonders relevant für das Reihenhausszenario, weil die
 ```
 
 **Modellindizierter Bodenwert**
-
 ```excel
 =ROUND(C5*E24,0)
 ```
 
-Die Nutzung von `FILTER` bedeutet, dass leere Zeilen ausgeschlossen werden, statt als Nullwert-Transaktionen behandelt zu werden. 
-
 </details>
 
 <details>
-<summary>Verkaufsvergleichs- und Realisierungsmaschine</summary>
+<summary>Maschine für Verkaufs-Comps und Realisierung</summary>
 
 **Vergleichbarer Verkaufspreis pro Quadratmeter**
-
 ```excel
 =IF(E36:E45="","",
    IF(ISNUMBER(D36:D45/E36:E45),
@@ -603,7 +397,6 @@ Die Nutzung von `FILTER` bedeutet, dass leere Zeilen ausgeschlossen werden, stat
 ```
 
 **Durchschnittlicher vergleichbarer Einheitenpreis**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -617,56 +410,46 @@ Die Nutzung von `FILTER` bedeutet, dass leere Zeilen ausgeschlossen werden, stat
 ```
 
 **Brutto-Realisierung**
-
 ```excel
 =ROUND(C6*D46,0)
 ```
 
 **Maklerprovision**
-
 ```excel
 =ROUND(C50*'01_Global_Settings'!$C$9,0)
 ```
 
 **Gesamte Verkaufskosten**
-
 ```excel
 =C51+(C6*C52)
 ```
 
 **Netto-Realisierung**
-
 ```excel
 =C50-C53
 ```
 
-Das Quelldesign behandelt explizit den Durchschnitt der fertigen Immobilienvergleichsobjekte als Verkaufs-Benchmark und bewegt sich dann von Brutto- zu Netto-Realisierung durch Abzug der Verkaufskosten. 
-
 </details>
 
 <details>
-<summary>Entwicklungskostenmaschine</summary>
+<summary>Maschine für Entwicklungskosten</summary>
 
 **Gesamte Baukosten**
-
 ```excel
 =ROUND(C7*C58,0)
 ```
 
 **Kommunale Beiträge**
-
 ```excel
 =ROUND(C6*C60,0)
 ```
 
 **Honorare**
-
 ```excel
 =ROUND(C59*'01_Global_Settings'!$C$7,0)
 ```
 
 **Risikopuffer mit projektbezogener Überschreibung**
-
 ```excel
 =ROUND(
    C59*IF(
@@ -679,12 +462,9 @@ Das Quelldesign behandelt explizit den Durchschnitt der fertigen Immobilienvergl
 ```
 
 **Gesamte Entwicklungskosten**
-
 ```excel
 =SUM(C59,C61,C62,C64)
 ```
-
-Die Risikopufferlogik ist absichtlich hierarchisch: Ein projektspezifischer Satz kann die globale Standardeinstellung überschreiben, während ein leeres Projektfeld dazu führt, dass das Modell den zentralen Parameter erbt. 
 
 </details>
 
@@ -692,31 +472,26 @@ Die Risikopufferlogik ist absichtlich hierarchisch: Ein projektspezifischer Satz
 <summary>Finale Entscheidungsmaschine</summary>
 
 **Gesamte Projektkosten**
-
 ```excel
 =C31+C65+C69
 ```
 
 **Netto-Entwicklungsgewinn**
-
 ```excel
 =C54-C70
 ```
 
 **Profit on Cost**
-
 ```excel
 =IF(C70>0,C71/C70,0)
 ```
 
 **Ziel-POC-Schwelle**
-
 ```excel
 ='01_Global_Settings'!$C$5
 ```
 
 **Deal-Urteil**
-
 ```excel
 =IF(
    C70=0,
@@ -729,95 +504,112 @@ Die Risikopufferlogik ist absichtlich hierarchisch: Ein projektspezifischer Satz
 )
 ```
 
-Der Entscheidungsstatus unterscheidet absichtlich ein unvollständiges Modell von einem gescheiterten Investitionsfall. `PENDING INPUT` wird daher nicht als `FAIL` behandelt. 
+</details>
+
+### Validierungsregeln & Fehlerschutz
+
+| Feld / Bereich | Regel | Fehler-/Entscheidungsverhalten |
+| :--- | :--- | :--- |
+| `Site_Area_SQM` | Muss eine gültige, positive Grundstücksfläche darstellen | Unvollständige Eingaben verhindern eine irreführende Entscheidung |
+| `Proposed_Units_Yield` | Muss für Einheitskennzahlen größer als null sein | Gegen Division durch null geschützt |
+| `Target_GFA_SQM` | Gesamte Bruttogeschossfläche der Entwicklung | Steuert die gesamten Baukosten |
+| Boden- & Verkaufs-Comp-Zeilen | Leere oder ungültige Zeilen werden per `FILTER` ignoriert | Leere Zeilen verwässern die Marktdurchschnitte nie |
+| Kaufpreis | Tatsächliche Erwerbsannahme | Steuert Erwerbskosten und finales POC |
+| Grunderwerbsteuer- & Gebührensätze | Zentral in `01_Global_Settings` gesteuert | Automatisch auf alle Deal-Tabs angewendet |
+| Risikopuffer | Globaler Standard oder projektbezogene Überschreibung | Leere Projektzelle erbt den globalen Satz |
+| Projektkosten | Muss für POC größer als null sein | Kosten von null liefern `PENDING INPUT` (nicht `FAIL`) |
+| POC-Vergleich | Vor dem Vergleich auf 4 Dezimalstellen gerundet | Verhindert Gleitkomma-Grenzfehler |
+| Arbeitsmappenschutz | Berechnungszellen standardmäßig gesperrt | Verhindert versehentliches Löschen von Formeln |
+
+### Visuelle Betriebsregeln & Kompatibilität
+
+| Visueller Zustand | Bedeutung | Benutzeraktion |
+| :--- | :--- | :--- |
+| Hellblau | Entsperrte Eingabezelle | Deal-Annahmen eingeben oder bearbeiten |
+| Weiß / Grau | Gesperrte Berechnungs- oder Beschriftungszelle | Nicht bearbeiten |
+| Grün | `PASS` | Deal erfüllt Ihre Investitionshurdle |
+| Rot | `FAIL` | Deal fällt unter Ihre Investitionshurdle |
+
+- **Unterstützte Plattformen:** Microsoft 365, Excel 2021 oder höher und Google Sheets.
+- **Null-Hardcoding & Null-Makro-Design:** Komplett mit modernen nativen Excel-Formeln gebaut – überall sicher zu öffnen, ohne Sicherheitswarnungen.
 
 </details>
 
-### Validierungsregeln
+---
 
-| Feld / Bereich           | Regel                                                                 | Fehler-/Entscheidungsverhalten                                  |
-| ---------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `Site_Area_SQM`        | Muss eine gültige positive Grundstücksfläche darstellen                            | Unvollständige Eingaben verhindern eine sinnvolle Projektentscheidung    |
-| `Proposed_Units_Yield` | Muss größer als null sein, wo einheitenbasierte Berechnungen erforderlich sind | Pro-Einheit-Berechnungen sind gegen Division durch null geschützt |
-| `Target_GFA_SQM`       | Wird als gesamte Entwicklungs-GFA genutzt                                    | Steuert Baukosten                                   |
-| Bodenvergleichszeilen   | Leere Zeilen werden ignoriert                                               | Leere Zeilen verwässern den Marktdurchschnitt nicht                |
-| Vergleichbare Bodenfläche   | Erforderlich für eine gültige Boden-Einheitenpreisberechnung                     | Ungültige Berechnungen bleiben leer                          |
-| Vergleichbare Verkaufsdaten   | Nur gültige numerische Transaktionsdaten                                  | Ungültige / leere Zeilen werden vom Durchschnitt ausgeschlossen         |
-| Kaufpreis         | Wird als tatsächliche Erwerbsannahme genutzt                            | Steuert Erwerbskosten und finales POC                      |
-| Grunderwerbsteuer             | Zentral gesteuert                                                 | Automatisch auf Kaufpreis angewendet                    |
-| Honorarsatz  | Zentral gesteuert                                                 | Auf Baukosten angewendet                                      |
-| Risikopuffer            | Globaler Standard oder projektspezifische Überschreibung                          | Leerer Projektsatz erbt globalen Risikopuffer             |
-| Finanzierungszulage      | Explizite Projekteingabe                                               | In gesamten Projektkosten enthalten                             |
-| Projektkosten          | Muss für POC größer als null sein                                   | Null Kosten geben `PENDING INPUT` im Urteilsstadium aus         |
-| POC-Vergleich         | Vor Schwellenvergleich gerundet                                  | Verhindert Gleitkomma-Grenzfehler                    |
-| Ziel-POC             | Zentrale Investitionshürde                                            | Bestimmt `PASS` / `FAIL`                                 |
-| Arbeitsmappenschutz    | Berechnungszellen bleiben gesperrt                                      | Verhindert versehentliches Überschreiben von Formeln                |
+## Über Theseus Workshop
 
-Die Implementierung nutzt gesperrte Berechnungsbereiche, designierte entsperrte Eingabebereiche, dynamische Filterung von Vergleichsdaten, Null-Division-Schutz und explizite Entscheidungsstatus als Teil des Fehlerkontroll-Designs. 
+Ich baue **einsatzbereite Excel-Entscheidungs-Toolkits** für echte Geschäftsprobleme, bei denen zu viele bewegliche Teile sind, um sie alle gleichzeitig im Kopf zu behalten – ohne dass Sie komplexe Finanztechnik lernen oder wiederkehrende SaaS-Gebühren zahlen müssen.
 
-### Arbeitsmappen-Betriebsregeln
+Jedes Tool beginnt mit einer praktischen Frage:
 
-Die Arbeitsmappe nutzt eine dreistufige visuelle Sprache:
+> **Welche Informationen müssen an einem sauberen, zentralen Ort zusammenliegen, damit Sie die nächste Geschäftsentscheidung mit Zuversicht treffen können?**
 
-| Visueller Status | Bedeutung                                 | Benutzeraktion                           |
-| ------------ | --------------------------------------- | ------------------------------------- |
-| Sanftes Blau    | Eingabebereich / entsperrt                   | Deal-Annahmen eingeben oder bearbeiten        |
-| Weiß / Grau | Berechnungs- oder Strukturbereich / gesperrt | Nicht bearbeiten                           |
-| Grün        | `PASS`                                  | Deal besteht die Screening-Hürde      |
-| Rot          | `FAIL`                                  | Deal fällt unter die Screening-Hürde |
+Wenn dieses kostenlose Deal-Screening-Tool Ihnen Zeit gespart oder eine schlechte Investition verhindert hat, erkunden Sie unten den Rest der **Theseus Workshop**-Entscheidungs-Toolbox.
 
-Das Quelldesign spezifiziert sanft blaue Eingabezellen, gesperrte Berechnungszellen und bedingte grüne/rote Urteilspräsentation, um die Arbeitsmappe für nicht-technische Geschäftsanwender nutzbar zu machen. 
+---
 
-Zur laufenden Nutzung:
+## Weitere einsatzbereite Business-Entscheidungs-Toolkits
 
-1. Fügen Sie vergleichbare Transaktionen direkt in die designierten Eingabezeilen ein.
-2. Löschen Sie inkorrekte Vergleichsdaten, indem Sie die entsprechende Eingabezeile leeren.
-3. Kopieren Sie keine Formeln in die Berechnungsbereiche.
-4. Ändern Sie globale Investitionsannahmen nur über den zentralen Parameterbereich.
-5. Entfernen Sie den Arbeitsmappenschutz nicht und überschreiben Sie Berechnungszellen nicht manuell.
+### Immobilien, Grundstücke & Bau
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Schafft eine Mehrfamilien-Acquisition nach Renovierung und Betriebskosten noch Eigenkapital?
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Was ist eine Immobilie über mehrere Bewertungsmethoden, Steuerregeln und CapEx-Szenarien hinweg wirklich wert?
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Welche Bridge- oder Fix-and-Flip-Kreditstruktur funktioniert unter verschiedenen Schuldner- und Sicherheitsannahmen?
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Welche Auftragsarbeiten und Kunden sind nach echten Baustellenkosten tatsächlich profitabel?
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Erreicht ein britisches Wohnbauprojekt die Zielmarge, sobald Gewerkeraten, Verschnittfaktoren und Baustellenlogistik schwanken?
 
-Die Vergleichsberechnungsbereiche sind darauf ausgelegt, wechselnde Anzahlen von Beobachtungen ohne manuelle Formelwartung aufzunehmen. 
+### Cashflow, Budgetierung & Startup-Finanzen
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Warum ist Cash immer knapp, und wann sinkt die Liquidität das nächste Mal?
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — Wie wirken sich operative und Finanzierungsentscheidungen auf GuV, Bilanz und Cashflow aus?
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Wo vermischen sich private und geschäftliche Finanzen?
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Können Sie sich die Einstellungen und das Marketing dieses Monats leisten, ohne die Runway zu verbrennen?
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Geht das Cash aus, bevor die Kundengruppen Umsatz zurückzahlen?
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — Was steht jedem Investor tatsächlich zu, basierend auf Einstiegszeitpunkt und aktuellem NAV?
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Was ist nach Jahren informeller Transfers und angesammelter Zinsen heute tatsächlich geschuldet?
 
-### Plattform- und Implementierungshinweise
+### E-Commerce, Einzelhandel & Marketplace-Rentabilität
+- **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Welche Bestellungen machen nach Versand, Zahlungsgebühren und Marketplace-Anteilen wirklich Gewinn?
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Welche Lager- und Werbeverpflichtungen lösen in den nächsten 12 Wochen eine Liquiditätskrise aus?
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Ist jeder Shopify-Shop wirklich profitabel, sobald SKU-COGS, Bankgebühren und gemeinsame OPEX abgeglichen sind?
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Welche Produkte und Keywords haben die Amazon-Performance-Änderungen dieser Woche tatsächlich angetrieben?
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Wie hoch ist die echte Netto-SKU-Marge nach realer Fracht, Zöllen und Händlerabzügen?
 
-Das Design zielt auf:
+### Pricing, Fertigung & Kostenverteilung
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Welche Großhandelspreise schützen die Marge nach Fracht, Zöllen, Zahlungszielen und Wechselkursen?
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Welche SKUs sind nach Fabrikarbeit, Versorgung, Overhead und Zutaten profitabel?
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Was sollten Sie pro Mengenstaffel anbieten, um wettbewerbsfähig und profitabel zu bleiben?
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Hat sich die echte Nachfrage genug geändert, um eine Preisanpassung zu rechtfertigen?
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Werden gemeinsame Lieferantenrechnungen fair auf Gesellschaften und Betriebsvermögen verteilt?
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Wie viel Baukostenmarge ist real und wie viel durch die unternehmerische Kostenverteilung verzerrt?
 
-*   **Microsoft 365**
-*   **Excel 2021 oder höher**
-*   **Google Sheets**
+### Logistik, grenzüberschreitender Handel & Servicebetrieb
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Welche grenzüberschreitenden Handelsströme bleiben nach Währungsschwankungen profitabel?
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Welche Frachtbuchungen bringen über gemischte Währungen, Gebühren und Containerkosten hinweg tatsächlich Gewinn?
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Welche Container und Kunden sind über Zoll- und Flottenbetrieb hinweg profitabel?
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Ist ein Café oder eine Bäckerei nach Rezeptkosten, Arbeit und täglichen Betriebsaufwendungen wirklich profitabel?
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Welche Tourbuchungen erzeugen über mehrere Währungen hinweg Nettogewinn und positiven Cashflow?
 
-Die Implementierung vermeidet absichtlich VBA/Makros und nutzt moderne Tabellenkalkulationsfunktionen und Dynamic-Array-Logik, damit die Arbeitsmappe eine gewöhnliche `.xlsx`-Datei bleiben kann, statt von einer anwendungsspezifischen Automatisierungsschicht abzuhängen. 
+---
 
-Die Architektur folgt auch einem **Prinzip der Null-Hartkodierung**. Kernannahmen wie Währungssymbol, POC-Hürde, Grunderwerbsteuer, Honorare, Risikopuffer und Maklerprovision werden zentralisiert, statt als Literal-Konstanten in der gesamten Berechnungsschicht wiederholt zu werden. 
+## Fragen, Feedback & Produkt-Updates
 
-</details>
+Dieses Repository unterstützt **Real Estate Development Feasibility & Deal Screening Tool**. Nutzen Sie die folgenden Kanäle, um technische Bugs von Nutzungsfragen und Feature-Ideen getrennt zu halten:
 
-## Die Geschäftslogik & Methodik
+- **Reproduzierbaren technischen Fehler melden:** [Bug-Report öffnen](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Beschreiben Sie den betroffenen Workflow, die Softwareumgebung und die Schritte zur Reproduktion.
+- **Nutzungsfrage stellen:** [Theseus Workshop Community Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Verbesserung vorschlagen oder Anwendungsfall diskutieren:** [Idee teilen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Produktankündigungen verfolgen:** [Product Updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
 
-Das Modell basiert auf einem einfachen kommerziellen Prinzip: **ein Entwicklungs-Deal sollte aus der Interaktion zwischen Marktbelegen, Akquisepreis, Entwicklungskosten und erzielbarem Exit-Wert gescreent werden — nicht aus einer einzelnen attraktiven Zahl.**
+### Datenschutz & sichere Beispiele
 
-Die Methodik wandelt diese Eingaben in eine Sequenz zunehmend entscheidungsrelevanter Fragen um.
+Veröffentlichen Sie keine Kunden-, Lieferanten-, Mitarbeiter-, Immobilieneigentümer-, Reise-, Mieter-, Transaktions-, Buchungs- oder Zahlungsdaten oder andere vertrauliche Geschäftsinformationen in öffentlichen GitHub-Issues oder Discussions. Hängen Sie keine unbearbeiteten Buchhaltungsexporte, Kontoauszüge, Rechnungen, Verträge, Ausweisdokumente, Zugangsdaten oder vollständige Betriebs-Datensätze an.
 
-* **Vergleichsmarktanalyse** etabliert einen Referenzpunkt für Boden und fertiges Wohnprodukt. Das reduziert die Abhängigkeit von Verkäuferpreisen, isolierten Meinungen oder einer einzelnen optimistischen Verkaufsannahme. Die praktische Entscheidung wird: *Werden die geplante Akquise und Exit-Preisgestaltung durch beobachtbare Marktbelege gestützt?* 
+Verwenden Sie nach Möglichkeit synthetische Beispiele. Falls ein reales Beispiel notwendig ist, entfernen Sie direkte und indirekte Identifikatoren sowie geschäftlich sensible Werte. Spaltennamen, konstruierte Beispielzeilen, ungefähre Zeilenzahlen, exakte Fehlermeldungen und erwartete versus tatsächliche Ergebnisse reichen in der Regel aus, um ein Problem zu reproduzieren.
 
-* **Vollkostenaggregation** behandelt Erwerb, Bau, professionelle Dienstleistungen, kommunale Beiträge, Risikopuffer, Verkaufskosten und Finanzierung als Teil desselben ökonomischen Falls. Das löst das häufige Problem, dass ein Projekt profitabel aussieht, weil wichtige Kosten noch außerhalb der Hauptberechnung sitzen.
-
-* **Netto-Realisierungsanalyse** trennt ausgewiesene Verkaufserlöse von dem Betrag, der tatsächlich nach Verkaufs- und Marketingkosten verfügbar ist. Das macht die Exit-Annahme kommerziell nutzbar statt nur auf dem Papier attraktiv. 
-
-* **Schwellenbasierte Entscheidungsfindung** verwandelt ein subjektives „sieht profitabel aus“-Urteil in eine wiederholbare Investitionsregel. Mit einer 25,00-%-Standard-POC-Hürde kann derselbe Standard über Wohn- und Reihenhausgelegenheiten hinweg angewendet werden, während die zentrale Schwelle geändert werden kann, wenn sich das Investitionsmandat ändert. 
-
-* **Akquisepreis-Sensitivität durch Rückwärtsverhandlung** verwandelt ein fehlgeschlagenes Screening-Ergebnis in eine kommerzielle Frage. Wenn das Projekt die Hürde nicht räumt, wird der Akquisepreis eine der Variablen, die herausgefordert werden kann, statt die anfänglichen Deal-Konditionen einfach zu akzeptieren. Das SOP der Arbeitsmappe behandelt explizit die Reduzierung des vorgeschlagenen Kaufpreises als praktische Reaktion auf ein `FAIL`-Ergebnis. 
-
-Das Ergebnis ist kein Ersatz für vollständige Due Diligence. Es ist ein disziplinierter Filter zur Entscheidung, **welche Gelegenheiten die nächste Arbeitsstufe verdienen**.
-
-## Andere Tools in dieser Serie
-
-* **Wohnentwicklungs-Tools** — leichte Excel-Rahmenwerke zum Schätzen, Budgetieren und Kontrollieren von Bau- und Entwicklungsökonomie.
-* **Baukosten-Schätzungs-Tools** — BOQ-, Takeoff-, Ausschreibungs- und Kostenkontroll-Workflows, die um wiederholbare Projektentscheidungen gebaut sind.
-* **Entscheidungsunterstützungs-Arbeitsmappen** — wiederverwendbare Tabellenmodelle, die fragmentierte operative Daten in explizite Entscheidungsregeln verwandeln.
+Laden Sie bei jeder kostenlosen Browser-Demo keine Produktionsdaten hoch, bevor Sie die aktuellen Datenschutz- und Datenverarbeitungsinformationen der Demo unabhängig geprüft und bestätigt haben, dass deren Verwendung angemessen ist. Dieses README behauptet nicht, dass Browserdaten ausschließlich auf Ihrem Gerät verarbeitet oder niemals übertragen oder gespeichert werden.
 
 ## Lizenz
 
 Dieses Projekt wird unter der **Apache License 2.0** veröffentlicht.
 
-Sie dürfen das Projekt nutzen, modifizieren, verteilen und anpassen, vorbehaltlich der Bedingungen der Apache License 2.0.
+Sie dürfen das Projekt verwenden, ändern, verbreiten und anpassen, vorbehaltlich der Bedingungen der Apache License 2.0.
