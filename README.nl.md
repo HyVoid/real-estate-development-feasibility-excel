@@ -1,246 +1,198 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Real Estate Development Deal Screening Tool: Feasibility & Financial Modeling Excel Template
+# Real Estate Development Deal Screening Tool: Gratis haalbaarheids- en financiële modelleer-Excel-template
+
+<img width="1163" height="790" alt="Real Estate Development Feasibility Excel Template Dashboard Preview" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)
-![Tool Type](https://img.shields.io/badge/Tool-Decision%20Support-success.svg)
+![Macros](https://img.shields.io/badge/VBA%20%2F%20Macros-None%20Required-success.svg)
 
-> **Real Estate Development Deal Screening Tool** is een lichtgewicht **financieel modelleer-Excel-template en webapp**, ontworpen om snel **kansen in woningontwikkeling** te beoordelen, inclusief **verkavelingen van grond** en **projecten met meerdere townhouses**. Screen vergelijkbare grondtransacties, schat bouwkosten, bereken de Gross Realization Value (GRV) en bepaal uw drempel voor Profit on Cost (POC) — zonder voor elke potentiële deal een complex haalbaarheidsmodel voor projectontwikkeling vanaf nul te hoeven bouwen.
+> **Stop met gokken met bierviltjesberekeningen—en stop met wekenlang vanaf nul een complexe spreadsheet te bouwen.**  
+> **Real Estate Development Deal Screening Tool** is een kant-en-klare **Excel-template voor haalbaarheidsonderzoek van projectontwikkeling en een gratis webcalculator**, gebouwd voor **residentiële grondverkavelingen** en **townhouse-projecten met meerdere units**. Voer uw locatiecijfers, grondcomps en bouwschattingen in om de **Residual Land Value (restwaarde van de grond)**, de **Gross Realization Value (GRV)**, de totale projectkosten en de **Profit on Cost (POC)** te berekenen—and krijg in minder dan 5 minuten een helder **`PASS`- of `FAIL`-oordeel over uw deal**.
 
-**Probeer eerst de gratis, browsergebaseerde deal-screeningcalculator. Geen aanmelding. Geen installatie. 100% gratis.**
+---
 
-Voor vastgoedprofessionals die een **herbruikbare offline werkmap**, bewaarde projectdossiers, aanpasbare financiële aannames en snelle, herhaalbare screening van hun acquisitepijplijn nodig hebben, is de Excel-versie beschikbaar als eenmalige aankoop met een **garantie van 30 dagen, zonder vragen geld terug**.
+### Begin met het screenen van uw volgende deal (100% gratis om te starten)
 
-*   **🌐 [Try the Free Real Estate Deal Screening Web App](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Open de interactieve HTML-calculator die bij het project is inbegrepen om een snelle voorlopige analyse uit te voeren.
-*   **📥 [Download the Reusable Excel Development Feasibility Template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** → Ontvang de volledige offline werkmap voor het opslaan van projectdossiers, het aanpassen van geavanceerde underwritingaannames en het standaardiseren van uw investeringsmemo's.
+Of u nu uw allereerste infill-locatie beoordeelt of elke week makelaarsleads screent: u kunt de logica meteen testen of de volledige offline werkmap ophalen voor **$0+ (betaal wat u wilt)**:
 
-Deze toolkit verandert een vage vraag over vroege site-acquisitie in een gestructureerde, datagedreven underwritingworkflow:
+- **🌐 [Start de gratis deal-screeningcalculator in de browser](https://hyvoid.github.io/real-estate-development-feasibility-excel/)**  
+  Geen registratie. Geen installatie. Open het in uw browser, test direct een live deal en exporteer een overzichtelijke PDF-dealsamenvatting van één pagina.
+- **📥 [Vraag de herbruikbare Excel-haalbaarheidstemplate aan — gratis / betaal wat u wilt ($0+)](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**  
+  Download de volledige offline `.xlsx`-werkmap op Theseus Workshop zodat u dealgeschiedenissen kunt opslaan, uw lokale belasting-/heffingsaannames kunt aanpassen en onbeperkt locaties kunt screenen. *Download hem gratis ($0) om uw volgende deal te draaien, of betaal wat hij volgens u waard is om meer praktische tools mogelijk te maken.*
+- **👀 [Bekijk de spreadsheetindeling in Google Sheets](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**  
+  Bekijk vooraf de exacte tabbladen, invoergebieden en structuur. *(Let op: de preview in Google Sheets kan kleine `#NAME?`-compatibiliteitswaarschuwingen tonen die niet optreden wanneer u het bestand opent in Microsoft Excel.)*
 
-**Beoordeel de Residual Land Value → Voorspel de Gross Realization Value (GRV) op basis van vergelijkbare verkopen → Bereken de totale projectontwikkelingskosten (Hard & Soft) → Evalueer het Return on Investment (ROI) tegen uw kapitaaldrempels.**
+---
 
-De onderliggende financiële methodologie is specifiek geoptimaliseerd voor **het screenen van verkavelingen voor woningbouw en multi-family/townhouse-ontwikkeling**. Het is bewust lichter dan een volledig haalbaarheidsmodel met een cashflow over 60 maanden. Het primaire doel is om lucratieve off-market deals te identificeren en niet-levensvatbare locaties uit te filteren *voordat* aanzienlijk kapitaal wordt besteed aan architectonische due diligence, bestemmingsplan-goedkeuringen, het structureren van de kapitaalstapel en formele site-acquisitie.
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
+## Hoe het een riskante gok omzet in een duidelijke beslissing
 
-## Opgeloste pijnpunten in projectontwikkeling: wat deze haalbaarheidstemplate volgt
+U hoeft geen Wall Street-financieel modelleur te zijn om een residentiële ontwikkellocatie goed te beoordelen. Deze toolkit loodst u door de exacte 4-staps underwriting-logica die ervaren ontwikkelaars gebruiken—op één overzichtelijk scherm:
 
-| Pain Point | Solution |
-| :--- | :--- |
-| **Overpaying for land** | Calculates **market-supported residual land value** rather than relying on the seller's asking price or broker whispers. |
-| **Overestimating sales revenue** | Forecasts **Expected Gross and Net Realization** derived directly from verified comparable residential sales (comps) evidence. |
-| **Blowing the budget on hidden fees** | Consolidates **land acquisition costs, hard construction estimates, soft costs (professional/council fees), contingency budgets, and finance holding exposure** into a single project proforma view. |
-| **Poor density planning** | Exposes **per-unit economics** for multi-unit townhouse opportunities, detailing land cost per door and average Gross Floor Area (GFA) per unit. |
-| **Emotional investing decisions** | Compares actual **Profit on Cost (POC) versus your strict investment hurdle rate**, outputting a definitive `PASS`, `FAIL`, or `PENDING INPUT` commercial decision. |
-| **Dead-end negotiations** | Reverse-engineers the **acquisition price required to salvage a weak deal**, transforming vendor negotiation into a precise mathematical variable rather than a separate spreadsheet guessing game. |
+**1. Grondwaarde-benchmark (comps) -> 2. Schat de verkoopwaarde bij exit (GRV) -> 3. Stapel alle harde, zachte en financieringskosten -> 4. Krijg direct een `PASS` / `FAIL`-oordeel**
 
-## Stapsgewijze tutorial: hoe u projectontwikkelingsdeals binnen enkele minuten screent
+Het is bewust slanker dan een maandelijks cashflowmodel over 60 maanden. Het doel is eenvoudig: **vind snel winstgevende off-market deals en laat verliesgevers staan *voordat* u duizenden uitgeeft aan architecten, landmeetkundig onderzoek, bestemmingsplanadviseurs of juridische kosten.**
 
-### 1. Stel uw vastgoedinvesteringsmandaat & basisparameters in
-**Actie:** Definieer de globale investeringsaannames die uw kapitaal aansturen. 
-De werkmap centraliseert uw basisfinanciële metrieken: basisvaluta, drempel voor Profit on Cost (POC), overdrachtsbelastingtarieven, percentages voor professionele honoraria, buffers voor bouwcontingentie en verkoopcommissies van makelaars.
-*Tip: de standaard POC-investeringsdrempel staat op **25,00%**, maar deze kan globaal worden aangepast wanneer het investeringsmandaat of de risicobereidheid van uw fonds verandert.*
+---
 
-### 2. Voer dealbewijs & vergelijkbare objecten (comps) in
-**Actie:** Voer de fysieke sitemetrieken en marktdata in.
-Selecteer uw voorgestelde scenario voor woningontwikkeling (bijv. verkaveling versus build-to-sell) en voer in:
-*   Totale siteoppervlakte & bestemmingsplanbeperkingen
-*   Voorgestelde ontwikkelingsopbrengst (totaal aantal units/kavels)
-*   Doel-Gross Floor Area (GFA)
-*   Overeengekomen of speculatieve aankoopprijs
-*   Juridische en due-diligence-allowances voor acquisitie
-*   **Tot 10 vergelijkbare grondtransacties** om de sitewaarde te onderbouwen
-*   **Tot 10 vergelijkbare retail-/afgewerkte-objecttransacties** om de exit-Gross Realization Value (GRV) te onderbouwen
-*   Harde bouwkosten per m²/ft²
-*   Gemeentelijke ontwikkelingsbijdragen
-*   Allowances voor marketing, juridische kosten en gekapitaliseerde financieringsrente
+## Wat u in 5 minuten kunt berekenen
 
-### 3. Genereer de geautomatiseerde haalbaarheidsanalyse & ROI-beslissing
-**Actie:** Beoordeel de directe pro-formaberekening.
-De rekenengine werkt automatisch bij terwijl u data invoert — er zijn geen handmatige herberekeningsmacro's nodig. Het definitieve beslissingsdashboard toont direct de totale projectkosten, de netto ontwikkelingswinst, de behaalde POC, de afwijking van de doeldrempel en de resulterende investeringsstatus `PASS`, `FAIL` of `PENDING INPUT`. 
+Gebouwd om de praktische vragen te beantwoorden die bepalen of een projectontwikkeling geld verdient of verliest:
 
-### 4. Exporteer de investeringsmemo & upgrade naar de Excel-template voor herhaald gebruik
-**Actie:** Archiveer het screeningsresultaat en standaardiseer uw pijplijn.
-Zodra een locatie in de browser is gescreend, exporteert u deze als een compacte, éénpagina PDF-investeringsmemo om aan uw acquisitiecommissie of kredietverstrekkers te presenteren. 
-**Beviel de gratis webtool u?** Om meerdere locaties te beoordelen, formules aan te passen, historische dealdata op te slaan en te voorkomen dat u elke keer uw basisparameters opnieuw moet invoeren, kunt u **[download the reusable Excel version of the feasibility template](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** voor onbeperkte offline screening van onroerend goed.
+- **Screen residentiële grondverkavelingen** om te zien of de winstmarge het risico en de aanhoudperiode echt rechtvaardigt.
+- **Modelleer townhousebouw met meerdere units** met duidelijke grondkosten per unit, gemiddelde Gross Floor Area (GFA) per unit en bouwkosten per SQM/SQFT.
+- **Reverse-engineer uw Maximum Allowable Offer (MAO)**—vind de exacte grondaankoopprijs die een verliesgevende deal in een winstgevende omzet, nog vóórdat u met de verkoper onderhandelt.
+- **Vang verborgen ontwikkelingskosten vroegtijdig af**, waaronder overdrachtsbelasting, gemeentelijke bijdragen, professionele honoraria, bouwcontingenties, verkoopcommissies en financieringsreserves.
+- **Genereer een overzichtelijke screeningsmemo van één pagina** die u met vertrouwen kunt delen met kredietverstrekkers, makelaars, mentors of Joint Venture (JV)-partners.
 
-## Waarom ik deze tool voor vastgoedunderwriting heb gebouwd
+---
 
-Vroege screening van projectontwikkeling mislukt vaak om één simpele reden: cruciale underwritingdata staat in silo's.
+## 6 kostbare beginnersfouten waartegen deze template u beschermt
 
-Een grondprijs staat in een e-mailthread. Vergelijkbare verkopen (comps) staan in een apart CMA-rapport. Harde bouwkosten worden ge-sms't door een aannemer. Gemeentelijke bestemmingsheffingen worden ruwweg geschat op een kladblok. Financieringskosten worden behandeld als een vage buffer. De definitieve "Go/No-Go"-beslissing wordt vervolgens genomen met een gefragmenteerde, handmatig samengestelde spreadsheet die niet blootlegt hoe deze commerciële variabelen dynamisch op elkaar inwerken.
+Vroege vastgoeddeals mislukken zelden door één enorme fout—ze mislukken omdat cruciale kosten verspreid liggen in aparte e-mails, appjes en PDF's totdat het te laat is. Hieronder ziet u hoe deze template versnipperde gissingen vervangt door een herhaalbaar kader:
 
-Dat creëert een fatale analytische fout in private equity voor vastgoed: **één enkele metriek optimaliseren (zoals de grondprijs) terwijl men de holistische deal-economie en de kapitaalstapel uit het oog verliest.**
-
-Een site-acquisitie kan ongelooflijk goedkoop lijken ten opzichte van recente grondtransacties, maar zal uiteindelijk geld verliezen zodra verkoopcommissies, architectkosten, verplichte contingenties, mezzanine-financieringsrentes en harde bouwkostenstijgingen in de pro forma worden meegenomen. 
-
-Omgekeerd kan een ogenschijnlijk te dure infill-locatie enorme rendementen opleveren, omdat de hoogdichtheidsbestemming (opbrengst) en de premium prijsstelling van afgewerkte objecten de zware kapitaalinvestering ondersteunen.
-
-Deze template productiseert precies die institutionele redenering. 
-
-Een ontwikkeling van vier townhouses kan bijvoorbeeld in eerste instantie levensvatbaar lijken op basis van een lage grondprijs. Maar zodra deze wordt afgezet tegen vergelijkbare verkoopcomps van afgewerkte objecten en de *volledige* ontwikkelingskostenstapel, zakt de POC onder de drempel van 20%. Plotseling is de belangrijkste vraag niet langer *"Vinden we deze buurt leuk?"* maar veeleer *"Bij welke maximale grondacquisitieprijs wordt dit project precies een bankable investering?"*
-
-Dit model werkt als een **herhaalbaar screeningskader voor site-acquisitie**, niet als een fragiel, eenmalig haalbaarheidsspreadsheet. Het dwingt ontwikkelaars en analisten om voor elke off-market lead exact dezelfde commerciële vragen te beantwoorden voordat ze duizenden dollars in formele due diligence steken.
-
-## Opgeloste branche-uitdagingen: traditionele underwriting versus geoptimaliseerde deal-screening
-
-| Industry Challenge (Pain Point) | Traditional Underwriting Methods | Optimized Deal Screening Workflow (Solution) |
+| Veelvoorkomende dealdodende fout | Wat er meestal gebeurt | Hoe deze haalbaarheidstemplate het oplost |
 | :--- | :--- | :--- |
-| **Residual Land Value Anchoring** | Site acquisition decisions are heavily biased by the vendor's asking price or broker narratives. | Incorporates up to 10 recent comparable land transactions to establish a strict, data-backed **market value reference point**. |
-| **Gross Realization Value (GRV) Optimism** | Finished-product exit revenue is guessed independently of local market absorption and pricing ceilings. | Utilizes verified **comparable residential sales** to accurately drive the gross realization and net revenue calculations. |
-| **Soft Cost & CapEx Accumulation** | Stamp duty, architect fees, zoning levies, construction contingency, and capitalized interest are often forgotten or underestimated. | The entire **capital expense (CapEx) and soft cost stack** is consolidated into an institutional-grade, project-level proforma. |
-| **Density & Yield Blindness** | Multi-family and subdivision projects are judged purely by top-line revenue without analyzing efficiency. | Calculates strict **unit yield and per-door economics**, exposing exactly how land basis and hard costs are distributed across the site. |
-| **Hurdle Rate Ambiguity** | Investment committees decide if a deal "feels right" using inconsistent personal bias and moving targets. | Project POC is mathematically benchmarked against a **locked investment hurdle rate**, producing a standardized, emotionless verdict. |
-| **Negotiating Without a Proforma** | Buyers submit lowball LOIs (Letters of Intent) without knowing if the price reduction actually satisfies their minimum ROI. | **Maximum Allowable Offer (MAO)** can be dynamically adjusted, instantly recalculating project economics to find the break-even acquisition price. |
+| **Te veel betalen voor de grond** | Vertrouwen op de vraagprijs van de verkoper of een mondelinge schatting van de makelaar. | Legt tot **10 vergelijkbare grondverkopen** vast om een objectieve, door de markt onderbouwde **Residual Land Value**-benchmark te berekenen. |
+| **Brutoverkopen als winst rekenen** | De eenheidsprijs vermenigvuldigen met het aantal units en de verkoopkosten vergeten. | Haalt tot **10 vergelijkbare verkooptransacties** op voor de **GRV** en trekt er automatisch makelaarscommissies en marketing-/juridische kosten per unit vanaf om de werkelijke **netto realisatie** te tonen. |
+| **Verborgen zachte kosten vergeten** | Alleen budgetteren voor grond en bouwkosten terwijl belastingen, heffingen en buffers over het hoofd worden gezien. | Bundelt **overdrachtsbelasting, harde bouwkosten, gemeentelijke heffingen, architecten-/professionele honoraria, contingentie en financieringskosten tijdens de aanhoudperiode** in één uniforme proforma. |
+| **Townhouse-dichtheid verkeerd inschatten** | Alleen naar de toplijn-omzet kijken zonder de efficiëntie per unit te controleren. | Splitst automatisch de **economie per unit** op, waardoor de grondkosten per unit en de gemiddelde GFA per townhouse zichtbaar worden. |
+| **Emotionele "buikgevoel"-deals sluiten** | Uzelf overtuigen van een dunne marge omdat u de buurt leuk vindt. | Zet de werkelijke **Profit on Cost (POC)** af tegen uw vastgepinde drempelwaarde (standaard `25.00%`) voor een objectief `PASS`-, `FAIL`- of `PENDING INPUT`-oordeel. |
+| **Blind onderhandelen** | Een willekeurig laag bod uitbrengen zonder te weten of het werkelijk werkt. | Pas de cel met de aankoopprijs aan en zie onmiddellijk uw **break-even-/doelaankoopprijs**, waarmee onderhandelen simpele rekenkunde wordt. |
 
-## Vastgoedinvesteringsscenario's & long-tail zoekgebruiksscenario's
+---
 
-Deze template is doelbewust ontworpen om de meest voorkomende berekeningen in projectontwikkeling te vangen en te stroomlijnen, waaronder:
-*   *Hoe berekent u de winst op een verkaveling voor woningbouw.*
-*   *Het schatten van harde en zachte kosten voor de bouw van meerdere townhouses.*
-*   *Het reverse-engineeren van de residuele grondwaarde voor off-market site-acquisities.*
-*   *Het maken van een éénpagina vastgoedinvesteringsmemo voor joint venture (JV)-equitypartners.*
-*   *Het snel uitfilteren van niet-levensvatbare wholesaling- en flipping-deals in vastgoed.*
+## Stap voor stap: van aanbod tot beslissing in 4 eenvoudige stappen
 
-## Voor wie dit bedoeld is: doelrollen & aanbevolen softwaregebruik
+Geen complexe formules te schrijven. Geen macro's te activeren. **Voer uitsluitend cijfers in de zachtblauwe cellen in—al het restant wordt automatisch berekend en is vergrendeld om de rekenkunde te beschermen.**
 
-Dit kader is gebouwd voor vastgoedprofessionals die snelheid en nauwkeurigheid nodig hebben in de vroege fasen van de dealcyclus:
+### Stap 1: Stel uw basisregels in (eenmalig)
+Open `01_Global_Settings` om uw valuta in te stellen, de **Profit on Cost (POC)**-drempel (standaard `25.00%`), het overdrachtsbelastingtarief, het percentage professionele honoraria, de bouwcontingentiebuffer en het makelaarscommissietarief. Stel het één keer in en hergebruik het bij elke deal.
 
-*   **Analisten vastgoedacquisitie**: gebruiken een *property development screening Excel model* voor snelle dagelijkse filtering van de dealpijplijn van makelaars.
-*   **Onafhankelijke projectontwikkelaars**: vertrouwen op een *townhouse feasibility template* om off-market site-acquisities te beoordelen voordat ze architecten inhuren.
-*   **Managers van vastgoedinvesteringsfondsen**: zetten *residential deal filter software* in om te standaardiseren hoe junior analisten nieuwe activa underwriten en presenteren.
-*   **Makelaars in commercieel vastgoed (grondverkopen)**: gebruiken een *residual land value calculator tool* om vraagprijzen te valideren en overtuigende pitchdecks voor ontwikkelaars-kopers te bouwen.
-*   **Architectuur- & stedenbouwkundige bureaus**: gebruiken een *highest and best use financial model* om commerciële levensvatbaarheid aan te tonen naast voorlopige studies naar sitecapaciteit.
+### Stap 2: Voer de locatie- en marktcomps in
+Kies het tabblad **Residential Subdivision** of **Townhouse Development** en voer in:
+- Locatieoppervlak, voorgestelde unitopbrengst en doel-Gross Floor Area (GFA)
+- Vraag- of doelaankoopprijs + reserve voor juridische kosten/due diligence
+- Tot **10 recente grondcomps** en **10 vergelijkbare verkopen van afgewerkte panden**
+- Geschat bouwkostentarief per SQM/SQFT, gemeentelijke bijdragen en financieringsreserve
 
-*Het is vooral nuttig wanneer het kern doel **snelle screening van deals in een vroeg stadium** is, in plaats van het vervangen van zeer gedetailleerde maandelijkse cashflowprognoses, complexe structurering van de kapitaalstapel (waterfall-modellen) of definitieve underwriting door kredietverstrekkers.*
+### Stap 3: Lees uw directe `PASS` / `FAIL`-oordeel
+Het dashboard werkt realtime bij en toont **Total Project Cost**, **Net Development Profit**, **behaalde POC**, de afwijking ten opzichte van uw doeldrempel en een kleurgecodeerde **`PASS`** (groen) of **`FAIL`** (rood) beslissing. Toont het `FAIL`, verlaag dan de cel met de aankoopprijs totdat het omslaat naar `PASS`—nu kent u uw exacte maximale bod.
 
-## Over
+### Stap 4: Sla uw deal op of exporteer een samenvatting van één pagina
+Exporteer in de browserapp een keurige screeningsmemo van één pagina als PDF om te delen met partners of makelaars. Bent u klaar om meerdere locaties te vergelijken, permanente dealregistraties bij te houden en uw basistarieven niet bij elke deal opnieuw te typen, **[download dan de gratis / pay-what-you-want Excel-werkmap](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**.
 
-Ik bouw lichtgewicht trackers en beslissingsondersteunende tools voor situaties waarin te veel bewegende delen zijn om ze tegelijk in uw hoofd te houden.
+---
 
-De vraag achter elke tool is eenvoudig:
+## Voor wie deze tool is gebouwd
 
-> **Welke informatie moet op één plek staan om de volgende beslissing met vertrouwen te kunnen nemen?**
+Deze template is ontworpen voor praktisch ingestelde professionals die **professionele duidelijkheid binnen enkele minuten** willen zonder te betalen voor opgeblazen enterprise-software:
 
-De **Real Estate Development Deal Screening Tool** past die aanpak toe op acquisitiescreening: grondbewijs, ontwikkelingsaannames, verkoopbewijs, kostenblootstelling en de resulterende investeringsbeslissing worden in één herhaalbare workflow gebracht.
+- **Eerste keer en zelfstandige projectontwikkelaars**: screen off-market grond en kleine townhouse-locaties met vertrouwen voordat u betaalt voor architecturale haalbaarheidsstudies.
+- **Kleine bouwers en vastgoedflippers die de stap naar infill-ontwikkeling maken**: voorkom margevernietiging door vergeten zachte kosten, gemeentelijke heffingen en verkoopkosten.
+- **Acquisitieanalisten en makelaars in vastgoed / grondmakelaars**: voer dagelijks snelle dealfilters uit, onderbouw grondprijzen met echte comps en stuur overzichtelijke dealmemo's naar kopers.
+- **Joint Venture (JV)-partners en kleine vastgoedbeleggers**: voer een snelle, onafhankelijke gezondheidscheck uit op elke aan u gepitchte ontwikkeldeal.
+- **Architecten en locatieplanners**: koppel vroege schetsen van de locatiecapaciteit aan snelle commerciële levensvatbaarheidscijfers.
 
-## Technische details
+> **Eerlijke reikwijdte-opmerking:** Deze tool is specifiek gebouwd voor **snel, gedisciplineerd screenen van deals in een vroege fase**. Zodra een deal een `PASS` krijgt, moet u nog steeds opvolgen met gedetailleerde maandelijkse cashflowprognoses, formele bouwkostenoffertes van een quantity surveyor en volledige due diligence van de kredietverstrekker.
+
+---
+
+## Waarom deze tool werkt (zelfs als u niet van spreadsheets bouwen houdt)
+
+De meeste analyses van vastgoed in een vroege fase stranden omdat de cijfers verspreid zijn: de grondprijs staat in een e-mail, de comps in een PDF van de makelaar, de bouwtarieven in een appje, en de financieringskosten worden behandeld als een vage gok.
+
+Dat creëert een klassieke val: **achter een "goedkoop" stuk grond aanjagen dat geld verliest zodra harde kosten, verkoopcommissies, contingenties en financiering samen worden gestapeld**—of een iets duurdere locatie passeren waar een hogere townhouse-opbrengst de prijs gemakkelijk draagt.
+
+Deze template vergrendelt al die bewegende delen in één transparante workflow. U krijgt de analytische strengheid van een ervaren ontwikkelaar-underwriter met de snelheid en eenvoud van een plug-and-play calculator.
+
+---
+
+## Technische details & formule-audit
+
+Wilt u de rekenkunde verifiëren, de formule-integriteit controleren of een volledig uitgewerkt townhousevoorbeeld met 4 units zien voordat u downloadt? Klap de technische audit hieronder uit.
 
 <details>
-<summary>Voor technische reviewers, Excel-professionals en samenwerkingspartners</summary>
+<summary><strong>Klik om uit te klappen: werkmaparchitectuur, rekenvoorbeeld met 4 units, Excel-formules & validatieregels</strong></summary>
 
 ### Werkmaparchitectuur
 
-De werkmap is opgebouwd uit vier verbonden werkbladen:
+De Excel-werkmap is opgebouwd uit vier onderling verbonden werkbladen, zonder VBA of macro's:
 
-| Sheet                 | Role            | Primary Responsibility                                                                        |
-| --------------------- | --------------- | --------------------------------------------------------------------------------------------- |
-| `00_Start_Here`       | Onboarding      | Usage instructions, colour legend, methodology explanation, and a completed benchmark example |
-| `01_Global_Settings`  | Parameters      | Central investment assumptions, currency display, hurdle rates, and standard cost percentages |
-| `02_Residential_Deal` | Decision Engine | Residential subdivision / single-dwelling development screening                               |
-| `03_Townhouse_Deal`   | Decision Engine | Multi-unit townhouse development screening                                                    |
+| Werkblad | Rol | Primaire verantwoordelijkheid |
+| :--- | :--- | :--- |
+| `00_Start_Here` | Onboarding | Gebruiksinstructies, kleurlegenda, uitleg van de methodiek en een voltooid benchmarkvoorbeeld |
+| `01_Global_Settings` | Parameters | Centrale investeringsaannames, valutaweergave, drempelwaarden en standaardkostenpercentages |
+| `02_Residential_Deal` | Beslissingsengine | Screening van residentiële grondverkavelingen / ontwikkeling van één woning |
+| `03_Townhouse_Deal` | Beslissingsengine | Screening van townhouse-ontwikkeling met meerdere units |
 
-De architectuur volgt een éénrichtingsflow:
+De architectuur volgt een strikte eenrichtingsstroom:
 
 ```text
 RAW DEAL INPUTS
-     │
-     ├── Site / Yield / GFA
-     ├── Land Comparables
-     ├── Retail Comparables
-     ├── Acquisition Assumptions
-     └── Development Cost Assumptions
-     │
-     ▼
+     |
+     +-- Site / Yield / GFA
+     +-- Land Comparables
+     +-- Retail Comparables
+     +-- Acquisition Assumptions
+     +-- Development Cost Assumptions
+     |
+     v
 CALCULATION ENGINE
-     │
-     ├── Comparable Market Averages
-     ├── Land Acquisition Cost
-     ├── Gross Realisation
-     ├── Selling Costs
-     ├── Net Realisation
-     ├── Development Costs
-     ├── Finance Allowance
-     └── Total Project Cost
-     │
-     ▼
+     |
+     +-- Comparable Market Averages
+     +-- Land Acquisition Cost
+     +-- Gross Realisation
+     +-- Selling Costs
+     +-- Net Realisation
+     +-- Development Costs
+     +-- Finance Allowance
+     +-- Total Project Cost
+     |
+     v
 DECISION LAYER
-     │
-     ├── Net Development Profit
-     ├── Profit on Cost
-     ├── Target POC
-     └── PASS / FAIL / PENDING INPUT
+     |
+     +-- Net Development Profit
+     +-- Profit on Cost (POC)
+     +-- Target POC Hurdle
+     +-- PASS / FAIL / PENDING INPUT
 ```
 
-Het systeem scheidt bewust ontgrendelde invoercellen van vergrendelde berekenings- en presentatiecellen. De werkmap is ontworpen om te voorkomen dat gebruikers de berekeningslogica overschrijven, terwijl de werkelijke dealaannames gemakkelijk te identificeren blijven. 
-
-De structuur input → berekening → beslissing is consistent in de residentiële en townhouse-scenario's. De townhouse-versie toont daarnaast metrieken op unitniveau, omdat de ontwikkelingsopbrengst een centraal onderdeel is van de economie van meerdere units. 
+Het systeem scheidt bewust ontgrendelde invoercellen van vergrendelde berekenings- en presentatiecellen, zodat niet-technische gebruikers niet per ongeluk formules overschrijven en toch elke dealaanname eenvoudig bewerkbaar blijft.
 
 ### Beslissingskader
 
-De centrale economische keten is:
-
 ```text
 Comparable Land Evidence
-        ↓
+        |
+        v
 Land Market Price Benchmark
-        ↓
+        |
+        v
 Model-Indicated Land Value
-        ↓
-Actual Acquisition Cost
-        ↓
-Development + Finance Costs
-        ↓
-Finished-Property Comparable Evidence
-        ↓
-Gross Realisation
-        ↓
-Selling Costs
-        ↓
-Net Realisation
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Investment Hurdle
-        ↓
-PASS / FAIL
+        |
+        v
+Actual Acquisition Cost  +  Development & Finance Costs
+        |
+        v
+Finished-Property Comparable Evidence -> Gross Realisation -> Less Selling Costs -> Net Realisation
+        |
+        v
+Net Development Profit -> Profit on Cost (POC) vs. Investment Hurdle -> PASS / FAIL
 ```
 
-De belangrijke ontwerpkeuze is dat **grond, omzet en ontwikkelingskosten niet als afzonderlijke vragen worden beoordeeld**. Ze komen samen in één rendementstoets op projectniveau.
+Grond, omzet en ontwikkelingskosten worden nooit geïsoleerd beoordeeld—ze komen samen in één rendementstoets op projectniveau.
 
-### Drie valkuilen die zelfs ervaren vastgoedkopers treffen
+### Drie valkuilen die zelfs ervaren vastgoedacquisiteurs treffen
 
-#### Valkuil 1 — De vraagprijs aanzien voor de grondwaarde
-
-**1. Er werd een beslissing genomen.**
-
-Een acquisitiekans lijkt redelijk geprijsd in vergelijking met de verwachtingen van de verkoper.
-
-**2. De beslissing berustte op een onopgemerkte foutieve aanname.**
-
-De vraagprijs werd behandeld als de relevante grondbenchmark zonder normalisatie tegen vergelijkbaar transactiebewijs.
-
-**3. De aanbeveling verandert.**
-
-Een project kan goedkoop lijken omdat de koper het vergelijkt met andere vraagprijzen in plaats van met afgeronde transacties.
-
-**4. Waarom de redenering onjuist is.**
-
-Een vraagprijs is een aanbodpositie. Het is niet noodzakelijk bewijs van marktklarende waarde.
-
-**5. Gecorrigeerde aanpak.**
-
-Gebruik werkelijke vergelijkbare grondtransacties om een referentieprijs per vierkante meter vast te stellen.
-
-**6. Gecorrigeerde beslissingsuitkomst.**
-
-De acquisitie kan dan worden beoordeeld tegen een marktonderbouwde grondwaarde voordat de ontwikkelingseconomie wordt beschouwd.
-
-**7. Formulelogica**
+#### Valkuil 1 — De vraagprijs behandelen als de grondwaarde
+- **De fout:** Een locatie "goedkoop" noemen in vergelijking met andere vraagprijzen in plaats van met daadwerkelijk afgeronde transacties.
+- **De oplossing:** Gebruik daadwerkelijke vergelijkbare grondverkopen om via dynamische filtering een marktreferentieprijs per SQM te berekenen (lege rijen worden genegeerd zodat lege cellen het gemiddelde nooit vertekenen).
 
 <details>
-<summary>Berekening van vergelijkbare grond</summary>
+<summary>Bekijk de formulelogica van de grondcomps</summary>
 
 ```excel
 =IF(D14:D23="","",
@@ -250,8 +202,6 @@ De acquisitie kan dan worden beoordeeld tegen een marktonderbouwde grondwaarde v
    )
 )
 ```
-
-Het model middelt vervolgens alleen geldige positieve vergelijkbare waarden:
 
 ```excel
 =IFERROR(
@@ -265,48 +215,18 @@ Het model middelt vervolgens alleen geldige positieve vergelijkbare waarden:
 )
 ```
 
-De resulterende marktbenchmark wordt gebruikt om een modelmatige grondwaarde aan te geven:
-
 ```excel
 =ROUND(C5*E24,0)
 ```
 
-Het bronontwerp gebruikt expliciet dynamische filtering, zodat lege vergelijkbare rijen het marktgemiddelde niet verstoren. 
-
 </details>
 
----
-
-#### Valkuil 2 — Kijken naar de bruto verkoopomzet in plaats van de netto realisatie
-
-**1. Er werd een beslissing genomen.**
-
-Een townhouse-project lijkt zeer winstgevend omdat de verwachte verkoopprijs vermenigvuldigd met het aantal units een groot bruto-omzetcijfer oplevert.
-
-**2. De beslissing berustte op een onopgemerkt foutief getal.**
-
-De bruto verkopen werden behandeld alsof het de cash was die beschikbaar was om ontwikkelingskosten te dekken.
-
-**3. De aanbeveling verandert.**
-
-Zodra verkoopcommissies en marketing-/juridische kosten per unit worden afgetrokken, kan de economische mar­ge wezenlijk lager zijn.
-
-**4. Waarom de redenering onjuist is.**
-
-De ontwikkelaar behoudt niet de bruto verkoopwaarde. Distributie- en verkoopkosten liggen tussen de genoemde verkoopprijs en de werkelijk terug te vorderen omzet van het project.
-
-**5. Gecorrigeerde aanpak.**
-
-Bereken eerst de bruto realisatie en verwijder daarna expliciet de verkoopkosten voordat het resultaat met de projectkosten wordt vergeleken.
-
-**6. Gecorrigeerde beslissingsuitkomst.**
-
-Het project wordt beoordeeld tegen de **Net Realisation**, niet tegen een optimistisch bruto-omzetcijfer.
-
-**7. Formulelogica**
+#### Valkuil 2 — Bruto verkoopomzet verwarren met netto realisatie
+- **De fout:** De bruto verkoopomzet behandelen als het geld dat beschikbaar is om projectkosten te betalen.
+- **De oplossing:** Trek eerst makelaarscommissies en marketing-/juridische kosten per unit af om de werkelijke **Netto Realisatie** vast te stellen.
 
 <details>
-<summary>Berekening van de realisatie</summary>
+<summary>Bekijk de formulelogica van de realisatie</summary>
 
 ```excel
 =ROUND(C6*D46,0)
@@ -324,51 +244,18 @@ Het project wordt beoordeeld tegen de **Net Realisation**, niet tegen een optimi
 =C50-C53
 ```
 
-De berekening volgt dus:
-
 ```text
-Gross Realisation
-    − Agent Commission
-    − Unit Marketing / Legal Costs
-    = Net Realisation
+Gross Realisation - Agent Commission - Unit Marketing/Legal Costs = Net Realisation
 ```
-
-De bronspecificatie definieert dit als de basis voor de netto terugwinning van het project voordat projectkosten worden afgetrokken. 
 
 </details>
 
----
-
 #### Valkuil 3 — Een deal PASS noemen voordat de kostenstapel compleet is
-
-**1. Er werd een beslissing genomen.**
-
-Een project lijkt een acceptabele winst te genereren op basis van grond, bouw en verwachte verkopen.
-
-**2. De beslissing berustte op een onopgemerkt foutief model.**
-
-Professionele honoraria, contingentie, gemeentelijke bijdragen, verkoopkosten of financieringsallowances werden weggelaten of afzonderlijk behandeld.
-
-**3. De aanbeveling verandert.**
-
-Het project kan van ogenschijnlijk acceptabel naar onder de investeringsdrempel gaan zodra de volledige kostenstapel is inbegrepen.
-
-**4. Waarom de redenering onjuist is.**
-
-Winstgevendheid is een relatie tussen de volledige netto realisatie en de volledige kapitaalbehoefte van het project.
-
-**5. Gecorrigeerde aanpak.**
-
-Aggregeer de blootstelling aan grondacquisitie, ontwikkeling en financiering voordat u de POC berekent.
-
-**6. Gecorrigeerde beslissingsuitkomst.**
-
-Alleen de volledige projecteconomie wordt getoetst aan de investeringsdrempel.
-
-**7. Formulelogica**
+- **De fout:** Professionele honoraria, contingentie, gemeentelijke bijdragen of financieringsreserves weglaten uit de eerste haalbaarheidscheck.
+- **De oplossing:** Aggregeer grondacquisitie, volledige ontwikkelingskosten en financieringsrisico voordat u de POC toetst aan de drempelwaarde (met `ROUND(...,4)` om floating-point-grensgevallen te elimineren).
 
 <details>
-<summary>Beslissingsengine op projectniveau</summary>
+<summary>Bekijk de formules van de beslissingsengine op projectniveau</summary>
 
 ```excel
 =C31+C65+C69
@@ -398,162 +285,75 @@ Alleen de volledige projecteconomie wordt getoetst aan de investeringsdrempel.
 )
 ```
 
-Dit levert de volgende beslissingsreeks op:
-
-```text
-Total Project Cost
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Target POC Threshold
-        ↓
-PASS / FAIL
-```
-
-De vergelijking `ROUND(...,4)` is expliciet bedoeld om floating-point-fouten op de grens te voorkomen wanneer de berekende POC dicht bij de drempel ligt. 
-
 </details>
 
-### Voorbeeldscenario
+### Rekenvoorbeeld (townhouseproject met 4 units)
 
-Het volgende is een **illustratief screeningscenario**, met gebruik van de methodologie van de werkmap en niet de weergave van een werkelijk markttransactie.
+Het volgende is een **illustatief screeningvoorbeeld** dat laat zien hoe het model een structureel onder water staande deal blootlegt voordat er kapitaal wordt vastgelegd:
 
-Ga uit van een ontwikkeling van vier townhouses:
+| Invoer | Illustratieve waarde |
+| :--- | ---: |
+| Locatieoppervlak | 800 sqm |
+| Voorgestelde units | 4 |
+| Doel-GFA | 600 sqm (150 sqm/unit) |
+| Overeengekomen aankoopprijs | $900,000 |
+| Juridische kosten / due diligence bij acquisitie | $15,000 |
+| Overdrachtsbelasting | 5.50% |
+| Gemiddelde vergelijkbare grondwaarde | $1,150/sqm |
+| Gemiddelde verkoopprijs vergelijkbare townhouses | $650,000/unit |
+| Bouwkostentarief | $2,800/sqm |
+| Gemeentelijke bijdrage | $12,000/unit |
+| Professionele honoraria | 6.00% van de bouwkosten |
+| Contingentie | 5.00% van de bouwkosten |
+| Financieringsreserve | $100,000 |
+| Verkoopcommissie | 2.20% |
+| Marketing / juridisch | $8,000/unit |
+| Doel-POC | 25.00% |
 
-| Input                                   |  Illustrative Value |
-| --------------------------------------- | ------------------: |
-| Site area                               |              800 m² |
-| Proposed units                          |                   4 |
-| Target GFA                              |              600 m² |
-| Agreed purchase price                   |            $900,000 |
-| Acquisition legal / due diligence       |             $15,000 |
-| Stamp duty                              |               5.50% |
-| Average comparable land value           |           $1,150/m² |
-| Average comparable townhouse sale price |       $650,000/unit |
-| Construction rate                       |           $2,800/m² |
-| Council contribution                    |        $12,000/unit |
-| Professional fees                       | 6.00% of build cost |
-| Contingency                             | 5.00% of build cost |
-| Finance allowance                       |            $100,000 |
-| Sales commission                        |               2.20% |
-| Marketing / legal                       |         $8,000/unit |
-| Target POC                              |              25.00% |
-
-Het schema met vier units levert een gemiddelde GFA op van **150 m² per unit**.
-
-De bouwkosten zijn:
+**Overzicht van de automatische berekening:**
 
 ```text
-600 m² × $2,800
-= $1,680,000
+Acquisition Cost  = $900,000 + ($900,000 * 5.5%) + $15,000         = $964,500
+Construction Cost = 600 sqm * $2,800                               = $1,680,000
+Council Levies    = 4 * $12,000                                    = $48,000
+Professional Fees = $1,680,000 * 6%                                = $100,800
+Contingency       = $1,680,000 * 5%                                = $84,000
+Finance Allowance = $100,000                                       = $100,000
+------------------------------------------------------------------------------
+Total Project Cost                                                 = $2,977,300
+
+Gross Realisation = 4 * $650,000                                   = $2,600,000
+Selling Costs     = ($2,600,000 * 2.2%) + (4 * $8,000)             = $89,200
+------------------------------------------------------------------------------
+Net Realisation                                                    = $2,510,800
+
+Net Development Profit = $2,510,800 - $2,977,300                   = -$466,500
+Deal Verdict                                                       = FAIL
 ```
 
-De gemeentelijke bijdragen zijn:
+**Conclusie:** Hoewel de grondprijs ($900,000) redelijk lijkt tegenover de benchmark van $920,000 voor vergelijkbare grond ($1,150/sqm * 800 sqm), bewijst de volledige kostenstapel dat het project diep onder water staat. In plaats van te gokken weet de ontwikkelaar direct welke knoppen—grondprijs, unitopbrengst, bouwspecificatie of exitprijsstelling—moeten draaien voordat er ook maar één dollar extra wordt uitgegeven.
 
-```text
-4 × $12,000
-= $48,000
-```
-
-De professionele honoraria zijn:
-
-```text
-$1,680,000 × 6%
-= $100,800
-```
-
-De contingentie is:
-
-```text
-$1,680,000 × 5%
-= $84,000
-```
-
-De acquisitiekosten zijn:
-
-```text
-$900,000
-+ ($900,000 × 5.5%)
-+ $15,000
-= $964,500
-```
-
-De bruto realisatie is:
-
-```text
-4 × $650,000
-= $2,600,000
-```
-
-De verkoopkosten zijn:
-
-```text
-$2,600,000 × 2.2%
-+ (4 × $8,000)
-= $89,200
-```
-
-De netto realisatie is dus:
-
-```text
-$2,600,000 − $89,200
-= $2,510,800
-```
-
-De totale projectkosten worden:
-
-```text
-$964,500
-+ $1,680,000
-+ $48,000
-+ $100,800
-+ $84,000
-+ $100,000
-= $2,977,300
-```
-
-Dit levert:
-
-```text
-Net Development Profit
-= $2,510,800 − $2,977,300
-= −$466,500
-```
-
-Het resultaat ligt duidelijk onder de drempel van 25%.
-
-De analytische conclusie is **niet simpelweg "de bouw is te duur."** Het volledige screeningskader toont aan dat het project onder deze aannames structureel onder water staat. De volgende commerciële vraag is of de aannames realistisch kunnen veranderen — vooral aankoopprijs, haalbare verkoopprijs, opbrengst of bouwkosten — voordat de kans verder werk verdient.
-
-Dit is precies waar het screeningsmodel nuttig is: het verandert een vaag gesprek van "misschien werken de cijfers wel" in een gekwantificeerde beslissing over welke aanname moet veranderen.
-
-### Formulereferentie
+### Volledige formulereferentie
 
 <details>
-<summary>Planning en metrieken per unit</summary>
+<summary>Plannings- en per-unit-metrieken</summary>
 
 **Gemiddelde GFA per unit**
-
 ```excel
 =IF(C6>0,ROUND(C7/C6,2),0)
 ```
 
-**Grondkosten per deur**
-
+**Grondkosten per unit**
 ```excel
 =IF(C6>0,ROUND(C31/C6,0),0)
 ```
 
-Deze berekeningen zijn bijzonder relevant voor het townhouse-scenario, omdat dezelfde kosten van site-acquisitie worden verdeeld over de voorgestelde unitopbrengst. 
-
 </details>
 
 <details>
-<summary>Engine voor vergelijkbare grond</summary>
+<summary>Engine voor vergelijkbare grondverkopen</summary>
 
 **Vergelijkbare grondprijs per vierkante meter**
-
 ```excel
 =IF(D14:D23="","",
    IF(ISNUMBER(C14:C23/D14:D23),
@@ -564,7 +364,6 @@ Deze berekeningen zijn bijzonder relevant voor het townhouse-scenario, omdat dez
 ```
 
 **Gemiddelde vergelijkbare grondprijs**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -578,12 +377,9 @@ Deze berekeningen zijn bijzonder relevant voor het townhouse-scenario, omdat dez
 ```
 
 **Modelmatig aangegeven grondwaarde**
-
 ```excel
 =ROUND(C5*E24,0)
 ```
-
-Het gebruik van `FILTER` betekent dat lege rijen worden uitgesloten in plaats van behandeld als transacties met waarde nul. 
 
 </details>
 
@@ -591,7 +387,6 @@ Het gebruik van `FILTER` betekent dat lege rijen worden uitgesloten in plaats va
 <summary>Engine voor verkoopcomps en realisatie</summary>
 
 **Vergelijkbare verkoopprijs per vierkante meter**
-
 ```excel
 =IF(E36:E45="","",
    IF(ISNUMBER(D36:D45/E36:E45),
@@ -601,8 +396,7 @@ Het gebruik van `FILTER` betekent dat lege rijen worden uitgesloten in plaats va
 )
 ```
 
-**Gemiddelde vergelijkbare stukprijs**
-
+**Gemiddelde vergelijkbare unitprijs**
 ```excel
 =IFERROR(
    AVERAGE(
@@ -616,30 +410,24 @@ Het gebruik van `FILTER` betekent dat lege rijen worden uitgesloten in plaats va
 ```
 
 **Bruto realisatie**
-
 ```excel
 =ROUND(C6*D46,0)
 ```
 
 **Makelaarscommissie**
-
 ```excel
 =ROUND(C50*'01_Global_Settings'!$C$9,0)
 ```
 
 **Totale verkoopkosten**
-
 ```excel
 =C51+(C6*C52)
 ```
 
 **Netto realisatie**
-
 ```excel
 =C50-C53
 ```
-
-Het bronontwerp behandelt het gemiddelde van de vergelijkbare afgewerkte objecten expliciet als de verkoopbenchmark en gaat vervolgens van bruto naar netto realisatie door verkoopkosten af te trekken. 
 
 </details>
 
@@ -647,25 +435,21 @@ Het bronontwerp behandelt het gemiddelde van de vergelijkbare afgewerkte objecte
 <summary>Engine voor ontwikkelingskosten</summary>
 
 **Totale bouwkosten**
-
 ```excel
 =ROUND(C7*C58,0)
 ```
 
 **Gemeentelijke bijdragen**
-
 ```excel
 =ROUND(C6*C60,0)
 ```
 
 **Professionele honoraria**
-
 ```excel
 =ROUND(C59*'01_Global_Settings'!$C$7,0)
 ```
 
 **Contingentie met override op projectniveau**
-
 ```excel
 =ROUND(
    C59*IF(
@@ -678,12 +462,9 @@ Het bronontwerp behandelt het gemiddelde van de vergelijkbare afgewerkte objecte
 ```
 
 **Totale ontwikkelingskosten**
-
 ```excel
 =SUM(C59,C61,C62,C64)
 ```
-
-De contingentielogica is bewust hiërarchisch: een projectspecifiek tarief kan de globale standaard overschrijven, terwijl het leeg laten van het projectveld ertoe leidt dat het model de centrale parameter overneemt. 
 
 </details>
 
@@ -691,31 +472,26 @@ De contingentielogica is bewust hiërarchisch: een projectspecifiek tarief kan d
 <summary>Definitieve beslissingsengine</summary>
 
 **Totale projectkosten**
-
 ```excel
 =C31+C65+C69
 ```
 
 **Netto ontwikkelingswinst**
-
 ```excel
 =C54-C70
 ```
 
 **Profit on Cost**
-
 ```excel
 =IF(C70>0,C71/C70,0)
 ```
 
-**Doeldrempel POC**
-
+**Doel-POC-drempel**
 ```excel
 ='01_Global_Settings'!$C$5
 ```
 
-**Dealverdeling**
-
+**Deal-oordeel**
 ```excel
 =IF(
    C70=0,
@@ -728,95 +504,112 @@ De contingentielogica is bewust hiërarchisch: een projectspecifiek tarief kan d
 )
 ```
 
-De beslissingsstatus onderscheidt bewust een onvolledig model van een mislukte investeringscase. `PENDING INPUT` wordt daarom niet behandeld als `FAIL`. 
+</details>
+
+### Validatieregels & foutbeveiliging
+
+| Veld / gebied | Regel | Fout- / beslisgedrag |
+| :--- | :--- | :--- |
+| `Site_Area_SQM` | Moet een geldige, positieve locatie-oppervlakte vertegenwoordigen | Onvolledige invoer voorkomt een misleidende beslissing |
+| `Proposed_Units_Yield` | Moet groter dan nul zijn voor unitmetrieken | Beveiligd tegen deling door nul |
+| `Target_GFA_SQM` | Totale Gross Floor Area (GFA) van de ontwikkeling | Bepaalt de totale bouwkosten |
+| Rijen met grond- en verkoopcomps | Lege of ongeldige rijen worden genegeerd via `FILTER` | Lege rijen vertekenen de marktgemiddelden nooit |
+| Aankoopprijs | Feitelijke acquisitie-aanname | Bepaalt de acquisitiekosten en de uiteindelijke POC |
+| Overdrachtsbelasting- en kostentarieven | Centraal beheerd in `01_Global_Settings` | Wordt automatisch toegepast op alle dealtabbladen |
+| Contingentie | Globale standaard of projectspecifieke override | Een leeg projectveld erft het globale tarief |
+| Projectkosten | Moet groter dan nul zijn voor de POC | Kosten van nul geven `PENDING INPUT` (niet `FAIL`) |
+| POC-vergelijking | Afgerond op 4 decimalen vóór de vergelijking | Voorkomt floating-point-grensgevallen |
+| Werkmapbeveiliging | Rekenblokken standaard vergrendeld | Voorkomt per ongeluk verwijderen van formules |
+
+### Visuele bedieningsregels & compatibiliteit
+
+| Visuele status | Betekenis | Gebruikersactie |
+| :--- | :--- | :--- |
+| Zachtblauw | Ontgrendelde invoercel | Voer dealaannames in of bewerk ze |
+| Wit / grijs | Vergrendelde reken- of labelcel | Niet bewerken |
+| Groen | `PASS` | Deal haalt uw investeringsdrempel |
+| Rood | `FAIL` | Deal blijft onder uw investeringsdrempel |
+
+- **Ondersteunde platforms:** Microsoft 365, Excel 2021 of later en Google Sheets.
+- **Zero-hardcoding & zero-macro-ontwerp:** Volledig gebouwd met moderne native Excel-formules—veilig om overal te openen zonder beveiligingswaarschuwingen.
 
 </details>
 
-### Validatieregels
+---
 
-| Field / Area           | Rule                                                                 | Error / Decision Behavior                                  |
-| ---------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `Site_Area_SQM`        | Must represent a valid positive site area                            | Incomplete inputs prevent a meaningful project decision    |
-| `Proposed_Units_Yield` | Must be greater than zero where unit-based calculations are required | Per-unit calculations are guarded against division by zero |
-| `Target_GFA_SQM`       | Used as the total development GFA                                    | Drives construction cost                                   |
-| Land comparable rows   | Blank rows are ignored                                               | Blank rows do not dilute the market average                |
-| Comparable land area   | Required for a valid land unit-price calculation                     | Invalid calculations remain blank                          |
-| Comparable sale data   | Valid numeric transaction data only                                  | Invalid / empty rows are excluded from the average         |
-| Purchase price         | Used as the actual acquisition assumption                            | Drives acquisition cost and final POC                      |
-| Stamp duty             | Controlled centrally                                                 | Automatically applied to purchase price                    |
-| Professional fee rate  | Controlled centrally                                                 | Applied to build cost                                      |
-| Contingency            | Global default or project-specific override                          | Blank project rate inherits global contingency             |
-| Finance allowance      | Explicit project input                                               | Included in total project cost                             |
-| Project cost           | Must be greater than zero for POC                                    | Zero cost returns `PENDING INPUT` at verdict stage         |
-| POC comparison         | Rounded before threshold comparison                                  | Prevents floating-point boundary errors                    |
-| Target POC             | Central investment hurdle                                            | Determines `PASS` / `FAIL`                                 |
-| Workbook protection    | Calculation cells remain locked                                      | Prevents accidental overwriting of formulas                |
+## Over Theseus Workshop
 
-De implementatie gebruikt vergrendelde berekeningsgebieden, aangewezen ontgrendelde invoergebieden, dynamische filtering van vergelijkbare data, waarborgen tegen deling door nul en expliciete beslissingsstatussen als onderdeel van het ontwerp voor foutbeheersing. 
+Ik bouw **kant-en-klare Excel-beslissingstoolkits** voor praktische bedrijfsproblemen waarbij er te veel bewegende delen zijn om allemaal in uw hoofd te houden—zonder dat u complexe financiële techniek moet leren of terugkerende SaaS-kosten moet betalen.
 
-### Werkregels voor de werkmap
+Elke tool vertrekt vanuit één praktische vraag:
 
-De werkmap gebruikt een visuele taal met drie statussen:
+> **Welke informatie moet op één overzichtelijke plek staan zodat u de volgende bedrijfsbeslissing met vertrouwen kunt nemen?**
 
-| Visual State | Meaning                                 | User Action                           |
-| ------------ | --------------------------------------- | ------------------------------------- |
-| Soft blue    | Input area / unlocked                   | Enter or edit deal assumptions        |
-| White / grey | Calculation or structural area / locked | Do not edit                           |
-| Green        | `PASS`                                  | Deal clears the screening hurdle      |
-| Red          | `FAIL`                                  | Deal falls below the screening hurdle |
+Als deze gratis screeningtool u tijd heeft bespaard of een slechte investering heeft voorkomen, bekijk dan hieronder de rest van de beslissingstoolbox van **Theseus Workshop**.
 
-Het bronontwerp specificeert lichtblauwe invoercellen, vergrendelde berekeningscellen en voorwaardelijke groen/rode weergave van de uitkomst om de werkmap bruikbaar te maken voor niet-technische zakelijke gebruikers. 
+---
 
-Voor doorlopend gebruik:
+## Meer kant-en-klare toolkits voor zakelijke beslissingen
 
-1. Voeg vergelijkbare transacties rechtstreeks toe in de aangewezen invoerrijen.
-2. Verwijder onjuiste vergelijkbare data door de betreffende invoerrij leeg te maken.
-3. Kopieer geen formules naar de berekeningsgebieden.
-4. Wijzig globale investeringsaannames alleen via het centrale parametergebied.
-5. Verwijder de werkbladbeveiliging niet en overschrijf berekeningscellen niet handmatig.
+### Vastgoed & bouw
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Blijft er eigen vermogen over bij een multifamily-acquisitie na renovatie- en exploitatiekosten?
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Wat is een pand echt waard volgens meerdere waarderingsmethoden, belastingregels en CapEx-scenario's?
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Welke brugfinancierings- of fix-and-flip-leningsstructuur werkt onder verschillende aanames voor kredietnemer en onderpand?
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Welke opdrachten en klanten van aannemers zijn echt winstgevend na de echte bouwplaatskosten?
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Haalt een Britse woningbouw het doelrendement zodra vakmantarieven, verspillingsfactoren en bouwplaatslogistiek verschuiven?
 
-De berekeningsgebieden voor vergelijkbare objecten zijn ontworpen om een wisselend aantal waarnemingen op te vangen zonder handmatig formuleonderhoud. 
+### Cashflow, budgettering & start-upfinanciën
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Waarom is geld altijd krap, en wanneer zakt de liquiditeit als volgende?
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — Hoe werken operationele en financieringskeuzes door in uw resultatenrekening, balans en cashflow?
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Waar raken privé- en bedrijfsfinanciën door elkaar?
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Kunt u de werving en marketing van deze maand betalen zonder uw runway op te branden?
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Raakt de groei uit de cash voordat klantcohorten zich hebben terugverdiend?
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — Wat komt elke belegger werkelijk toe op basis van instaptijdstip en huidige NAV?
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Wat is er vandaag werkelijk verschuldigd na jaren informele overschrijvingen en opgelopen rente?
 
-### Platform- en implementatienotities
+### E-commerce, retail & marktplaatswinstgevendheid
+- **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Welke orders leveren echt geld op na verzendkosten, betaalkosten en marktplaatsafdrachten?
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Welke voorraad- en advertentieverbintenissen veroorzaken de komende 12 weken een krapte in cash?
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Is elke Shopify-winkel echt winstgevend zodra SKU-COGS, bankkosten en gedeelde OPEX zijn afgestemd?
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Welke producten en zoekwoorden hebben de prestatieveranderingen van deze week op Amazon echt veroorzaakt?
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Wat is de echte nettomarge per SKU na werkelijke vracht, rechten en inhoudingen van de retailer?
 
-Het ontwerp is gericht op:
+### Prijsstelling, productie & kostenallocatie
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Welke groothandelsprijzen beschermen de marge na vracht, rechten, betalingsvoorwaarden en valutaschommelingen?
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Welke SKU's zijn winstgevend na fabrieksarbeid, nutsvoorzieningen, overhead en ingrediënten?
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Wat moet u per hoeveelheidstrap offreren om concurrentiekrachtig en winstgevend te blijven?
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Is de echte vraag genoeg veranderd om een prijswijziging te rechtvaardigen?
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Worden gedeelde leveranciersfacturen eerlijk verdeeld over entiteiten en bedrijfsmiddelen?
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Hoeveel bouwmarge is echt en hoeveel wordt vertekend door interne kostenallocatie?
 
-* **Microsoft 365**
-* **Excel 2021 of later**
-* **Google Sheets**
+### Logistiek, grensoverschrijdende handel & serviceoperaties
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Welke grensoverschrijdende handelsstromen blijven winstgevend na valutaschommelingen?
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Welke vrachtboekingen leveren echt winst op over gemengde valuta's, heffingen en containerkosten heen?
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Welke containers en klanten zijn winstgevend over douane- en vlootoperaties heen?
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Is een café of bakkerij echt winstgevend na receptkosten, arbeid en dagelijkse exploitatiekosten?
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Welke tourboekingen genereren nettowinst en positieve cashflow over valuta's heen?
 
-De implementatie vermijdt bewust VBA/macro's en gebruikt moderne spreadsheetfuncties en dynamische-arraylogica, zodat de werkmap een gewoon `.xlsx`-bestand kan blijven in plaats van afhankelijk te zijn van een applicatiespecifieke automatiseringslaag. 
+---
 
-De architectuur volgt tevens een **zero-hardcoding**-principe. Kern aannames zoals het valutasymbool, de POC-drempel, overdrachtsbelasting, professionele honoraria, contingentie en makelaarscommissie zijn gecentraliseerd in plaats van herhaald als letterlijke constanten in de berekeningslaag. 
+## Vragen, feedback & productupdates
 
-</details>
+Deze repository hoort bij **Real Estate Development Feasibility & Deal Screening Tool**. Gebruik de onderstaande kanalen om technische bugs gescheiden te houden van gebruikersvragen en ideeën voor nieuwe functies:
 
-## De bedrijfslogica & methodologie
+- **Meld een reproduceerbaar technisch probleem:** [Maak een bugrapport aan](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Vermeld de betreffende workflow, de softwareomgeving en de stappen om het probleem te reproduceren.
+- **Stel een gebruikersvraag:** [Theseus Workshop community Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Draag een verbetering voor of bespreek een gebruiksscenario:** [Deel een idee](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Volg productaankondigingen:** [Productupdates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
 
-Het model is gebaseerd op een eenvoudig commercieel principe: **een ontwikkelingsdeal moet worden gescreend op basis van de wisselwerking tussen marktbewijs, aankoopprijs, ontwikkelingskosten en haalbare exitwaarde — niet op basis van één enkel aantrekkelijk getal.**
+### Privacy & veilige voorbeelden
 
-De methodologie zet die inputs om in een reeks vragen die steeds beslissingsrelevanter worden.
+Publiceer geen vertrouwelijke bedrijfsinformatie over klanten, leveranciers, medewerkers, pandeigenaren, reizigers, huurders, transacties, boekingen, betalingen of iets dergelijks in openbare GitHub Issues of Discussions. Voeg geen ongezwarte boekhoudexports, bankafschriften, facturen, contracten, identiteitsdocumenten, inloggegevens of volledige operationele datasets toe.
 
-* **Vergelijkende marktanalyse** stelt een referentiepunt vast voor grond en afgewerkt residentieel product. Dit vermindert de afhankelijkheid van vraagprijzen, geïsoleerde meningen of één optimistische verkoopaanname. De praktische beslissing wordt: *Worden de voorgestelde acquisitie- en exitprijsstelling ondersteund door waarneembaar marktbewijs?* 
+Gebruik waar mogelijk gesynthetiseerde voorbeelden. Als een praktijkvoorbeeld nodig is, verwijder dan directe en indirecte identificatoren en commercieel gevoelige waarden. Kolomnamen, verzonnen voorbeeldrijen, benaderende rijtallen, exacte foutmeldingen en verwachte versus werkelijke resultaten zijn meestal voldoende om een probleem te reproduceren.
 
-* **Aggregatie van volledige kosten** behandelt acquisitie, bouw, professionele diensten, gemeentelijke bijdragen, contingentie, verkoopkosten en financiering als onderdeel van dezelfde economische case. Dit lost het veelvoorkomende probleem op waarin een project winstgevend lijkt omdat belangrijke kosten nog buiten de kernberekening vallen.
-
-* **Netto-realisatieanalyse** scheidt de bruto verkoopomzet van het bedrag dat daadwerkelijk beschikbaar is na verkoop- en marketinggerelateerde kosten. Dit maakt de exitaanname commercieel bruikbaar in plaats van alleen aantrekkelijk op papier. 
-
-* **Besluitvorming op basis van drempels** verandert een subjectief oordeel van "ziet er winstgevend uit" in een herhaalbare investeringsregel. Met een standaard POC-drempel van 25,00% kan dezelfde norm worden toegepast op residentiële en townhouse-kansen, terwijl de centrale drempel kan worden gewijzigd wanneer het investeringsmandaat verandert. 
-
-* **Sensitiviteit van de acquisitieprijs via reverse-onderhandeling** maakt van een mislukt screeningsresultaat een commerciële vraag. Als het project de drempel niet haalt, wordt de acquisitieprijs een van de variabelen die kunnen worden aangevochten in plaats van simpelweg de initiële dealvoorwaarden te accepteren. De SOP van de werkmap behandelt het verlagen van de voorgestelde aankoopprijs expliciet als een praktische reactie op een `FAIL`-resultaat. 
-
-Het resultaat is geen vervanging van volledige due diligence. Het is een gedisciplineerd filter om te bepalen **welke kansen het volgende niveau van werk verdienen**.
-
-## Andere tools in deze serie
-
-* **Tools voor woningontwikkeling** — lichtgewicht Excel-kaders voor het ramen, budgetteren en beheersen van de bouw- en ontwikkelingseconomie.
-* **Tools voor bouwramingen** — BOQ-, takeoff-, tender- en kostenbeheersingsworkflows rond herhaalbare projectbeslissingen.
-* **Werkboeken voor bedrijfsbeslissingsondersteuning** — herbruikbare spreadsheetmodellen die gefragmenteerde operationele data omzetten in expliciete beslissingsregels.
+Upload bij een gratis browserdemo geen productiedata voordat u zelfstandig de actuele privacy- en databehandelinformatie van de demo heeft bekeken en heeft bevestigd dat het gebruik ervan passend is. Deze README beweert niet dat browserdata uitsluitend op uw apparaat wordt verwerkt of nooit wordt verzonden of bewaard.
 
 ## Licentie
 
-Dit project is vrijgegeven onder de **Apache License 2.0**.
+Dit project wordt vrijgegeven onder de **Apache License 2.0**.
 
 U mag het project gebruiken, wijzigen, distribueren en aanpassen onder de voorwaarden van de Apache License 2.0.
