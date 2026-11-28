@@ -1,246 +1,198 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Outil de Présélection des Opérations d'Aménagement Immobilier : Modèle Excel de Faisabilité et de Modélisation Financière
+# Outil de présélection d'opérations de promotion immobilière : modèle Excel gratuit d'étude de faisabilité et de modélisation financière
+
+<img width="1163" height="790" alt="Real Estate Development Feasibility Excel Template Dashboard Preview" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![Price](https://img.shields.io/badge/Excel%20Template-Free%20%2F%20Pay%20What%20You%20Want-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)
-![Tool Type](https://img.shields.io/badge/Tool-Decision%20Support-success.svg)
+![Macros](https://img.shields.io/badge/VBA%20%2F%20Macros-None%20Required-success.svg)
 
-> L'**Outil de Présélection des Opérations d'Aménagement Immobilier** est un **modèle Excel de modélisation financière et application web** léger, conçu pour évaluer rapidement les **opportunités d'aménagement résidentiel**, y compris les **lotissements de terrains** et les **projets de maisons de ville à plusieurs logements**. Comparez les terrains comparables, estimez les coûts de construction, calculez la Gross Realization Value (GRV) et déterminez votre seuil de Profit on Cost (POC) — sans avoir à construire de zéro un modèle de faisabilité d'aménagement complexe pour chaque opportunité.
+> **Arrêtez de faire des calculs au dos d'une serviette — et arrêtez de perdre des semaines à construire un tableur complexe de zéro.**  
+> **L'Outil de présélection d'opérations de promotion immobilière** est un **modèle Excel d'étude de faisabilité immobilière et calculateur web gratuit**, prêt à l'emploi, conçu pour les **lotissements de terrains résidentiels** et les **projets de maisons de ville à plusieurs logements**. Saisissez les chiffres de votre site, vos comparables fonciers et vos estimations de construction pour calculer la **valeur résiduelle du terrain**, la **valeur brute de réalisation (GRV)**, le coût total du projet et la **marge sur coûts (POC)** — et obtenez un verdict clair **`PASS` ou `FAIL` en moins de 5 minutes**.
 
-**Essayez d'abord le calculateur de présélection d'opérations, gratuit et accessible dans le navigateur. Sans inscription. Sans installation. 100 % gratuit.**
+---
 
-Pour les professionnels de l'immobilier qui ont besoin d'un **classeur hors ligne réutilisable**, d'historiques d'opérations conservés, d'hypothèses financières modifiables et d'une présélection rapide et répétable pour leur pipeline d'acquisitions, la version Excel est disponible en achat unique avec une **garantie de remboursement de 30 jours, sans questions posées**.
+### Lancez la présélection de votre prochaine opération (100% gratuit pour démarrer)
 
-*   **🌐 [Essayez l'application web gratuite de présélection des opérations immobilières](https://hyvoid.github.io/real-estate-development-feasibility-excel/)** → Ouvrez le calculateur HTML interactif fourni avec le projet pour réaliser une analyse préliminaire rapide.
-*   **📥 [Téléchargez le modèle Excel réutilisable de faisabilité d'aménagement](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** → Obtenez le classeur hors ligne complet pour enregistrer vos opérations, ajuster les hypothèses d'analyse de risque avancées et normaliser vos notes d'investissement.
+Que vous évaluiez votre tout premier site de densification ou que vous présélectionniez chaque semaine les pistes envoyées par les courtiers, vous pouvez tester la logique dès maintenant ou récupérer le classeur hors ligne complet pour **$0+ (payez ce que vous voulez)** :
 
-Ce kit d'outils transforme une question ambiguë d'acquisition de terrain en phase amont en un processus structuré et fondé sur les données :
+- **🌐 [Lancer le calculateur de présélection d'opérations gratuit dans le navigateur](https://hyvoid.github.io/real-estate-development-feasibility-excel/)**  
+  Sans inscription. Sans installation. Ouvrez-le dans votre navigateur, testez une opération réelle immédiatement et exportez une note d'opération PDF propre d'une page.
+- **📥 [Obtenir le modèle Excel réutilisable d'étude de faisabilité — gratuit / payez ce que vous voulez ($0+)](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**  
+  Téléchargez le classeur `.xlsx` hors ligne complet sur Theseus Workshop afin de conserver l'historique de vos opérations, de personnaliser vos hypothèses locales de taxes et de frais, et de présélectionner un nombre illimité de sites. *Téléchargez-le gratuitement ($0) pour monter votre prochaine opération, ou payez ce que vous estimez qu'il vaut pour soutenir la création d'outils plus pratiques.*
+- **👀 [Examiner la structure du tableur sur Google Sheets](https://docs.google.com/spreadsheets/d/19ja2GGLkdWgr0GFHNY9KIhk5Qy8Q1Tp4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**  
+  Prévisualisez les onglets exacts, les zones de saisie et la structure avant de télécharger. *(Remarque : l'aperçu Google Sheets peut afficher quelques avertissements de compatibilité mineurs `#NAME?` qui n'apparaissent pas à l'ouverture dans Microsoft Excel.)*
 
-**Évaluer la valeur résiduelle du terrain → Projeter la Gross Realization Value (GRV) à partir des ventes comparables → Calculer le coût total d'aménagement (coûts durs et indirects) → Évaluer le Return on Investment (ROI) au regard de vos seuils de rendement.**
+---
 
-La méthodologie financière sous-jacente est spécifiquement optimisée pour la **présélection des lotissements résidentiels et des projets multifamiliaux / de maisons de ville**. Elle est volontairement plus légère qu'un modèle complet de faisabilité avec des flux de trésorerie sur 60 mois. L'objectif principal est d'identifier les opportunités hors marché rentables et d'écarter les sites non viables *avant* d'engager des capitaux importants dans une étude préalable architecturale, les autorisations d'urbanisme, la structuration du capital et l'acquisition formelle du site.
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/f10a4379-a8ca-45eb-a2e5-28fc56175a5c" />
+## Comment cet outil transforme une estimation risquée en décision claire
 
-## Points de friction de l'aménagement immobilier résolus : ce que ce modèle de faisabilité suit
+Vous n'avez pas besoin d'être un modélisateur financier de Wall Street pour évaluer correctement un site de développement résidentiel. Cette boîte à outils vous guide pas à pas dans la logique d'analyse en 4 étapes qu'utilisent les promoteurs expérimentés — sur un seul écran clair :
 
-| Point de friction | Solution |
-| :--- | :--- |
-| **Surcharger le prix du terrain** | Calcule la **valeur résiduelle du terrain étayée par le marché** au lieu de se fier au prix demandé par le vendeur ou aux rumeurs du marché. |
-| **Surestimer les recettes de vente** | Projette la **réalisation brute et nette attendue**, dérivée directement des preuves de ventes résidentielles comparables vérifiées (comps). |
-| **Déborder le budget avec des frais cachés** | Consolide **les coûts d'acquisition du terrain, les estimations de coûts durs de construction, les coûts indirects (frais professionnels et municipaux), les budgets d'aléas et l'exposition au portage financier** dans une seule vue pro forma du projet. |
-| **Planification de densité défaillante** | Expose l'**économie par unité** des projets de maisons de ville à plusieurs logements, en détaillant le coût du terrain par logement et la surface de plancher brute (GFA) moyenne par unité. |
-| **Décisions d'investissement purement émotionnelles** | Compare le **Profit on Cost (POC) réel à votre taux de rendement minimal strict**, et produit une décision commerciale définitive : `PASS`, `FAIL` ou `PENDING INPUT`. |
-| **Négociations dans l'impasse** | Détermine par rétro-ingénierie le **prix d'acquisition requis pour sauver une opération faible**, transformant la négociation avec le vendeur en une variable mathématique précise plutôt qu'en un deuxième tableur de suppositions. |
+**1. Valeur de référence du terrain (comparables) -> 2. Estimer la valeur de sortie des ventes (GRV) -> 3. Cumuler chaque coût direct, indirect et financier -> 4. Obtenir un verdict instantané `PASS` / `FAIL`**
 
-## Tutoriel pas à pas : comment présélectionner des opérations d'aménagement en quelques minutes
+Il est volontairement plus léger qu'un modèle de flux de trésorerie mensuel sur 60 mois. L'objectif est simple : **repérer rapidement les opérations hors marché rentables et renoncer aux opérations déficitaires *avant* de dépenser des milliers d'euros en architectes, études de terrain, consultants en urbanisme ou frais juridiques.**
 
-### 1. Définir votre mandat d'investissement et vos paramètres de référence
-**Action :** Définissez les hypothèses d'investissement globales qui régissent votre capital. 
-Le classeur centralise vos indicateurs financiers de référence : devise de base, seuil cible de Profit on Cost (POC), taux de droits de mutation, pourcentages de frais professionnels, marges de sécurité pour les aléas de construction et commissions de vente des agents immobiliers.
-*Astuce : le seuil d'investissement POC par défaut est fixé à **25,00%**, mais il peut être ajusté globalement lorsque le mandat d'investissement ou l'appétit au risque de votre fonds évolue.*
+---
 
-### 2. Saisir les données de l'opération et les biens comparables (comps)
-**Action :** Renseignez les données physiques du site et les données de marché.
-Choisissez votre scénario d'aménagement résidentiel proposé (par exemple lotissement vs. vente en l'état futur) et saisissez :
-*   Surface totale du terrain et contraintes d'urbanisme
-*   Rendement d'aménagement proposé (nombre total d'unités / lots)
-*   Surface de plancher brute (GFA) cible
-*   Prix d'achat convenu ou spéculatif
-*   Enveloppes budgétaires pour les frais juridiques d'acquisition et l'étude préalable
-*   **Jusqu'à 10 terrains comparables** pour justifier la valeur du site
-*   **Jusqu'à 10 comparables de vente au détail / de biens terminés** pour justifier la valeur de sortie brute (GRV)
-*   Coûts durs de construction par M² / SQFT
-*   Contributions d'aménagement à la collectivité / à la commune
-*   Enveloppes budgétaires pour le marketing, le juridique et les intérêts financiers capitalisés
+## Ce que vous pouvez calculer en 5 minutes
 
-### 3. Générer l'analyse de faisabilité automatisée et la décision de ROI
-**Action :** Vérifiez le calcul pro forma instantané.
-Le moteur de calcul se met à jour automatiquement dès que vous saisissez des données — aucune macro de recalcul manuel n'est requise. Le tableau de bord de décision final révèle immédiatement le coût total du projet, le bénéfice net d'aménagement, le POC obtenu, l'écart par rapport au seuil cible et l'état d'investissement résultant : `PASS`, `FAIL` ou `PENDING INPUT`. 
+Conçu pour répondre aux questions concrètes qui décident si un projet de développement immobilier gagne de l'argent ou en perd :
 
-### 4. Exporter la note d'investissement et passer au modèle Excel pour un usage répété
-**Action :** Archivez le résultat de la présélection et normalisez votre pipeline.
-Une fois un site présélectionné dans le navigateur, exportez-le sous forme de note d'investissement de présélection PDF compacte d'une seule page, à présenter à votre comité d'acquisition ou à vos prêteurs. 
-**Vous avez aimé l'outil web gratuit ?** Pour évaluer plusieurs sites, ajuster les formules, conserver les données historiques des opérations et éviter de ressaisir vos paramètres de référence à chaque fois, **[téléchargez la version Excel réutilisable du modèle de faisabilité](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)** pour une présélection immobilière hors ligne sans limite.
+- **Présélectionner les lotissements de terrains résidentiels** pour vérifier si la marge bénéficiaire justifie réellement le risque et la durée de détention.
+- **Modéliser les constructions de maisons de ville à plusieurs logements** avec un coût du terrain par logement clair, une surface de plancher brute (GFA) moyenne par unité et un coût de construction par SQM/SQFT.
+- **Calculer par rétro-ingénierie votre offre maximale acceptable (MAO)** — trouvez le prix d'achat exact du terrain qui transforme une opération déficitaire en opération rentable avant de négocier avec le vendeur.
+- **Repérer tôt les coûts de développement cachés**, notamment les droits de mutation, les contributions communales/municipales, les honoraires professionnels, les aléas de construction, les commissions de vente et les enveloppes financières.
+- **Générer une note d'analyse d'investissement propre d'une page** que vous pouvez partager en toute confiance avec vos prêteurs, courtiers, mentors ou partenaires de co-investissement (JV).
 
-## Pourquoi j'ai construit cet outil d'analyse de risque immobilier
+---
 
-La présélection des opérations d'aménagement en phase amont échoue souvent pour une raison simple : les données d'analyse de risque essentielles sont dispersées.
+## 6 erreurs coûteuses de débutant contre lesquelles ce modèle vous protège
 
-Un prix de terrain traîne dans un fil d'e-mails. Les ventes comparables (comps) se trouvent dans un rapport CMA distinct. Les coûts durs de construction sont envoyés par SMS par un entrepreneur. Les redevances d'urbanisme de la collectivité sont estimées grossièrement sur un carnet. Les coûts de portage financier sont traités comme une marge vague. La décision finale « Go/No-Go » est alors prise à partir d'un tableur fragmenté assemblé manuellement, qui ne montre pas comment ces variables commerciales interagissent dynamiquement.
+Les opérations immobilières en phase amont échouent rarement à cause d'une seule erreur monumentale — elles échouent parce que des coûts essentiels restent éparpillés dans des e-mails, des SMS et des PDF jusqu'à ce qu'il soit trop tard. Voici comment ce modèle remplace les suppositions dispersées par un cadre reproductible :
 
-Cela crée une erreur analytique majeure en capital-investissement immobilier : **optimiser un indicateur unique (comme le prix du terrain) en perdant de vue l'économie globale de l'opération et la structure du capital.**
-
-Un site peut sembler extrêmement bon marché au regard des transactions foncières récentes, mais finit par saigner de l'argent une fois les commissions de vente, les honoraires d'architecte, les aléas obligatoires, les taux de financement mezzanine et les dérives des coûts durs de construction intégrés au pro forma. 
-
-À l'inverse, un site de densification apparemment surévalué peut dégager des rendements considérables, car le zonage à forte densité (rendement) et la tarification premium du produit fini soutiennent l'important effort de capital engagé.
-
-Ce modèle industrialise exactement ce raisonnement institutionnel. 
-
-Par exemple, un projet de quatre maisons de ville peut sembler viable au départ sur la base d'un prix de terrain faible. Mais une fois confronté à des comps de vente au détail et à la pile *complète* des coûts d'aménagement, le POC passe sous le seuil de 20 %. Soudain, la question la plus importante n'est plus « Aimons-nous ce quartier ? » mais plutôt : « À quel prix d'acquisition maximal exact ce projet devient-il un investissement finançable ? »
-
-Ce modèle fonctionne comme un **cadre de présélection d'acquisition de sites reproductible**, et non comme un tableur de faisabilité fragile et à usage unique. Il oblige les promoteurs et les analystes à répondre aux mêmes questions commerciales pour chaque piste hors marché avant d'engager des milliers d'euros dans une étude préalable formelle.
-
-## Défis du secteur résolus : analyse de risque traditionnelle vs. présélection optimisée
-
-| Défi du secteur (point de friction) | Méthodes d'analyse de risque traditionnelles | Processus optimisé de présélection (solution) |
+| Erreur courante qui tue une opération | Ce qui se passe généralement | Comment ce modèle de faisabilité la résout |
 | :--- | :--- | :--- |
-| **Ancrage sur la valeur résiduelle du terrain** | Les décisions d'acquisition de sites sont fortement biaisées par le prix demandé du vendeur ou par le discours du courtier. | Intègre jusqu'à 10 transactions foncières comparables récentes afin d'établir un **point de référence de valeur de marché** strict et fondé sur les données. |
-| **Optimisme sur la Gross Realization Value (GRV)** | Les recettes de sortie du produit fini sont estimées indépendamment de l'absorption du marché local et des plafonds de prix. | Utilise des **ventes résidentielles comparables** vérifiées pour piloter précisément les calculs de réalisation brute et de recettes nettes. |
-| **Accumulation des coûts indirects et des CapEx** | Les droits de mutation, les honoraires d'architecte, les taxes d'urbanisme, les aléas de construction et les intérêts capitalisés sont souvent oubliés ou sous-estimés. | L'ensemble de la **pile de dépenses d'investissement (CapEx) et de coûts indirects** est consolidé dans un pro forma de niveau projet de qualité institutionnelle. |
-| **Cécité à la densité et au rendement** | Les projets multifamiliaux et de lotissement sont jugés uniquement sur les recettes brutes, sans aucune analyse d'efficience. | Calcule le **rendement unitaire strict et l'économie par logement**, révélant exactement comment la base du terrain et les coûts durs se répartissent sur le site. |
-| **Ambiguïté du taux de rendement minimal** | Les comités d'investissement décident si une opération « paraît acceptable » sur la base de biais personnels incohérents et d'objectifs mouvants. | Le POC du projet est benchmarksé mathématiquement par rapport à un **taux de rendement minimal verrouillé**, produisant un verdict standardisé et depourvu d'émotion. |
-| **Négocier sans pro forma** | Les acheteurs soumettent des intentions d'achat (LOI) basses sans savoir si la réduction de prix satisfait effectivement leur ROI minimal. | L'**offre maximale acceptable (MAO)** peut être ajustée dynamiquement, recalculant instantanément l'économie du projet pour déterminer le prix d'acquisition d'équilibre. |
+| **Payer le terrain trop cher** | Se fier au prix demandé par le vendeur ou à une estimation verbale d'un agent. | Enregistre jusqu'à **10 ventes de terrains comparables** pour calculer une référence objective de **valeur résiduelle du terrain** étayée par le marché. |
+| **Compter les ventes brutes comme du bénéfice** | Multiplier le prix unitaire par le nombre d'unités et oublier les frais de vente. | Récupère jusqu'à **10 ventes comparables de biens terminés** pour la **GRV**, puis déduit automatiquement les commissions d'agents et les coûts de marketing/juridique par unité pour révéler la **réalisation nette** réelle. |
+| **Oublier les coûts indirects cachés** | Budgéter uniquement le terrain et la construction en négligeant taxes, frais et marges de sécurité. | Consolide **droits de mutation, construction directe, redevances communales, honoraires d'architecte/professionnels, aléas et coûts de portage financier** dans un pro forma unifié. |
+| **Mal juger la densité des maisons de ville** | Regarder le chiffre d'affaires global sans vérifier l'efficience par unité. | Décompose automatiquement **l'économie par unité**, révélant le coût du terrain par logement et le GFA moyen par maison de ville. |
+| **Se laisser guider par l'émotion** | Se convaincre d'une marge mince parce que le quartier vous plaît. | Compare la **marge sur coûts (POC)** réelle à votre taux de rendement minimal verrouillé (par défaut `25.00%`) pour un verdict objectif `PASS`, `FAIL` ou `PENDING INPUT`. |
+| **Négocier à l'aveugle** | Soumettre une offre basse au hasard sans savoir si elle fonctionne réellement. | Ajustez la cellule du prix d'achat pour voir instantanément votre **prix d'acquisition d'équilibre / cible**, transformant la négociation en simple calcul. |
 
-## Scénarios d'investissement immobilier et cas d'usage de recherche à longue traîne
+---
 
-Ce modèle est volontairement conçu pour couvrir et rationaliser les calculs d'aménagement les plus courants, notamment :
-*   *Comment calculer la marge sur une subdivision de terrain résidentielle.*
-*   *Estimer les coûts durs et indirects pour une construction de maisons de ville à plusieurs logements.*
-*   *Déterminer par rétro-ingénierie la valeur résiduelle du terrain pour des acquisitions de sites hors marché.*
-*   *Créer une note d'investissement immobilier d'une page pour des partenaires en co-investissement (JV).*
-*   *Écarter rapidement les opérations de revente et de spéculation immobilière non viables.*
+## Pas à pas : de l'annonce à la décision en 4 étapes simples
 
-## Pour qui : rôles cibles et usages logiciels recommandés
+Aucune formule complexe à écrire. Aucune macro à activer. **Vous ne saisissez des chiffres que dans les cellules bleu clair — tout le reste se calcule automatiquement et est verrouillé pour protéger les calculs.**
 
-Ce cadre est conçu pour les professionnels de l'immobilier qui exigent de la vitesse et de la précision en début de cycle d'opération :
+### Étape 1 : Définir vos règles de base (une seule fois)
+Ouvrez `01_Global_Settings` pour définir votre devise, votre seuil cible de **marge sur coûts (POC)** (par défaut `25.00%`), le taux de droits de mutation, le pourcentage d'honoraires professionnels, la marge d'aléas de construction et le taux de commission d'agent. Réglez-le une fois, réutilisez-le à chaque opération.
 
-*   **Analystes en acquisitions immobilières** : qui utilisent un *modèle Excel de présélection des opérations d'aménagement* pour filtrer rapidement et quotidiennement le pipeline d'opérations de l'agence.
-*   **Promoteurs immobiliers indépendants** : qui s'appuient sur un *modèle de faisabilité pour maisons de ville* pour évaluer des acquisitions de sites hors marché avant de recruter des architectes.
-*   **Gérants de fonds d'investissement immobilier** : qui déploient un *outil de filtrage des opérations résidentielles* pour standardiser la manière dont les analystes juniors analysent le risque et présentent les nouveaux actifs.
-*   **Courtiers en immobilier commercial (vente de terrains)** : qui s'appuient sur un *outil de calcul de la valeur résiduelle du terrain* pour valider les prix demandés et construire des pitch decks convaincants à l'intention des acquéreurs promoteurs.
-*   **Cabinets d'architecture et d'urbanisme** : qui utilisent un *modèle financier d'usage optimal (highest and best use)* pour démontrer la viabilité commerciale aux côtés des études préliminaires de capacité du site.
+### Étape 2 : Saisir le site et les comparables du marché
+Choisissez l'onglet **Lotissement résidentiel** ou **Développement de maisons de ville** et saisissez :
+- Surface du site, rendement unitaire proposé et surface de plancher brute (GFA) cible
+- Prix d'achat demandé ou cible + enveloppe juridique / due diligence
+- Jusqu'à **10 comparables fonciers récents** et **10 ventes comparables de biens terminés**
+- Taux de construction estimé par SQM/SQFT, contributions communales et enveloppe financière
 
-*Il est particulièrement utile lorsque l'objectif principal est une **présélection rapide des opérations en phase amont**, plutôt que de remplacer une prévision mensuelle de flux de trésorerie très détaillée, une structuration complexe du capital (modèles en cascade) ou l'analyse de risque finale du prêteur.*
+### Étape 3 : Lire votre verdict instantané `PASS` / `FAIL`
+Le tableau de bord se met à jour en temps réel pour afficher le **coût total du projet**, le **bénéfice net de développement**, la **POC obtenue**, l'écart par rapport à votre seuil cible et une décision colorée **`PASS`** (vert) ou **`FAIL`** (rouge). Si `FAIL` s'affiche, baissez la cellule du prix d'achat jusqu'à ce qu'elle bascule sur `PASS` — vous connaissez alors exactement votre offre maximale.
 
-## À propos
+### Étape 4 : Enregistrer votre opération ou exporter un résumé d'une page
+Dans l'application navigateur, exportez une note d'analyse PDF soignée d'une page à partager avec vos partenaires ou courtiers. Lorsque vous êtes prêt à comparer plusieurs sites, à conserver des enregistrements permanents d'opérations et à éviter de ressaisir vos taux de référence à chaque opération, **[téléchargez le classeur Excel gratuit / payez-ce-que-vous-voulez](https://theseusworkshop.com/l/mmabu?utm_source=github&utm_medium=GitHub%20README)**.
 
-Je conçois des outils de suivi légers et des outils d'aide à la décision pour les situations où il y a trop de variables à gérer en même temps.
+---
 
-La question qui sous-tend chaque outil est simple :
+## À qui cet outil est destiné
 
-> **Quelles informations doivent être réunies au même endroit pour prendre la prochaine décision avec confiance ?**
+Ce modèle est conçu pour les praticiens opérationnels qui veulent **une clarté de niveau professionnel en quelques minutes** sans payer pour un logiciel d'entreprise surdimensionné :
 
-L'**Outil de Présélection des Opérations d'Aménagement Immobilier** applique cette approche à la présélection des acquisitions : les données relatives au terrain, les hypothèses d'aménagement, les données de vente, l'exposition aux coûts et la décision d'investissement qui en résulte sont réunies dans un processus reproductible unique.
+- **Promoteurs immobiliers débutants et indépendants** : présélectionnez en toute confiance les terrains hors marché et les petits sites de maisons de ville avant de payer des études de faisabilité architecturales.
+- **Petits constructeurs et marchands de biens qui passent à la densification** : évitez les effondrements de marge dus aux coûts indirects oubliés, aux redevances communales et aux frais de vente.
+- **Analystes acquisitions immobilières et agents / courtiers fonciers** : lancez des filtres d'opérations quotidiens rapides, justifiez le prix des terrains avec de vrais comparables et envoyez des notes d'opération propres aux acheteurs.
+- **Partenaires de co-investissement (JV) et petits investisseurs immobiliers** : effectuez une vérification rapide et indépendante de toute opération de développement qu'on vous présente.
+- **Architectes et planificateurs de sites** : associez vos esquisses précoces de capacité du site à des chiffres rapides de viabilité commerciale.
 
-## Détails techniques
+> **Note honnête de périmètre :** cet outil est conçu spécifiquement pour la **présélection rapide et disciplinée des opérations en phase amont**. Une fois qu'une opération obtient un `PASS`, vous devez quand même poursuivre avec une prévision détaillée des flux de trésorerie mensuels, des devis formels de métreurs et une due diligence complète du prêteur.
+
+---
+
+## Pourquoi cet outil fonctionne (même si vous détestez construire des tableurs)
+
+La plupart des analyses immobilières en phase amont s'effondrent parce que les chiffres sont éparpillés : le prix du terrain dort dans un e-mail, les comparables vivent dans un PDF de courtier, les taux des constructeurs arrivent par SMS et les coûts de financement sont traités comme une vague estimation.
+
+Cela crée un piège classique : **courir après un terrain « bon marché » qui perd en réalité de l'argent une fois les coûts directs, commissions de vente, aléas et financement cumulés** — ou renoncer à un site un peu plus cher où un rendement de maisons de ville plus élevé soutient facilement le prix.
+
+Ce modèle verrouille toutes ces pièces mobiles dans un flux de travail unique et transparent. Vous obtenez la rigueur analytique d'un analyste de développement chevronné avec la vitesse et la simplicité d'un calculateur prêt à l'emploi.
+
+---
+
+## Détails techniques et audit des formules
+
+Vous voulez vérifier les calculs, contrôler l'intégrité des formules ou voir un exemple complet de maisons de ville à 4 unités avant de télécharger ? Dépliez l'audit technique ci-dessous.
 
 <details>
-<summary>Pour les réviseurs techniques, les praticiens d'Excel et les collaborateurs</summary>
+<summary><strong>Cliquez pour déplier : architecture du classeur, exemple détaillé à 4 unités, formules Excel et règles de validation</strong></summary>
 
 ### Architecture du classeur
 
-Le classeur est structuré en quatre feuilles de calcul connectées :
+Le classeur Excel est structuré en quatre feuilles connectées, sans aucun VBA ni macro :
 
-| Feuille               | Rôle               | Responsabilité principale                                                                        |
-| --------------------- | ------------------ | --------------------------------------------------------------------------------------------- |
-| `00_Start_Here`       | Prise en main      | Instructions d'utilisation, légende des couleurs, explication de la méthodologie et exemple de référence complété |
-| `01_Global_Settings`  | Paramètres         | Hypothèses d'investissement centrales, affichage de la devise, taux de rendement minimal et pourcentages de coûts standard |
-| `02_Residential_Deal` | Moteur de décision | Présélection des lotissements résidentiels / du développement de logement individuel                |
-| `03_Townhouse_Deal`   | Moteur de décision | Présélection des projets de maisons de ville à plusieurs logements                                |
+| Feuille | Rôle | Responsabilité principale |
+| :--- | :--- | :--- |
+| `00_Start_Here` | Prise en main | Instructions d'utilisation, légende des couleurs, explication de la méthodologie et exemple de référence complété |
+| `01_Global_Settings` | Paramètres | Hypothèses d'investissement centrales, affichage de la devise, taux de rendement minimaux et pourcentages de coûts standards |
+| `02_Residential_Deal` | Moteur de décision | Présélection des lotissements résidentiels / développements d'habitations individuelles |
+| `03_Townhouse_Deal` | Moteur de décision | Présélection des développements de maisons de ville à plusieurs logements |
 
-L'architecture suit un flux unidirectionnel :
+L'architecture suit un flux strictement unidirectionnel :
 
 ```text
 RAW DEAL INPUTS
-     │
-     ├── Site / Yield / GFA
-     ├── Land Comparables
-     ├── Retail Comparables
-     ├── Acquisition Assumptions
-     └── Development Cost Assumptions
-     │
-     ▼
+     |
+     +-- Site / Yield / GFA
+     +-- Land Comparables
+     +-- Retail Comparables
+     +-- Acquisition Assumptions
+     +-- Development Cost Assumptions
+     |
+     v
 CALCULATION ENGINE
-     │
-     ├── Comparable Market Averages
-     ├── Land Acquisition Cost
-     ├── Gross Realisation
-     ├── Selling Costs
-     ├── Net Realisation
-     ├── Development Costs
-     ├── Finance Allowance
-     └── Total Project Cost
-     │
-     ▼
+     |
+     +-- Comparable Market Averages
+     +-- Land Acquisition Cost
+     +-- Gross Realisation
+     +-- Selling Costs
+     +-- Net Realisation
+     +-- Development Costs
+     +-- Finance Allowance
+     +-- Total Project Cost
+     |
+     v
 DECISION LAYER
-     │
-     ├── Net Development Profit
-     ├── Profit on Cost
-     ├── Target POC
-     └── PASS / FAIL / PENDING INPUT
+     |
+     +-- Net Development Profit
+     +-- Profit on Cost (POC)
+     +-- Target POC Hurdle
+     +-- PASS / FAIL / PENDING INPUT
 ```
 
-Le système sépare volontairement les cellules de saisie déverrouillées des cellules de calcul et de présentation verrouillées. Le classeur est conçu pour empêcher les utilisateurs d'écraser la logique de calcul tout en rendant les hypothèses de l'opération faciles à identifier. 
-
-La structure saisie → calcul → décision reste identique pour les scénarios résidentiel et maisons de ville. La version maisons de ville expose en outre des indicateurs au niveau de l'unité, car le rendement d'aménagement est un élément central de l'économie multifamiliale. 
+Le système sépare délibérément les cellules de saisie déverrouillées des cellules de calcul et de présentation verrouillées, afin que les utilisateurs non techniques ne puissent pas écraser accidentellement les formules tout en gardant chaque hypothèse d'opération facile à modifier.
 
 ### Cadre de décision
 
-La chaîne économique centrale est la suivante :
-
 ```text
 Comparable Land Evidence
-        ↓
+        |
+        v
 Land Market Price Benchmark
-        ↓
+        |
+        v
 Model-Indicated Land Value
-        ↓
-Actual Acquisition Cost
-        ↓
-Development + Finance Costs
-        ↓
-Finished-Property Comparable Evidence
-        ↓
-Gross Realisation
-        ↓
-Selling Costs
-        ↓
-Net Realisation
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Investment Hurdle
-        ↓
-PASS / FAIL
+        |
+        v
+Actual Acquisition Cost  +  Development & Finance Costs
+        |
+        v
+Finished-Property Comparable Evidence -> Gross Realisation -> Less Selling Costs -> Net Realisation
+        |
+        v
+Net Development Profit -> Profit on Cost (POC) vs. Investment Hurdle -> PASS / FAIL
 ```
 
-Le choix de conception important est que **le terrain, les recettes et les coûts d'aménagement ne sont pas évalués comme des questions séparées**. Ils convergent vers un seul test de rentabilité au niveau du projet.
+Terrain, recettes et coûts de développement ne sont jamais évalués isolément — ils convergent vers un test unique de rentabilité au niveau du projet.
 
-### Trois pièges qui piègent même les acquéreurs immobiliers expérimentés
+### Trois pièges qui prennent au dépourvu même les acquéreurs immobiliers expérimentés
 
-#### Piège 1 — Considérer le prix affiché comme la valeur du terrain
-
-**1. Une décision a été prise.**
-
-Une opportunité d'acquisition semble raisonnablement chiffrée par rapport aux attentes du vendeur.
-
-**2. La décision reposait sur une hypothèse erronée passée inaperçue.**
-
-Le prix affiché a été traité comme le repère territorial pertinent sans être normalisé par rapport aux preuves de transactions comparables.
-
-**3. La recommandation change.**
-
-Un projet peut sembler bon marché parce que l'acquéreur le compare à d'autres prix affichés plutôt qu'à des transactions réalisées.
-
-**4. Pourquoi ce raisonnement est incorrect.**
-
-Un prix affiché est une position d'offre. Ce n'est pas nécessairement une preuve de la valeur d'équilibre du marché.
-
-**5. Approche corrigée.**
-
-Utilisez les transactions réelles de terrains comparables pour établir un prix de référence au mètre carré.
-
-**6. Résultat de décision corrigé.**
-
-L'acquisition peut alors être évaluée par rapport à une valeur de terrain étayée par le marché, avant même de considérer l'économie de l'aménagement.
-
-**7. Logique des formules**
+#### Piège 1 — Prendre le prix demandé pour la valeur du terrain
+- **L'erreur :** juger un site « bon marché » par rapport à d'autres prix demandés plutôt qu'à des transactions réalisées.
+- **La correction :** utiliser les ventes réelles de terrains comparables pour calculer une référence de prix au SQM issue du marché, grâce au filtrage dynamique (les lignes vides sont ignorées pour que les cellules vides ne diluent jamais la moyenne).
 
 <details>
-<summary>Calcul du comparable de terrain</summary>
+<summary>Voir la logique des formules des comparables fonciers</summary>
 
 ```excel
 =IF(D14:D23="","",
@@ -250,8 +202,6 @@ L'acquisition peut alors être évaluée par rapport à une valeur de terrain é
    )
 )
 ```
-
-Le modèle ne moyenne ensuite que les valeurs comparables positives et valides :
 
 ```excel
 =IFERROR(
@@ -265,48 +215,18 @@ Le modèle ne moyenne ensuite que les valeurs comparables positives et valides :
 )
 ```
 
-Le repère de marché obtenu sert à indiquer une valeur de terrain fondée sur le modèle :
-
 ```excel
 =ROUND(C5*E24,0)
 ```
 
-La conception de la source utilise explicitement le filtrage dynamique, de sorte que les lignes de comparables vides ne faussent pas la moyenne du marché. 
-
 </details>
 
----
-
-#### Piège 2 — Regarder le chiffre d'affaires brut au lieu de la réalisation nette
-
-**1. Une décision a été prise.**
-
-Un projet de maisons de ville semble très rentable parce que le prix de vente attendu multiplié par le nombre d'unités produit un montant de recettes brutes élevé.
-
-**2. La décision reposait sur un chiffre erroné passé inaperçu.**
-
-Les ventes brutes ont été traitées comme si elles constituaient la trésorerie disponible pour couvrir les coûts d'aménagement.
-
-**3. La recommandation change.**
-
-Une fois déduites les commissions de vente et les coûts de marketing et de juridique par unité, la marge économique peut être sensiblement plus faible.
-
-**4. Pourquoi ce raisonnement est incorrect.**
-
-Le promoteur ne conserve pas la valeur des ventes brutes. Les coûts de distribution et de vente s'intercalent entre le prix de vente affiché et les recettes réellement récupérables par le projet.
-
-**5. Approche corrigée.**
-
-Calculez d'abord la réalisation brute, puis déduisez explicitement les coûts de vente avant de comparer le résultat au coût du projet.
-
-**6. Résultat de décision corrigé.**
-
-Le projet est évalué sur la base de la **réalisation nette**, et non d'un chiffre de recettes brutes optimiste.
-
-**7. Logique des formules**
+#### Piège 2 — Confondre recettes de vente brutes et réalisation nette
+- **L'erreur :** traiter les ventes brutes affichées comme la trésorerie disponible pour payer les coûts du projet.
+- **La correction :** déduire d'abord les commissions d'agents et les frais de marketing/juridique par unité pour établir la **réalisation nette** réelle.
 
 <details>
-<summary>Calcul de la réalisation</summary>
+<summary>Voir la logique des formules de réalisation</summary>
 
 ```excel
 =ROUND(C6*D46,0)
@@ -324,51 +244,18 @@ Le projet est évalué sur la base de la **réalisation nette**, et non d'un chi
 =C50-C53
 ```
 
-Le calcul suit donc la logique suivante :
-
 ```text
-Gross Realisation
-    − Agent Commission
-    − Unit Marketing / Legal Costs
-    = Net Realisation
+Gross Realisation - Agent Commission - Unit Marketing/Legal Costs = Net Realisation
 ```
-
-La spécification de la source définit cela comme la base de la récupération nette du projet, avant déduction des coûts de projet. 
 
 </details>
 
----
-
-#### Piège 3 — Déclarer une opération conforme avant que la pile de coûts soit complète
-
-**1. Une décision a été prise.**
-
-Un projet semble générer une marge acceptable au vu du terrain, de la construction et des ventes attendues.
-
-**2. La décision reposait sur un modèle erroné passé inaperçu.**
-
-Les frais professionnels, les aléas, les contributions à la collectivité, les coûts de vente ou les enveloppes financières ont été omis ou traités séparément.
-
-**3. La recommandation change.**
-
-Le projet peut passer d'un niveau apparemment acceptable à un niveau inférieur au seuil d'investissement dès que la pile de coûts complète est intégrée.
-
-**4. Pourquoi ce raisonnement est incorrect.**
-
-La rentabilité est une relation entre la réalisation nette complète et le besoin total en capital du projet.
-
-**5. Approche corrigée.**
-
-Regroupez l'acquisition du terrain, l'aménagement et l'exposition financière avant de calculer le POC.
-
-**6. Résultat de décision corrigé.**
-
-Seule l'économie de projet complète est confrontée au seuil d'investissement.
-
-**7. Logique des formules**
+#### Piège 3 — Déclarer une opération PASS avant que la pile de coûts soit complète
+- **L'erreur :** omettre les honoraires professionnels, les aléas, les contributions communales ou les enveloppes de financement du premier contrôle de faisabilité.
+- **La correction :** agréger l'acquisition du terrain, l'ensemble des coûts de développement et l'exposition financière avant de comparer la POC au taux minimal (avec `ROUND(...,4)` pour éliminer les erreurs de frontière en virgule flottante).
 
 <details>
-<summary>Moteur de décision au niveau du projet</summary>
+<summary>Voir les formules du moteur de décision au niveau projet</summary>
 
 ```excel
 =C31+C65+C69
@@ -398,162 +285,75 @@ Seule l'économie de projet complète est confrontée au seuil d'investissement.
 )
 ```
 
-Cela produit la séquence de décision suivante :
-
-```text
-Total Project Cost
-        ↓
-Net Development Profit
-        ↓
-Profit on Cost
-        ↓
-Target POC Threshold
-        ↓
-PASS / FAIL
-```
-
-La comparaison `ROUND(...,4)` vise explicitement à éviter les erreurs de frontière en virgule flottante lorsque le POC calculé est proche du seuil. 
-
 </details>
 
-### Exemple de scénario
+### Exemple détaillé (projet de maisons de ville à 4 unités)
 
-Ce qui suit est un **scénario de présélection illustratif**, qui s'appuie sur la méthodologie du classeur et ne représente pas une transaction de marché sourcée.
+Voici un **exemple d'analyse illustratif** montrant comment le modèle révèle une opération structurellement déficitaire avant l'engagement du capital :
 
-Supposons un projet de quatre maisons de ville :
+| Entrée | Valeur illustrative |
+| :--- | ---: |
+| Surface du site | 800 sqm |
+| Unités proposées | 4 |
+| GFA cible | 600 sqm (150 sqm/unit) |
+| Prix d'achat convenu | $900,000 |
+| Frais juridiques / due diligence d'acquisition | $15,000 |
+| Droits de mutation | 5.50% |
+| Valeur moyenne des terrains comparables | $1,150/sqm |
+| Prix moyen de vente des maisons de ville comparables | $650,000/unit |
+| Taux de construction | $2,800/sqm |
+| Contribution communale | $12,000/unit |
+| Honoraires professionnels | 6.00% du coût de construction |
+| Aléas | 5.00% du coût de construction |
+| Enveloppe financière | $100,000 |
+| Commission de vente | 2.20% |
+| Marketing / juridique | $8,000/unit |
+| POC cible | 25.00% |
 
-| Entrée                                          |  Valeur illustrative |
-| --------------------------------------- | ------------------: |
-| Surface du terrain                       |              800 m² |
-| Nombre d'unités proposées                |                   4 |
-| GFA cible                                 |              600 m² |
-| Prix d'achat convenu                      |            $900,000 |
-| Frais juridiques / étude préalable d'acquisition |             $15,000 |
-| Droits de mutation                       |               5.50% |
-| Valeur moyenne des terrains comparables   |           $1,150/m² |
-| Prix de vente moyen des maisons de ville comparables |       $650,000/unit |
-| Taux de construction                      |           $2,800/m² |
-| Contribution à la collectivité            |        $12,000/unit |
-| Frais professionnels                      | 6.00% of build cost |
-| Aléas                                     | 5.00% of build cost |
-| Enveloppe financière                      |            $100,000 |
-| Commission de vente                       |               2.20% |
-| Marketing / juridique                     |         $8,000/unit |
-| POC cible                                 |              25.00% |
-
-Le schéma de quatre unités produit une GFA moyenne de **150 m² par unité**.
-
-Le coût de construction est le suivant :
+**Décomposition automatisée des calculs :**
 
 ```text
-600 m² × $2,800
-= $1,680,000
+Acquisition Cost  = $900,000 + ($900,000 * 5.5%) + $15,000         = $964,500
+Construction Cost = 600 sqm * $2,800                               = $1,680,000
+Council Levies    = 4 * $12,000                                    = $48,000
+Professional Fees = $1,680,000 * 6%                                = $100,800
+Contingency       = $1,680,000 * 5%                                = $84,000
+Finance Allowance = $100,000                                       = $100,000
+------------------------------------------------------------------------------
+Total Project Cost                                                 = $2,977,300
+
+Gross Realisation = 4 * $650,000                                   = $2,600,000
+Selling Costs     = ($2,600,000 * 2.2%) + (4 * $8,000)             = $89,200
+------------------------------------------------------------------------------
+Net Realisation                                                    = $2,510,800
+
+Net Development Profit = $2,510,800 - $2,977,300                   = -$466,500
+Deal Verdict                                                       = FAIL
 ```
 
-Les contributions à la collectivité sont les suivantes :
+**Conclusion :** Même si le prix du terrain ($900,000) semble raisonnable face au référentiel foncier comparable de $920,000 ($1,150/sqm * 800 sqm), la pile complète des coûts prouve que le projet est structurellement déficitaire. Au lieu de deviner, le promoteur sait immédiatement quels leviers — prix du terrain, rendement unitaire, cahier des charges de construction ou prix de sortie — doivent bouger avant de dépenser un seul dollar de plus.
 
-```text
-4 × $12,000
-= $48,000
-```
-
-Les frais professionnels sont les suivants :
-
-```text
-$1,680,000 × 6%
-= $100,800
-```
-
-Les aléas s'élèvent à :
-
-```text
-$1,680,000 × 5%
-= $84,000
-```
-
-Le coût d'acquisition est le suivant :
-
-```text
-$900,000
-+ ($900,000 × 5.5%)
-+ $15,000
-= $964,500
-```
-
-La réalisation brute est la suivante :
-
-```text
-4 × $650,000
-= $2,600,000
-```
-
-Les coûts de vente sont les suivants :
-
-```text
-$2,600,000 × 2.2%
-+ (4 × $8,000)
-= $89,200
-```
-
-La réalisation nette est donc la suivante :
-
-```text
-$2,600,000 − $89,200
-= $2,510,800
-```
-
-Le coût total du projet devient :
-
-```text
-$964,500
-+ $1,680,000
-+ $48,000
-+ $100,800
-+ $84,000
-+ $100,000
-= $2,977,300
-```
-
-Cela produit :
-
-```text
-Net Development Profit
-= $2,510,800 − $2,977,300
-= −$466,500
-```
-
-Le résultat est nettement inférieur au seuil de 25 %.
-
-La conclusion analytique n'est **pas simplement « la construction est trop chère »**. Le cadre de présélection complet montre que le projet est structurellement déficitaire sous ces hypothèses. La question commerciale suivante est de savoir si les hypothèses peuvent réellement évoluer — en particulier le prix d'acquisition, le prix de vente réalisable, le rendement ou le coût de construction — avant que l'opportunité ne mérite un travail approfondi.
-
-C'est exactement là que le modèle de présélection est utile : il transforme une conversation vague du type « les chiffres peuvent peut-être fonctionner » en une décision quantifiée sur l'hypothèse qui doit changer.
-
-### Référence des formules
+### Référence complète des formules
 
 <details>
-<summary>Indicateurs de planification et par unité</summary>
+<summary>Planification et indicateurs par unité</summary>
 
 **GFA moyenne par unité**
-
 ```excel
 =IF(C6>0,ROUND(C7/C6,2),0)
 ```
 
 **Coût du terrain par logement**
-
 ```excel
 =IF(C6>0,ROUND(C31/C6,0),0)
 ```
 
-Ces calculs sont particulièrement pertinents pour le scénario maisons de ville, car le même coût d'acquisition du site est réparti sur le nombre d'unités proposé. 
-
 </details>
 
 <details>
-<summary>Moteur des comparables de terrain</summary>
+<summary>Moteur des comparables fonciers</summary>
 
-**Prix comparable du terrain au mètre carré**
-
+**Prix comparable du terrain au SQM**
 ```excel
 =IF(D14:D23="","",
    IF(ISNUMBER(C14:C23/D14:D23),
@@ -564,7 +364,6 @@ Ces calculs sont particulièrement pertinents pour le scénario maisons de ville
 ```
 
 **Prix moyen des terrains comparables**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -578,20 +377,16 @@ Ces calculs sont particulièrement pertinents pour le scénario maisons de ville
 ```
 
 **Valeur du terrain indiquée par le modèle**
-
 ```excel
 =ROUND(C5*E24,0)
 ```
-
-L'utilisation de `FILTER` signifie que les lignes vides sont exclues au lieu d'être traitées comme des transactions à valeur nulle. 
 
 </details>
 
 <details>
 <summary>Moteur des comparables de vente et de la réalisation</summary>
 
-**Prix de vente comparable au mètre carré**
-
+**Prix de vente comparable au SQM**
 ```excel
 =IF(E36:E45="","",
    IF(ISNUMBER(D36:D45/E36:E45),
@@ -602,7 +397,6 @@ L'utilisation de `FILTER` signifie que les lignes vides sont exclues au lieu d'�
 ```
 
 **Prix unitaire moyen des comparables**
-
 ```excel
 =IFERROR(
    AVERAGE(
@@ -616,56 +410,46 @@ L'utilisation de `FILTER` signifie que les lignes vides sont exclues au lieu d'�
 ```
 
 **Réalisation brute**
-
 ```excel
 =ROUND(C6*D46,0)
 ```
 
 **Commission d'agent**
-
 ```excel
 =ROUND(C50*'01_Global_Settings'!$C$9,0)
 ```
 
 **Coûts de vente totaux**
-
 ```excel
 =C51+(C6*C52)
 ```
 
 **Réalisation nette**
-
 ```excel
 =C50-C53
 ```
 
-La conception de la source traite explicitement la moyenne des biens terminés comparables comme le repère de vente, puis passe de la réalisation brute à la réalisation nette en déduisant les coûts de vente. 
-
 </details>
 
 <details>
-<summary>Moteur des coûts d'aménagement</summary>
+<summary>Moteur des coûts de développement</summary>
 
 **Coût total de construction**
-
 ```excel
 =ROUND(C7*C58,0)
 ```
 
-**Contributions à la collectivité**
-
+**Contributions communales**
 ```excel
 =ROUND(C6*C60,0)
 ```
 
-**Frais professionnels**
-
+**Honoraires professionnels**
 ```excel
 =ROUND(C59*'01_Global_Settings'!$C$7,0)
 ```
 
-**Aléas avec valeur spécifique au projet**
-
+**Aléas avec remplacement au niveau du projet**
 ```excel
 =ROUND(
    C59*IF(
@@ -677,13 +461,10 @@ La conception de la source traite explicitement la moyenne des biens terminés c
 )
 ```
 
-**Coûts d'aménagement totaux**
-
+**Coûts de développement totaux**
 ```excel
 =SUM(C59,C61,C62,C64)
 ```
-
-La logique des aléas est volontairement hiérarchique : un taux spécifique au projet peut remplacer la valeur par défaut globale, tandis que le fait de laisser le champ du projet vide amène le modèle à hériter du paramètre central. 
 
 </details>
 
@@ -691,31 +472,26 @@ La logique des aléas est volontairement hiérarchique : un taux spécifique au 
 <summary>Moteur de décision final</summary>
 
 **Coût total du projet**
-
 ```excel
 =C31+C65+C69
 ```
 
-**Bénéfice net d'aménagement**
-
+**Bénéfice net de développement**
 ```excel
 =C54-C70
 ```
 
-**Profit on Cost**
-
+**Marge sur coûts (Profit on Cost)**
 ```excel
 =IF(C70>0,C71/C70,0)
 ```
 
 **Seuil POC cible**
-
 ```excel
 ='01_Global_Settings'!$C$5
 ```
 
-**Verdict sur l'opération**
-
+**Verdict de l'opération**
 ```excel
 =IF(
    C70=0,
@@ -728,95 +504,112 @@ La logique des aléas est volontairement hiérarchique : un taux spécifique au 
 )
 ```
 
-L'état de décision distingue volontairement un modèle incomplet d'un investissement qui échoue. `PENDING INPUT` n'est donc pas traité comme `FAIL`. 
+</details>
+
+### Règles de validation et protection contre les erreurs
+
+| Champ / Zone | Règle | Comportement en cas d'erreur / de décision |
+| :--- | :--- | :--- |
+| `Site_Area_SQM` | Doit représenter une surface de site positive valide | Des saisies incomplètes empêchent une décision trompeuse |
+| `Proposed_Units_Yield` | Doit être supérieur à zéro pour les indicateurs par unité | Protégé contre les erreurs de division par zéro |
+| `Target_GFA_SQM` | Surface de plancher brute (GFA) totale du développement | Détermine le coût total de construction |
+| Lignes de comparables fonciers et de ventes | Lignes vides ou invalides ignorées via `FILTER` | Les lignes vides ne diluent jamais les moyennes du marché |
+| Prix d'achat | Hypothèse d'acquisition réelle | Détermine le coût d'acquisition et la POC finale |
+| Taux de droits de mutation et de frais | Contrôlés centralement dans `01_Global_Settings` | Appliqués automatiquement dans tous les onglets d'opération |
+| Aléas | Valeur globale par défaut ou remplacement propre au projet | Une cellule projet vide hérite du taux global |
+| Coût du projet | Doit être supérieur à zéro pour la POC | Un coût nul renvoie `PENDING INPUT` (pas `FAIL`) |
+| Comparaison de la POC | Arrondie à 4 décimales avant comparaison | Évite les erreurs de frontière en virgule flottante |
+| Protection du classeur | Cellules de calcul verrouillées par défaut | Empêche la suppression accidentelle de formules |
+
+### Règles visuelles d'utilisation et compatibilité
+
+| État visuel | Signification | Action de l'utilisateur |
+| :--- | :--- | :--- |
+| Bleu clair | Cellule de saisie déverrouillée | Saisir ou modifier les hypothèses de l'opération |
+| Blanc / gris | Cellule de calcul ou d'étiquette verrouillée | Ne pas modifier |
+| Vert | `PASS` | L'opération franchit votre seuil d'investissement |
+| Rouge | `FAIL` | L'opération passe sous votre seuil d'investissement |
+
+- **Plateformes prises en charge :** Microsoft 365, Excel 2021 ou version ultérieure, et Google Sheets.
+- **Conception sans codage en dur ni macro :** entièrement construit avec des formules Excel natives modernes — sûr à ouvrir partout, sans avertissements de sécurité.
 
 </details>
 
-### Règles de validation
+---
 
-| Champ / Domaine         | Règle                                                                | Comportement en cas d'erreur / de décision                              |
-| ---------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `Site_Area_SQM`        | Doit représenter une surface de site valide et positive                            | Des saisies incomplètes empêchent toute décision de projet pertinente    |
-| `Proposed_Units_Yield` | Doit être supérieur à zéro là où des calculs par unité sont requis | Les calculs par unité sont protégés contre la division par zéro |
-| `Target_GFA_SQM`       | Utilisé comme GFA total d'aménagement                                    | Détermine le coût de construction                                   |
-| Lignes de comparables de terrain | Les lignes vides sont ignorées                                               | Les lignes vides ne diluent pas la moyenne du marché                |
-| Surface des terrains comparables   | Nécessaire pour un calcul valide de prix unitaire du terrain                     | Les calculs non valides restent vides                          |
-| Données de ventes comparables   | Uniquement des données de transaction numériques valides                                  | Les lignes non valides / vides sont exclues de la moyenne         |
-| Prix d'achat         | Utilisé comme hypothèse d'acquisition réelle                            | Détermine le coût d'acquisition et le POC final                      |
-| Droits de mutation             | Contrôlé de manière centralisée                                                 | Appliqué automatiquement au prix d'achat                    |
-| Taux de frais professionnels  | Contrôlé de manière centralisée                                                 | Appliqué au coût de construction                                      |
-| Aléas            | Valeur par défaut globale ou valeur spécifique au projet                          | Un taux de projet vide hérite des aléas globaux             |
-| Enveloppe financière      | Saisie explicite au niveau du projet                                               | Inclus dans le coût total du projet                             |
-| Coût du projet           | Doit être supérieur à zéro pour le POC                                    | Un coût nul renvoie `PENDING INPUT` au stade du verdict         |
-| Comparaison du POC         | Arrondie avant la comparaison au seuil                                  | Évite les erreurs de frontière en virgule flottante                    |
-| POC cible             | Seuil d'investissement central                                            | Détermine `PASS` / `FAIL`                                 |
-| Protection du classeur    | Les cellules de calcul restent verrouillées                                      | Empêche l'écrasement accidentel des formules                |
+## À propos de Theseus Workshop
 
-L'implémentation s'appuie sur des zones de calcul verrouillées, des zones de saisie déverrouillées désignées, un filtrage dynamique des données comparables, des protections contre la division par zéro et des états de décision explicites comme éléments de la conception du contrôle des erreurs. 
+Je crée des **boîtes à outils Excel d'aide à la décision, prêtes à l'emploi**, pour des problèmes professionnels réels où il y a trop de paramètres à retenir de tête à la fois — sans vous obliger à apprendre une ingénierie financière complexe ni à payer des abonnements SaaS récurrents.
 
-### Règles d'utilisation du classeur
+Chaque outil part d'une question pratique unique :
 
-Le classeur utilise un langage visuel à trois états :
+> **Quelles informations doivent être réunies au même endroit, bien organisées, pour que vous puissiez prendre la prochaine décision professionnelle en toute confiance ?**
 
-| État visuel | Signification                                 | Action de l'utilisateur                           |
-| ------------ | --------------------------------------- | ------------------------------------- |
-| Bleu clair    | Zone de saisie / déverrouillée                   | Saisir ou modifier les hypothèses de l'opération        |
-| Blanc / gris | Zone de calcul ou de structure / verrouillée | Ne pas modifier                           |
-| Vert        | `PASS`                                  | L'opération franchit le seuil de présélection      |
-| Rouge          | `FAIL`                                  | L'opération passe sous le seuil de présélection |
+Si cet outil gratuit d'analyse d'opérations vous a fait gagner du temps ou vous a évité un mauvais investissement, explorez ci-dessous le reste de la boîte à outils décisionnelle **Theseus Workshop**.
 
-La conception de la source prévoit des cellules de saisie bleu clair, des cellules de calcul verrouillées et une présentation conditionnelle du verdict en vert/rouge, afin de rendre le classeur utilisable par des utilisateurs métier non techniques. 
+---
 
-Pour un usage continu :
+## Plus d'outils décisionnels professionnels prêts à l'emploi
 
-1. Ajoutez les transactions comparables directement dans les lignes de saisie désignées.
-2. Supprimez les données comparables incorrectes en vidant la ligne de saisie correspondante.
-3. Ne copiez pas de formules dans les zones de calcul.
-4. Ne modifiez les hypothèses d'investissement globales que via la zone centrale de paramètres.
-5. Ne supprimez pas la protection des feuilles et n'écrasez pas manuellement les cellules de calcul.
+### Immobilier, promotion et construction
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Une acquisition de résidences collectives crée-t-elle encore de la valeur après travaux et coûts d'exploitation ?
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Combien vaut réellement un bien selon plusieurs méthodes d'évaluation, règles fiscales et scénarios de CapEx ?
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Quelle structure de prêt relais ou de rénovation-revente fonctionne selon différentes hypothèses d'emprunteur et de garanties ?
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Quels chantiers et quels clients sont réellement rentables après les vrais coûts de chantier ?
+- **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — Une construction résidentielle au Royaume-Uni atteindra-t-elle la marge cible une fois les taux des corps d'état, les facteurs de déchets et la logistique de chantier ajustés ?
 
-Les zones de calcul des comparables sont conçues pour absorber un nombre variable d'observations sans maintenance manuelle des formules. 
+### Trésorerie, budget et finance de startup
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Pourquoi la trésorerie est-elle toujours serrée, et quand la liquidité baissera-t-elle la prochaine fois ?
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — Comment les choix d'exploitation et de financement se répercutent-ils sur votre compte de résultat, votre bilan et votre flux de trésorerie ?
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Où les finances personnelles et professionnelles se mélangent-elles ?
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Pouvez-vous financer ce mois-ci vos recrutements et votre marketing sans griller votre piste de trésorerie ?
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — La croissance manquera-t-elle de cash avant que les cohortes de clients ne remboursent ?
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — À combien s'élève réellement la créance de chaque investisseur selon son moment d'entrée et la NAV actuelle ?
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Que doit-on réellement aujourd'hui après des années de transferts informels et d'intérêts cumulés ?
 
-### Notes de plateforme et d'implémentation
+### E-commerce, vente au détail et rentabilité des marketplaces
+- **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Quelles commandes sont réellement rentables après livraison, frais de paiement et commissions de marketplace ?
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Quels engagements de stock et de publicité déclencheront une crise de trésorerie dans les 12 prochaines semaines ?
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Chaque boutique Shopify est-elle réellement rentable une fois les COGS par SKU, les frais bancaires et les OPEX partagés réconciliés ?
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Quels produits et mots-clés ont réellement fait bouger les performances Amazon de cette semaine ?
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Quelle est la vraie marge nette par SKU après fret réel, droits de douane et déductions du distributeur ?
 
-La conception cible :
+### Tarification, production et affectation des coûts
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Quels prix de gros protègent la marge après fret, droits de douane, conditions de paiement et change ?
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Quels SKU sont rentables après main-d'œuvre d'usine, énergie, frais généraux et ingrédients ?
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Que citer à chaque palier de quantité pour rester compétitif et rentable ?
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — La demande réelle a-t-elle suffisamment changé pour justifier un ajustement de prix ?
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Les factures fournisseurs partagées sont-elles affectées équitablement entre entités et actifs opérationnels ?
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Quelle part de la marge du bâtiment est réelle et quelle part est faussée par l'affectation des coûts du siège ?
 
-* **Microsoft 365**
-* **Excel 2021 ou version ultérieure**
-* **Google Sheets**
+### Logistique, commerce transfrontalier et opérations de services
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Quels flux commerciaux transfrontaliers restent rentables après variations de change ?
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Quelles réservations de fret sont réellement bénéficiaires après devises mixtes, frais et coûts de conteneurs ?
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Quels conteneurs et quels clients sont rentables après dédouanement et opérations de flotte ?
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Un café ou une boulangerie est-il réellement rentable après coûts des recettes, main-d'œuvre et charges d'exploitation quotidiennes ?
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Quelles réservations de voyages génèrent un bénéfice net et une trésorerie positive entre devises ?
 
-L'implémentation évite délibérément VBA/macros et s'appuie sur des fonctions de tableur modernes ainsi que sur une logique de tableau dynamique, afin que le classeur puisse rester un simple fichier `.xlsx` plutôt que de dépendre d'une couche d'automatisation propre à une application. 
+---
 
-L'architecture suit également un principe de **zéro codage en dur**. Les hypothèses centrales telles que le symbole de la devise, le seuil POC, les droits de mutation, les frais professionnels, les aléas et la commission d'agent sont centralisées plutôt que répétées sous forme de constantes littérales dans toute la couche de calcul. 
+## Questions, retours et mises à jour du produit
 
-</details>
+Ce dépôt prend en charge l'outil **Real Estate Development Feasibility & Deal Screening Tool**. Utilisez les canaux ci-dessous pour séparer les bugs techniques des questions d'utilisation et des idées de fonctionnalités :
 
-## La logique métier et la méthodologie
+- **Signaler un problème technique reproductible :** [Ouvrir un rapport de bug](https://github.com/HyVoid/real-estate-development-feasibility-excel/issues/new?template=bug-report.yml). Décrivez le flux de travail concerné, l'environnement logiciel et les étapes de reproduction.
+- **Poser une question d'utilisation :** [Q&R de la communauté Theseus Workshop](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Proposer une amélioration ou discuter un cas d'usage :** [Partager une idée](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Suivre les annonces produit :** [Mises à jour du produit](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
 
-Le modèle repose sur un principe commercial simple : **une opération d'aménagement doit être présélectionnée à partir de l'interaction entre les preuves de marché, le prix d'acquisition, le coût d'aménagement et la valeur de sortie réalisable — et non à partir d'un seul chiffre alléchant.**
+### Confidentialité et exemples sûrs
 
-La méthodologie convertit ces intrants en une séquence de questions de plus en plus pertinentes pour la décision.
+Ne publiez pas d'informations confidentielles sur vos clients, fournisseurs, employés, propriétaires, voyageurs, locataires, transactions, réservations, paiements ou toute autre donnée commerciale sensible dans les Issues ou Discussions publiques de GitHub. Ne joignez pas d'exports comptables non anonymisés, de relevés bancaires, de factures, de contrats, de documents d'identité, d'identifiants ou de jeux de données opérationnels complets.
 
-* **L'analyse du marché comparable** établit un point de référence pour le terrain et le produit résidentiel terminé. Cela réduit la dépendance à l'égard des prix demandés, des opinions isolées ou d'une hypothèse de vente unique et optimiste. La décision pratique devient : *La tarification d'acquisition et de sortie proposée est-elle étayée par des preuves de marché observables ?* 
+Utilisez des exemples synthétiques autant que possible. Si un exemple réel est nécessaire, supprimez les identifiants directs et indirects ainsi que les valeurs commercialement sensibles. Les noms de colonnes, quelques lignes d'exemple fabriquées, des ordres de grandeur de lignes, les messages d'erreur exacts et les résultats attendus/obtenus suffisent généralement à reproduire un problème.
 
-* **L'agrégation de l'intégralité des coûts** considère l'acquisition, la construction, les services professionnels, les contributions à la collectivité, les aléas, les coûts de vente et le financement comme un même dossier économique. Cela résout le problème courant d'un projet qui semble rentable parce que des coûts importants restent encore en dehors du calcul affiché.
-
-* **L'analyse de la réalisation nette** sépare les recettes de vente affichées du montant réellement disponible après les coûts de vente et de marketing. Cela rend l'hypothèse de sortie commercialement exploitable plutôt que simplement attirante sur le papier. 
-
-* **La décision fondée sur des seuils** convertit un jugement subjectif du type « ça a l'air rentable » en une règle d'investissement reproductible. Avec un seuil POC par défaut de 25,00%, la même norme peut être appliquée aux opportunités résidentielles et de maisons de ville, tandis que le seuil central peut être modifié lorsque le mandat d'investissement évolue. 
-
-* **La sensibilité au prix d'acquisition par négociation inversée** transforme un résultat de présélection défavorable en question commerciale. Si le projet ne franchit pas le seuil, le prix d'acquisition devient l'une des variables que l'on peut contester, au lieu d'accepter simplement les conditions initiales. La SOP du classeur traite explicitement la réduction du prix d'achat proposé comme une réponse pratique à un résultat `FAIL`. 
-
-Le résultat ne remplace pas une étude préalable complète. C'est un filtre disciplined pour décider **quelles opportunités méritent le niveau de travail suivant**.
-
-## Autres outils de cette série
-
-* **Outils d'aménagement résidentiel** — cadres Excel légers pour estimer, budgéter et piloter l'économie de la construction et de l'aménagement.
-* **Outils d'estimation de construction** — processus de BOQ, de métré, de soumission et de contrôle des coûts fondés sur des décisions de projet reproductibles.
-* **Classeurs d'aide à la décision pour les entreprises** — modèles de tableur réutilisables qui transforment des données opérationnelles fragmentées en règles de décision explicites.
+Pour toute démo gratuite dans le navigateur, ne téléversez pas de données de production avant d'avoir examiné par vous-même les informations actuelles de la démo sur la confidentialité et le traitement des données, et confirmé que son usage est approprié. Ce README ne prétend pas que les données du navigateur sont traitées uniquement sur votre appareil ni qu'elles ne sont jamais transmises ou conservées.
 
 ## Licence
 
 Ce projet est publié sous la **licence Apache 2.0**.
 
-Vous pouvez utiliser, modifier, distribuer et adapter le projet sous réserve des conditions de la licence Apache 2.0.
+Vous pouvez utiliser, modifier, distribuer et adapter le projet conformément aux conditions de la licence Apache 2.0.
